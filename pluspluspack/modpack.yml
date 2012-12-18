@@ -13,6 +13,6 @@ lib-1: &lib-1
 builds:
     0.0.1:
         libraries:
-        minecraft: 1.2.5
+        minecraft: 1.4.5
         mods:
             basemods: pluspluspack-v0.0.1
