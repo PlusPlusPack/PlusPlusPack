@@ -1,0 +1,64 @@
+current: '1.1'
+recommended: '1.1'
+latest: 1.4.5
+versions:
+    1.4.5:
+        jinput: a7835a73a130656aba23e34147a55367
+        lwjgl: 7a07c4285fa9a6b204ba59f011f1cd77
+        lwjgl_util: f00470751cfc093ba760ca3cf10a512c
+        minecraft: b15e2b2b6b4629f0d99a95b6b44412a0
+    1.4.4:
+        jinput: a7835a73a130656aba23e34147a55367
+        lwjgl: 7a07c4285fa9a6b204ba59f011f1cd77
+        lwjgl_util: f00470751cfc093ba760ca3cf10a512c
+        minecraft: 7aa46c8058cba2f38e9d2ddddcc77c72
+    1.4.2:
+        jinput: a7835a73a130656aba23e34147a55367
+        lwjgl: 7a07c4285fa9a6b204ba59f011f1cd77
+        lwjgl_util: f00470751cfc093ba760ca3cf10a512c
+        minecraft: 771175c01778ea67395bc6919a5a9dc5
+    1.3.2:
+        jinput: a7835a73a130656aba23e34147a55367
+        lwjgl: 7a07c4285fa9a6b204ba59f011f1cd77
+        lwjgl_util: f00470751cfc093ba760ca3cf10a512c
+        minecraft: 969699f13e5bbe7f12e40ac4f32b7d9a
+    1.3.1:
+        jinput: a7835a73a130656aba23e34147a55367
+        lwjgl: 7a07c4285fa9a6b204ba59f011f1cd77
+        lwjgl_util: f00470751cfc093ba760ca3cf10a512c
+        minecraft: 266ccbc9798afd2eadf3d6c01b4c562a
+    1.2.5:
+        jinput: a7835a73a130656aba23e34147a55367
+        lwjgl: 7a07c4285fa9a6b204ba59f011f1cd77
+        lwjgl_util: f00470751cfc093ba760ca3cf10a512c
+        minecraft: 8e8778078a175a33603a585257f28563
+    1.2.4:
+        jinput: a7835a73a130656aba23e34147a55367
+        lwjgl: 7a07c4285fa9a6b204ba59f011f1cd77
+        lwjgl_util: f00470751cfc093ba760ca3cf10a512c
+        minecraft: 25423eab6d8707f96cc6ad8a21a7250a
+    1.2.3:
+        jinput: a7835a73a130656aba23e34147a55367
+        lwjgl: 7a07c4285fa9a6b204ba59f011f1cd77
+        lwjgl_util: f00470751cfc093ba760ca3cf10a512c
+        minecraft: 12f6c4b1bdcc63f029e3c088a364b8e4
+    1.2.3hsm:
+        jinput: a7835a73a130656aba23e34147a55367
+        lwjgl: 7a07c4285fa9a6b204ba59f011f1cd77
+        lwjgl_util: f00470751cfc093ba760ca3cf10a512c
+        minecraft: d6049782ccfa198722a0c6b57887a0e2
+    '1.1':
+        jinput: a7835a73a130656aba23e34147a55367
+        lwjgl: 7a07c4285fa9a6b204ba59f011f1cd77
+        lwjgl_util: f00470751cfc093ba760ca3cf10a512c
+        minecraft: e92302d2acdba7c97e0d8df1e10d2006
+    '1.2':
+        jinput: a7835a73a130656aba23e34147a55367
+        lwjgl: 7a07c4285fa9a6b204ba59f011f1cd77
+        lwjgl_util: f00470751cfc093ba760ca3cf10a512c
+        minecraft: 12f6c4b1bdcc63f029e3c088a364b8e4
+    1.0.0:
+        jinput: a7835a73a130656aba23e34147a55367
+        lwjgl: 7a07c4285fa9a6b204ba59f011f1cd77
+        lwjgl_util: f00470751cfc093ba760ca3cf10a512c
+        minecraft: 3820d222b95d0b8c520d9596a756a6e6
