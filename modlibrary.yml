@@ -1,0 +1,9 @@
+mods:
+    basemods:
+        name: "Jar modification Mods"
+        description: "Rest of Mods not yet seperated out"
+        installtype: "zip"
+        modtype: "content"
+        link: ""
+        versions:
+            pluspluspack-v0.0.1:
