@@ -6,4 +6,8 @@ mods:
         modtype: "content"
         link: ""
         versions:
-            pluspluspack-v0.0.1:
+            pluspluspack-RC2.2.8:
+    pluspluspack:
+        installtype: "zip"
+        versions:
+            RC2.2.8:
