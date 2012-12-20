@@ -1,7 +1,7 @@
 launcher: 0.5.0
-current: RC2.2.8
-recommended: RC2.2.8
-latest: RC2.2.8
+current: RC2.2.9
+recommended: RC2.2.9
+latest: RC2.2.9
 lib-1: &lib-1
     commons-io: 2.1
     commons-lang3: 3.1
@@ -11,6 +11,12 @@ lib-1: &lib-1
     snakeyaml: 1.9
     trove4j: 3.0.1
 builds:
+    RC2.2.9:
+        libraries:
+        minecraft: 1.4.5
+        mods:
+            basemods: pluspluspack-RC2.2.8
+            pluspluspack: RC2.2.9
     RC2.2.8:
         libraries:
         minecraft: 1.4.5

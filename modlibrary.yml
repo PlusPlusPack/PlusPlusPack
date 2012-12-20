@@ -11,3 +11,4 @@ mods:
         installtype: "zip"
         versions:
             RC2.2.8:
+            RC2.2.9:
