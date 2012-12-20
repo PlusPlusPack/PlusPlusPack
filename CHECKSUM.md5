@@ -1,9 +1,9 @@
-dd7601c90c820f18fa8e0a5bc11aea0e|atomicpack/modpack.yml
+b182825b4b9579cffb68b891f7668316|atomicpack/modpack.yml
 8c6799ac8c40d9bf3f2d2200aabf1ba8|atomicpack/resources/background.jpg
 625bde4781359198d33e09cfa54ac54e|atomicpack/resources/favicon.png
 d3b716c47d252d0e94103da861119b1d|atomicpack/resources/icon.png
 d1fa4b584ccccb7bb655d74961672e06|atomicpack/resources/logo.png
-e3c5a9e97d71f3b466da9f4697bacbad|CHECKSUM.md5
+abf1b9f1292ab02a8fc36c1b2aa2ce98|CHECKSUM.md5
 4854c2344aa182ad4f37976e83348aa0|Libraries/commons-io/commons-io-2.1.jar
 71b48e6b3e1b1dc73fe705604b9c7584|Libraries/commons-lang3/commons-lang3-3.1.jar
 58b3d877862e49bd5828a73b2c7d1313|Libraries/fastutil/fastutil-6.4.1-int2obj.jar
@@ -40,7 +40,7 @@ ae6d695605990bd2544b358f17b11c28|Libraries/trove4j/trove4j-3.0.1.jar
 a4012cc3e3f4bdbefc40de61fe5dece0|minecraft.yml
 35ea5e0f67dfc69e9f36010d906517f8|mirrors.yml
 0a14fecedc7761d7cb9675e1231d4145|modlibrary.yml
-18c8a2752973694a95f83d5f83c8be99|modpacks.yml
+3f08646ef9177eb92f0f55d9d60b6245|modpacks.yml
 8e91475fe4885a2d2451b097f008d3e3|mods/basemods/basemods-atomicpack-v1.0.zip
 8e91475fe4885a2d2451b097f008d3e3|mods/basemods/basemods-pluspluspack-RC2.2.8.zip
 cb8c840e0c0802ff25e376e33e0b60bf|mods/basemods/basemods-pluspluspack-v0.0.1.zip
