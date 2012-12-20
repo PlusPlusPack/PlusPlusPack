@@ -6,6 +6,7 @@ mods:
         modtype: "content"
         link: ""
         versions:
+            atomicpack-v1.0:
             pluspluspack-RC2.2.8:
     pluspluspack:
         installtype: "zip"
