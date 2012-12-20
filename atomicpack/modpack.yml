@@ -1,7 +1,7 @@
 launcher: 0.5.0
-current: 1.0
-recommended: 1.0
-latest: 1.0
+current: 1.0.0
+recommended: 1.0.0
+latest: 1.0.0
 lib-1: &lib-1
     commons-io: 2.1
     commons-lang3: 3.1
@@ -11,7 +11,7 @@ lib-1: &lib-1
     snakeyaml: 1.9
     trove4j: 3.0.1
 builds:
-    1.0:
+    1.0.0:
         libraries:
         minecraft: 1.4.5
         mods:
