@@ -13,3 +13,11 @@ mods:
         versions:
             RC2.2.8:
             RC2.2.9:
+    z-pluspluspack-configs:
+        installtype: "zip"
+        versions:
+            RC2.2.10:
+    treecapitator:
+        installtype: "zip"
+        versions:
+            v1.4.5.r04:
