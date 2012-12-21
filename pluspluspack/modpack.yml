@@ -1,7 +1,7 @@
 launcher: 0.5.0
-current: RC2.2.10
+current: RC2.2.11
 recommended: RC2.2.10
-latest: RC2.2.10
+latest: RC2.2.11
 lib-1: &lib-1
     commons-io: 2.1
     commons-lang3: 3.1
@@ -11,6 +11,71 @@ lib-1: &lib-1
     snakeyaml: 1.9
     trove4j: 3.0.1
 builds:
+    RC2.2.11:
+        libraries:
+        minecraft: 1.4.5
+        mods:
+            basemods: pluspluspack-RC2.2.8
+            AdditionalPipes: 2.1.3u28b2
+            AtomicScience: 0.2.8.105
+            BetterAnvil: 1.0.0
+            Buildcraft: 3.2.2
+            BuildRegion: 2.0.2
+            cccable: 1.2.1
+            ClaySoldiers: 9.04
+            CodeChickenCore: 0.6.16
+            ComputerCraft: 1.47
+            CraftAndEnchant: 2.6_1.4.5
+            DungeonPack: 1.4.5v1
+            dustmod: 1.1.6
+            EnderStorage: 1.3.0.4
+            EnhancedPortals: 1.3.2
+            EquivalentExchange3: pre1d
+            ExtraBees: 1.4.9.0
+            ExtrabiomesXL: 3.6.0a
+            Factorization: 0.7.7
+            Forestry: 1.6.3.0
+            ICBM: 0.7.3.90
+            ImmibisCore: 51.0.5
+            ImmibisPeripherals: 51.1.1
+            InvTweaks: 1.45
+            IronChest: 4.4.0.194
+            JammyFurniture: 4.1b2
+            LibShapeDraw: 1.3.1
+            LogisticsPipes: 0.6.1.pre.21
+            Mekanism: PRb2v5
+            MekanismGenerators: PRb2v5
+            MekanismTools: PRb2v5
+            MinefactoryReloaded: 1.4.4
+            MobAmputation: 1.4.5v1
+            MobDismemberment: 1.4.4v1
+            Mystcraft: 0.9.4.05
+            NEIPlugins: 1.0.3.6
+            NetherOres: 1.4.4
+            NotEnoughItems: 1.4.3.3
+            Obsidiplates: 1.1.0.2
+            OmniTools: 2.2.2
+            PaintingSelectionGui: 1.4.4.0
+            PamsHarvestcraft: 1.0_1.4.5
+            Portalgun: 1.4.4v0.1
+            ProjectZuluComplete: 0.5.4b
+            Railcraft: 6.10.0.0
+            RecipeRemover: 1.1
+            RopePlus: 1.4.4
+            Rotten Flesh: 1.4.4
+            SecretRooms: 4.4.0.144
+            SoulShards: 1.11
+            Thaumcraft: 3.0.1b
+            ThermalExpansion: 2.1.5
+            Traincraft: 3.1.12_014
+            treecapitator: v1.4.5.r04
+            Tubestuff: 51.0.4
+            Twilightforest: 1.13.2
+            UniversalElectricity: 1.2.0.303
+            ValvePipes: 1.3.2
+            Weaponmod: 1.10
+            WeeeFlowers: 1.0
+            z-pluspluspack-configs: RC2.2.10
     RC2.2.10:
         libraries:
         minecraft: 1.4.5

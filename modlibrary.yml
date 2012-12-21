@@ -8,17 +8,243 @@ mods:
         versions:
             atomicpack-v1.0:
             pluspluspack-RC2.2.8:
-    pluspluspack:
+    AdditionalPipes:
         installtype: "zip"
         versions:
-            RC2.2.8:
-            RC2.2.9:
-            RC2.2.10:
-    z-pluspluspack-configs:
+            2.1.3u28b2:
+    AtomicScience:
         installtype: "zip"
         versions:
-            RC2.2.10:
+            0.2.8.105:
+    BetterAnvil:
+        installtype: "zip"
+        versions:
+            1.0.0:
+    Buildcraft:
+        installtype: "zip"
+        versions:
+            3.2.2:
+    BuildRegion:
+        installtype: "zip"
+        versions:
+            2.0.2:
+    cccable:
+        installtype: "zip"
+        versions:
+            1.2.1:
+    ClaySoldiers:
+        installtype: "zip"
+        versions:
+            9.04:
+    CodeChickenCore:
+        installtype: "zip"
+        versions:
+            0.6.16:
+    ComputerCraft:
+        installtype: "zip"
+        versions:
+            1.47:
+    CraftAndEnchant:
+        installtype: "zip"
+        versions:
+            2.6_1.4.5:
+    DungeonPack:
+        installtype: "zip"
+        versions:
+            1.4.5v1:
+    dustmod:
+        installtype: "zip"
+        versions:
+            1.1.6:
+    EnderStorage:
+        installtype: "zip"
+        versions:
+            1.3.0.4:
+    EnhancedPortals:
+        installtype: "zip"
+        versions:
+            1.3.2:
+    EquivalentExchange3:
+        installtype: "zip"
+        versions:
+            pre1d:
+    ExtraBees:
+        installtype: "zip"
+        versions:
+            1.4.9.0:
+    ExtrabiomesXL:
+        installtype: "zip"
+        versions:
+            3.6.0a:
+    Factorization:
+        installtype: "zip"
+        versions:
+            0.7.7:
+    Forestry:
+        installtype: "zip"
+        versions:
+            1.6.3.0:
+    ICBM:
+        installtype: "zip"
+        versions:
+            0.7.3.90:
+    ImmibisCore:
+        installtype: "zip"
+        versions:
+            51.0.5:
+    ImmibisPeripherals:
+        installtype: "zip"
+        versions:
+            51.1.1:
+    InvTweaks:
+        installtype: "zip"
+        versions:
+            1.45:
+    IronChest:
+        installtype: "zip"
+        versions:
+            4.4.0.194:
+    JammyFurniture:
+        installtype: "zip"
+        versions:
+            4.1b2:
+    LibShapeDraw:
+        installtype: "zip"
+        versions:
+            1.3.1:
+    LogisticsPipes:
+        installtype: "zip"
+        versions:
+            0.6.1.pre.21:
+    Mekanism:
+        installtype: "zip"
+        versions:
+            PRb2v5:
+    MekanismGenerators:
+        installtype: "zip"
+        versions:
+            PRb2v5:
+    MekanismTools:
+        installtype: "zip"
+        versions:
+            PRb2v5:
+    MinefactoryReloaded:
+        installtype: "zip"
+        versions:
+            1.4.4:
+    MobAmputation:
+        installtype: "zip"
+        versions:
+            1.4.5v1:
+    MobDismemberment:
+        installtype: "zip"
+        versions:
+            1.4.4v1:
+    Mystcraft:
+        installtype: "zip"
+        versions:
+            0.9.4.05:
+    NEIPlugins:
+        installtype: "zip"
+        versions:
+            1.0.3.6:
+    NetherOres:
+        installtype: "zip"
+        versions:
+            1.4.4:
+    NotEnoughItems:
+        installtype: "zip"
+        versions:
+            1.4.3.3:
+    Obsidiplates:
+        installtype: "zip"
+        versions:
+            1.1.0.2:
+    OmniTools:
+        installtype: "zip"
+        versions:
+            2.2.2:
+    PaintingSelectionGui:
+        installtype: "zip"
+        versions:
+            1.4.4.0:
+    PamsHarvestcraft:
+        installtype: "zip"
+        versions:
+            1.0_1.4.5:
+    Portalgun:
+        installtype: "zip"
+        versions:
+            1.4.4v0.1:
+    ProjectZuluComplete:
+        installtype: "zip"
+        versions:
+            0.5.4b:
+    Railcraft:
+        installtype: "zip"
+        versions:
+            6.10.0.0:
+    RecipeRemover:
+        installtype: "zip"
+        versions:
+            1.1:
+    RopePlus:
+        installtype: "zip"
+        versions:
+            1.4.4:
+    Rotten Flesh:
+        installtype: "zip"
+        versions:
+            1.4.4:
+    SecretRooms:
+        installtype: "zip"
+        versions:
+            4.4.0.144:
+    SoulShards:
+        installtype: "zip"
+        versions:
+            1.11:
+    Thaumcraft:
+        installtype: "zip"
+        versions:
+            3.0.1b:
+    ThermalExpansion:
+        installtype: "zip"
+        versions:
+            2.1.5:
+    Traincraft:
+        installtype: "zip"
+        versions:
+            3.1.12_014:
     treecapitator:
         installtype: "zip"
         versions:
             v1.4.5.r04:
+    Tubestuff:
+        installtype: "zip"
+        versions:
+            51.0.4:
+    Twilightforest:
+        installtype: "zip"
+        versions:
+            1.13.2:
+    UniversalElectricity:
+        installtype: "zip"
+        versions:
+            1.2.0.303:
+    ValvePipes:
+        installtype: "zip"
+        versions:
+            1.3.2:
+    Weaponmod:
+        installtype: "zip"
+        versions:
+            1.10:
+    WeeeFlowers:
+        installtype: "zip"
+        versions:
+            1.0:
+    z-pluspluspack-configs:
+        installtype: "zip"
+        versions:
+            RC2.2.10:
