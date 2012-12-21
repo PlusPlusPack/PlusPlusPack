@@ -15,7 +15,7 @@ builds:
         libraries:
         minecraft: 1.4.5
         mods:
-            basemods: pluspluspack-RC2.2.10
+            basemods: pluspluspack-RC2.2.8
             pluspluspack: RC2.2.10
             treecapitator: v1.4.5.r04
             z-pluspluspack-configs: RC2.2.10
