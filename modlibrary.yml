@@ -8,6 +8,30 @@ mods:
         versions:
             atomicpack-v1.0:
             pluspluspack-RC2.2.8:
+    buildcraft:
+        installtype: "zip"
+        versions:
+            v3.2.2:
+    forestry:
+        installtype: "zip"
+        versions:
+            v1.6.3.0:
+    ic2:
+        installtype: "zip"
+        versions:
+            v2.1.111:
+    mekanism:
+        installtype: "zip"
+        versions:
+            v1.4.5:
+    treecapitator:
+        installtype: "zip"
+        versions:
+            v1.4.5.r04:
+    universalelectricity:
+        installtype: "zip"
+        versions:
+            v1.2.0.304:
     pluspluspack:
         installtype: "zip"
         versions:
@@ -18,7 +42,7 @@ mods:
         installtype: "zip"
         versions:
             RC2.2.10:
-    treecapitator:
+    z-atomicpack-configs:
         installtype: "zip"
         versions:
-            v1.4.5.r04:
+            v1.0.0:
