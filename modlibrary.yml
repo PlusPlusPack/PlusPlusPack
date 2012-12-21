@@ -196,7 +196,7 @@ mods:
         installtype: "zip"
         versions:
             1.4.4:
-    Rotten Flesh:
+    RottenFlesh:
         installtype: "zip"
         versions:
             1.4.4:
@@ -244,6 +244,10 @@ mods:
         installtype: "zip"
         versions:
             1.0:
+    ic2:
+        installtype: "zip"
+        versions:
+            v2.1.111:
     z-pluspluspack-configs:
         installtype: "zip"
         versions:

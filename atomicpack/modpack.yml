@@ -16,10 +16,10 @@ builds:
         minecraft: 1.4.5
         mods:
             basemods: atomicpack-v1.0
-            buildcraft: v3.2.2
-            forestry: v1.6.3.0
+            Buildcraft: 3.2.2
+            Forestry: 1.6.3.0
             ic2: v2.1.111
-            mekanism: v1.4.5
-            universalelectricity: v1.2.0.304
+            Mekanism: PRb2v5
+            UniversalElectricity: 1.2.0.303
             z-atomicpack-configs: v1.0.0
             
