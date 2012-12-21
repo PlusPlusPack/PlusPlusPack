@@ -8,6 +8,10 @@ mods:
         versions:
             atomicpack-v1.0:
             pluspluspack-RC2.2.8:
+    treecapitator:
+        installtype: "zip"
+        versions:
+            v1.4.5.r04:
     AdditionalPipes:
         installtype: "zip"
         versions:
@@ -216,10 +220,6 @@ mods:
         installtype: "zip"
         versions:
             3.1.12_014:
-    treecapitator:
-        installtype: "zip"
-        versions:
-            v1.4.5.r04:
     Tubestuff:
         installtype: "zip"
         versions:
@@ -248,3 +248,7 @@ mods:
         installtype: "zip"
         versions:
             RC2.2.10:
+    z-atomicpack-configs:
+        installtype: "zip"
+        versions:
+            v1.0.0:
