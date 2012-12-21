@@ -248,6 +248,12 @@ mods:
         installtype: "zip"
         versions:
             v2.1.111:
+    pluspluspack:
+        installtype: "zip"
+        versions:
+            RC2.2.10:
+            RC2.2.9:
+            RC2.2.8:
     z-pluspluspack-configs:
         installtype: "zip"
         versions:
