@@ -1,5 +1,5 @@
 d41d8cd98f00b204e9800998ecf8427e|README.md
-823ec498da7fefb96f014f6ab8469df5|modlibrary.yml
+ade5e8a7ef3a6372b15a0b47ceb0cf93|modlibrary.yml
 7dc6e4a87b11e5e876b04e039ad6fb41|libraries.yml
 c58c04ada125510e4f55c7ba225e00d3|minecraft.yml
 35ea5e0f67dfc69e9f36010d906517f8|mirrors.yml
@@ -34,7 +34,7 @@ d62ff8cd9539a32dac094c00e820e9e6|Libraries/lwjgl/jinput.jar
 71b48e6b3e1b1dc73fe705604b9c7584|Libraries/commons-lang3/commons-lang3-3.1.jar
 d05cd8b0a7ee4466994d64779eb28190|Libraries/guava/guava-10.0.1.jar
 ae6d695605990bd2544b358f17b11c28|Libraries/trove4j/trove4j-3.0.1.jar
-ce7b995109808a7c7d58f596fa73d688|pluspluspack/modpack.yml
+f6da7c92607695df685b7d1b807651af|pluspluspack/modpack.yml
 82aca6d971f3d4b5bc638cd95892a41d|pluspluspack/resources/logo.png
 4414ce7f3da117b613ab152a4bed33af|pluspluspack/resources/background.jpg
 401cc30df498940e8e559404d9ff88ab|pluspluspack/resources/favicon.png
@@ -133,6 +133,15 @@ a4604296375aecca9b363f4bf123a87a|mods/EnderStorage/EnderStorage-v1.3.1.0.zip
 9374e3f8a2919ad83f3678d24f5b4aab|mods/SoulShards/SoulShards-v1.13.zip
 f4346e9a24ad7a23cfec7302ce5b637b|mods/AtomicScience/AtomicScience-v0.2.9.109.zip
 a82049ba8a713b11f09a59410667c14f|mods/Factorization/Factorization-v0.7.10.zip
-f954c344fcd86b381d5d82b05d97d7de|mods/z-pluspluspack-configs/z-pluspluspack-configs-v3.0.0.zip
+fe56a4fbfc2b28b8e935363c56703773|mods/z-pluspluspack-configs/z-pluspluspack-configs-v3.0.0.zip
 b58b06e49cd4c9b4c2b6c17b665158a5|mods/ICBM/ICBM-v0.7.3.99.zip
 560b5be916539f1090b51bb4b92de196|mods/RedPower/RedPower-v2.0.6.zip
+780af022e2b2697c94023a0f6e8399eb|mods/AdditionalPipes/AdditionalPipes-v2.1.3u36b.zip
+df154933b2e5fa0b4ed9ed544a2c648d|mods/LogisticsPipes/LogisticsPipes-v0.6.9.32.zip
+58fb58b956479b24dc95efb1a0dc0c12|mods/OmniTools/OmniTools-v2.2.3.zip
+12e844a03a868a8ecbaab6666a52d4e3|mods/ProjectZuluComplete/ProjectZuluComplete-v0.6.0.zip
+2082f213116b351ecc37b7b9ee94557a|mods/Railcraft/Railcraft-v6.12.0.0.zip
+4cc04cba87a0be4bdf56443f717af789|mods/RecipeRemover/RecipeRemover-v1.1-b.zip
+77c2ee910082d238c2632b5cd94fa276|mods/RopePlus/RopePlus-v1.4.6.zip
+5879794dce5bc65638e1ff828f1f98a2|mods/Thaumcraft/Thaumcraft-v3.0.1c.zip
+74f033f4cfc97c15d893808ce8c1308a|mods/ThermalExpansion/ThermalExpansion-v2.1.6.zip
