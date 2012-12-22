@@ -1,5 +1,5 @@
 d41d8cd98f00b204e9800998ecf8427e|README.md
-ade5e8a7ef3a6372b15a0b47ceb0cf93|modlibrary.yml
+10e17366110f1805e83d2542989de9ce|modlibrary.yml
 7dc6e4a87b11e5e876b04e039ad6fb41|libraries.yml
 c58c04ada125510e4f55c7ba225e00d3|minecraft.yml
 35ea5e0f67dfc69e9f36010d906517f8|mirrors.yml
@@ -34,7 +34,7 @@ d62ff8cd9539a32dac094c00e820e9e6|Libraries/lwjgl/jinput.jar
 71b48e6b3e1b1dc73fe705604b9c7584|Libraries/commons-lang3/commons-lang3-3.1.jar
 d05cd8b0a7ee4466994d64779eb28190|Libraries/guava/guava-10.0.1.jar
 ae6d695605990bd2544b358f17b11c28|Libraries/trove4j/trove4j-3.0.1.jar
-f6da7c92607695df685b7d1b807651af|pluspluspack/modpack.yml
+077c64e7fa7de610bf3f54c4c9f61949|pluspluspack/modpack.yml
 82aca6d971f3d4b5bc638cd95892a41d|pluspluspack/resources/logo.png
 4414ce7f3da117b613ab152a4bed33af|pluspluspack/resources/background.jpg
 401cc30df498940e8e559404d9ff88ab|pluspluspack/resources/favicon.png
@@ -146,3 +146,4 @@ df154933b2e5fa0b4ed9ed544a2c648d|mods/LogisticsPipes/LogisticsPipes-v0.6.9.32.zi
 5879794dce5bc65638e1ff828f1f98a2|mods/Thaumcraft/Thaumcraft-v3.0.1c.zip
 74f033f4cfc97c15d893808ce8c1308a|mods/ThermalExpansion/ThermalExpansion-v2.1.6.zip
 182e9b15872d9e5803dbdf756e765129|mods/ReiMinimap/ReiMinimap-v3.2_06.zip
+b8aca13d0fabe31b58580e7e7b55a75c|mods/ExtrabiomesXL/ExtrabiomesXL-v3.7.0a.zip
