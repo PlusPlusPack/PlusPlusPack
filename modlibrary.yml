@@ -8,6 +8,7 @@ mods:
         versions:
             atomicpack-v1.0:
             pluspluspack-RC2.2.8:
+            pluspluspack-v3.0.0:
     treecapitator:
         installtype: "zip"
         versions:
@@ -20,6 +21,7 @@ mods:
         installtype: "zip"
         versions:
             0.2.8.105:
+            v0.2.9.109:
     BetterAnvil:
         installtype: "zip"
         versions:
@@ -28,6 +30,7 @@ mods:
         installtype: "zip"
         versions:
             3.2.2:
+            v3.3.0:
     BuildRegion:
         installtype: "zip"
         versions:
@@ -48,6 +51,7 @@ mods:
         installtype: "zip"
         versions:
             1.47:
+            v1.48pr2:
     CraftAndEnchant:
         installtype: "zip"
         versions:
@@ -64,6 +68,7 @@ mods:
         installtype: "zip"
         versions:
             1.3.0.4:
+            v1.3.1.0:
     EnhancedPortals:
         installtype: "zip"
         versions:
@@ -80,18 +85,22 @@ mods:
         installtype: "zip"
         versions:
             3.6.0a:
+            v3.7.0:
     Factorization:
         installtype: "zip"
         versions:
             0.7.7:
+            v0.7.10:
     Forestry:
         installtype: "zip"
         versions:
             1.6.3.0:
+            v1.6.3.9:
     ICBM:
         installtype: "zip"
         versions:
             0.7.3.90:
+            v0.7.3.99:
     ImmibisCore:
         installtype: "zip"
         versions:
@@ -108,6 +117,7 @@ mods:
         installtype: "zip"
         versions:
             4.4.0.194:
+            v4.5.1.199:
     JammyFurniture:
         installtype: "zip"
         versions:
@@ -160,6 +170,7 @@ mods:
         installtype: "zip"
         versions:
             1.4.3.3:
+            v1.4.4.0:
     Obsidiplates:
         installtype: "zip"
         versions:
@@ -204,10 +215,12 @@ mods:
         installtype: "zip"
         versions:
             4.4.0.144:
+            v4.4.1.158:
     SoulShards:
         installtype: "zip"
         versions:
             1.11:
+            v1.13:
     Thaumcraft:
         installtype: "zip"
         versions:
@@ -258,6 +271,7 @@ mods:
         installtype: "zip"
         versions:
             RC2.2.10:
+            v3.0.0:
     z-atomicpack-configs:
         installtype: "zip"
         versions:

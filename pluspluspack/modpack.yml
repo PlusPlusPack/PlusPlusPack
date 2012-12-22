@@ -11,6 +11,24 @@ lib-1: &lib-1
     snakeyaml: 1.9
     trove4j: 3.0.1
 builds:
+    3.0.0:
+        libraries:
+        minecraft: 1.4.6
+        mods:
+            basemods: pluspluspack-v3.0.0
+            AtomicScience: v0.2.9.109
+            Buildcraft: v3.3.0
+            ComputerCraft: v1.48pr2
+            EnderStorage: v1.3.1.0
+            ExtrabiomesXL: v3.7.0
+            Factorization: v0.7.10
+            Forestry: v1.6.3.9
+            ICBM: v0.7.3.99
+            IronChest: v4.5.1.199
+            NotEnoughItems: v1.4.4.0
+            SecretRooms: v4.4.1.158
+            SoulShards: v1.13
+            z-pluspluspack-configs: v3.0.0
     RC2.2.11:
         libraries:
         minecraft: 1.4.5
