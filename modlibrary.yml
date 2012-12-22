@@ -47,6 +47,7 @@ mods:
         installtype: "zip"
         versions:
             0.6.16:
+            v0.7.0.0:
     ComputerCraft:
         installtype: "zip"
         versions:

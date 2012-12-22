@@ -1,5 +1,5 @@
 d41d8cd98f00b204e9800998ecf8427e|README.md
-2af7ae788c7e99fd800644a378ef2c1c|modlibrary.yml
+4a0ffbb0beda871c999c7d39009fe15a|modlibrary.yml
 7dc6e4a87b11e5e876b04e039ad6fb41|libraries.yml
 c58c04ada125510e4f55c7ba225e00d3|minecraft.yml
 35ea5e0f67dfc69e9f36010d906517f8|mirrors.yml
@@ -34,7 +34,7 @@ d62ff8cd9539a32dac094c00e820e9e6|Libraries/lwjgl/jinput.jar
 71b48e6b3e1b1dc73fe705604b9c7584|Libraries/commons-lang3/commons-lang3-3.1.jar
 d05cd8b0a7ee4466994d64779eb28190|Libraries/guava/guava-10.0.1.jar
 ae6d695605990bd2544b358f17b11c28|Libraries/trove4j/trove4j-3.0.1.jar
-a5a3250ffc8ab0d6324bd4c9f385403e|pluspluspack/modpack.yml
+b19d57f9e4ae8729f5fe479bb337b341|pluspluspack/modpack.yml
 82aca6d971f3d4b5bc638cd95892a41d|pluspluspack/resources/logo.png
 4414ce7f3da117b613ab152a4bed33af|pluspluspack/resources/background.jpg
 401cc30df498940e8e559404d9ff88ab|pluspluspack/resources/favicon.png
@@ -121,7 +121,7 @@ d6a7d9b6b8eba144307d7ff1d40e3958|mods/BetterAnvil/BetterAnvil-1.0.0.rar
 1d6d8873a141f0d40c4127e7d2a0fe4c|mods/JammyFurniture/JammyFurniture-4.1b2.rar
 a4eafde61558530da8412fe4d26dc1ba|mods/z-atomicpack-configs/z-atomicpack-configs-v1.0.0.zip
 058f7d60a65e1725117021ecae8ddec8|mods/basemods/basemods-pluspluspack-v3.3.0.zip
-f6a5530d01a3c7505fc200eb9c971624|mods/CodeChickenCore/CodeChickenCore-0.6.16.zip
+f0758ddeb242c915ea6d2d8d4622647d|mods/CodeChickenCore/CodeChickenCore-v0.7.0.0.zip
 464ceab14654f8097676b473dfd83e2a|mods/NotEnoughItems/NotEnoughItems-v1.4.4.0.zip
 f0bc0f8fc59134e6c174bc16cc7553ed|mods/ComputerCraft/ComputerCraft-v1.48pr2.zip
 b5e5c11da043e4d2f15154ec460b09db|mods/IronChest/IronChest-v4.5.1.199.zip
@@ -135,3 +135,4 @@ f4346e9a24ad7a23cfec7302ce5b637b|mods/AtomicScience/AtomicScience-v0.2.9.109.zip
 a82049ba8a713b11f09a59410667c14f|mods/Factorization/Factorization-v0.7.10.zip
 8548c39307f2bb3f6c753eef3e9ad7cc|mods/z-pluspluspack-configs/z-pluspluspack-configs-v3.0.0.zip
 b58b06e49cd4c9b4c2b6c17b665158a5|mods/ICBM/ICBM-v0.7.3.99.zip
+

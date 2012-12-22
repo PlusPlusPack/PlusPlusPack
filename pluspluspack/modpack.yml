@@ -18,6 +18,7 @@ builds:
             basemods: pluspluspack-v3.0.0
             AtomicScience: v0.2.9.109
             Buildcraft: v3.3.0
+            CodeChickenCore: v0.7.0.0
             ComputerCraft: v1.48pr2
             EnderStorage: v1.3.1.0
             ExtrabiomesXL: v3.7.0
