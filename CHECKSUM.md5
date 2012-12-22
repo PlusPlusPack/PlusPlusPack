@@ -1,5 +1,5 @@
 d41d8cd98f00b204e9800998ecf8427e|README.md
-4a0ffbb0beda871c999c7d39009fe15a|modlibrary.yml
+823ec498da7fefb96f014f6ab8469df5|modlibrary.yml
 7dc6e4a87b11e5e876b04e039ad6fb41|libraries.yml
 c58c04ada125510e4f55c7ba225e00d3|minecraft.yml
 35ea5e0f67dfc69e9f36010d906517f8|mirrors.yml
@@ -34,7 +34,7 @@ d62ff8cd9539a32dac094c00e820e9e6|Libraries/lwjgl/jinput.jar
 71b48e6b3e1b1dc73fe705604b9c7584|Libraries/commons-lang3/commons-lang3-3.1.jar
 d05cd8b0a7ee4466994d64779eb28190|Libraries/guava/guava-10.0.1.jar
 ae6d695605990bd2544b358f17b11c28|Libraries/trove4j/trove4j-3.0.1.jar
-b19d57f9e4ae8729f5fe479bb337b341|pluspluspack/modpack.yml
+ce7b995109808a7c7d58f596fa73d688|pluspluspack/modpack.yml
 82aca6d971f3d4b5bc638cd95892a41d|pluspluspack/resources/logo.png
 4414ce7f3da117b613ab152a4bed33af|pluspluspack/resources/background.jpg
 401cc30df498940e8e559404d9ff88ab|pluspluspack/resources/favicon.png
@@ -133,6 +133,6 @@ a4604296375aecca9b363f4bf123a87a|mods/EnderStorage/EnderStorage-v1.3.1.0.zip
 9374e3f8a2919ad83f3678d24f5b4aab|mods/SoulShards/SoulShards-v1.13.zip
 f4346e9a24ad7a23cfec7302ce5b637b|mods/AtomicScience/AtomicScience-v0.2.9.109.zip
 a82049ba8a713b11f09a59410667c14f|mods/Factorization/Factorization-v0.7.10.zip
-8548c39307f2bb3f6c753eef3e9ad7cc|mods/z-pluspluspack-configs/z-pluspluspack-configs-v3.0.0.zip
+78d19be60fc5e42ac26548a836be727e|mods/z-pluspluspack-configs/z-pluspluspack-configs-v3.0.0.zip
 b58b06e49cd4c9b4c2b6c17b665158a5|mods/ICBM/ICBM-v0.7.3.99.zip
-
+560b5be916539f1090b51bb4b92de196|mods/RedPower/RedPower-v2.0.6.zip

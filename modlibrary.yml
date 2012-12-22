@@ -204,6 +204,10 @@ mods:
         installtype: "zip"
         versions:
             1.1:
+    RedPower:
+        installtype: "zip"
+        versions:
+            v2.0.6:
     RopePlus:
         installtype: "zip"
         versions:
