@@ -85,6 +85,7 @@ mods:
         installtype: "zip"
         versions:
             1.4.9.0:
+            v1.4.9.3-prerelease:
     ExtrabiomesXL:
         installtype: "zip"
         versions:
