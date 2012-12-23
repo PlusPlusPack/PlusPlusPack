@@ -81,6 +81,7 @@ mods:
         installtype: "zip"
         versions:
             pre1d:
+            vpre2-unofficial:
     ExtraBees:
         installtype: "zip"
         versions:

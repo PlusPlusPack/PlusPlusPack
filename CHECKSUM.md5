@@ -1,5 +1,5 @@
 d41d8cd98f00b204e9800998ecf8427e|README.md
-c0b6cf26334692fec145f2e29e0b8dd1|modlibrary.yml
+706f462de848dee9c0157cfe93641b17|modlibrary.yml
 7dc6e4a87b11e5e876b04e039ad6fb41|libraries.yml
 c58c04ada125510e4f55c7ba225e00d3|minecraft.yml
 35ea5e0f67dfc69e9f36010d906517f8|mirrors.yml
@@ -34,7 +34,7 @@ d62ff8cd9539a32dac094c00e820e9e6|Libraries/lwjgl/jinput.jar
 71b48e6b3e1b1dc73fe705604b9c7584|Libraries/commons-lang3/commons-lang3-3.1.jar
 d05cd8b0a7ee4466994d64779eb28190|Libraries/guava/guava-10.0.1.jar
 ae6d695605990bd2544b358f17b11c28|Libraries/trove4j/trove4j-3.0.1.jar
-49f7ca50dd41b1146134bef0c2d2c477|pluspluspack/modpack.yml
+bf7501224ea4074497fd33a949433843|pluspluspack/modpack.yml
 82aca6d971f3d4b5bc638cd95892a41d|pluspluspack/resources/logo.png
 4414ce7f3da117b613ab152a4bed33af|pluspluspack/resources/background.jpg
 401cc30df498940e8e559404d9ff88ab|pluspluspack/resources/favicon.png
@@ -159,4 +159,4 @@ a33efdf4333bed1efad498cdb2bd4f4a|mods/NEI-ThermalExpansion/NEI-ThermalExpansion-
 355c8f6300c4102093c947e5e0dda565|mods/WeeeFlowers/WeeeFlowers-v1.0b.zip
 229fc5444d7ea64b1f38670d232cd129|mods/cccable/cccable-v1.3.0.zip
 e4a7c57f4079fa5bfe6fd44167ccefda|mods/ExtraBees/ExtraBees-v1.4.9.3-prerelease.zip
-
+f395151824a71bcab47e0983d14002bf|mods/EquivalentExchange3/EquivalentExchange3-vpre2-unofficial.zip
