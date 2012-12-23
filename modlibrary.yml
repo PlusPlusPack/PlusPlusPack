@@ -40,6 +40,7 @@ mods:
         installtype: "zip"
         versions:
             1.2.1:
+            v1.3.0:
     ClaySoldiers:
         installtype: "zip"
         versions:
@@ -54,6 +55,7 @@ mods:
         versions:
             1.47:
             v1.48pr2:
+            v1.48:
     CraftAndEnchant:
         installtype: "zip"
         versions:
@@ -99,6 +101,7 @@ mods:
         versions:
             1.6.3.0:
             v1.6.3.9:
+            v1.6.4.0:
     ICBM:
         installtype: "zip"
         versions:
@@ -125,6 +128,7 @@ mods:
         installtype: "zip"
         versions:
             4.1b2:
+            v4.0:
     LibShapeDraw:
         installtype: "zip"
         versions:
@@ -162,6 +166,10 @@ mods:
         installtype: "zip"
         versions:
             0.9.4.05:
+    NEI-ThermalExpansion:
+        installtype: "zip"
+        versions:
+            v2.1.6:
     NEIPlugins:
         installtype: "zip"
         versions:
@@ -179,6 +187,7 @@ mods:
         installtype: "zip"
         versions:
             1.1.0.2:
+            v1.2.0.3:
     OmniTools:
         installtype: "zip"
         versions:
@@ -192,6 +201,7 @@ mods:
         installtype: "zip"
         versions:
             1.0_1.4.5:
+            v1.0_1.4.6:
     Portalgun:
         installtype: "zip"
         versions:
@@ -238,6 +248,7 @@ mods:
         versions:
             1.11:
             v1.13:
+            v1.14:
     Thaumcraft:
         installtype: "zip"
         versions:
@@ -260,10 +271,12 @@ mods:
         installtype: "zip"
         versions:
             1.13.2:
+            v1.14.0:
     UniversalElectricity:
         installtype: "zip"
         versions:
             1.2.0.303:
+            v1.2.1.314:
     ValvePipes:
         installtype: "zip"
         versions:
@@ -276,6 +289,7 @@ mods:
         installtype: "zip"
         versions:
             1.0:
+            v1.0b:
     ic2:
         installtype: "zip"
         versions:

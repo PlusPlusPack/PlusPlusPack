@@ -19,17 +19,22 @@ builds:
             AdditionalPipes: v2.1.3u36b
             AtomicScience: v0.2.9.109
             Buildcraft: v3.3.0
+            cccable: v1.3.0
             CodeChickenCore: v0.7.0.0
-            ComputerCraft: v1.48pr2
+            ComputerCraft: v1.48
             EnderStorage: v1.3.1.0
             ExtrabiomesXL: v3.7.0a
             Factorization: v0.7.10
-            Forestry: v1.6.3.9
+            Forestry: v1.6.4.0
             ICBM: v0.7.3.99
             IronChest: v4.5.1.199
+            JammyFurniture: v4.0
             LogisticsPipes: v0.6.9.32
+            NEI-ThermalExpansion: v2.1.6
             NotEnoughItems: v1.4.4.0
+            Obsidiplates: v1.2.0.3
             OmniTools: v2.2.3
+            PamsHarvestcraft: v1.0_1.4.6
             ProjectZuluComplete: v0.6.0
             Railcraft: v6.12.0.0
             RecipeRemover: v1.1-b
@@ -37,9 +42,12 @@ builds:
             ReiMinimap: v3.2_06
             RopePlus: v1.4.6
             SecretRooms: v4.4.1.158
-            SoulShards: v1.13
+            SoulShards: v1.14
             Thaumcraft: v3.0.1c
             ThermalExpansion: v2.1.6
+            TwilightForest: v1.14.0
+            UniversalElectricity: v1.2.1.314
+            WeeeFlowers: v1.0b
             z-pluspluspack-configs: v3.0.0
     RC2.2.11:
         libraries:
