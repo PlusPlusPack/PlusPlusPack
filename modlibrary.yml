@@ -104,6 +104,7 @@ mods:
             1.6.3.0:
             v1.6.3.9:
             v1.6.4.0:
+            v1.6.4.1:
     ICBM:
         installtype: "zip"
         versions:
@@ -279,6 +280,7 @@ mods:
         versions:
             1.2.0.303:
             v1.2.1.314:
+            v1.2.1.315:
     ValvePipes:
         installtype: "zip"
         versions:
