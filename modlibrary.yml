@@ -23,6 +23,7 @@ mods:
         versions:
             0.2.8.105:
             v0.2.9.109:
+            v0.3.0.118:
     BetterAnvil:
         installtype: "zip"
         versions:
@@ -50,6 +51,7 @@ mods:
         versions:
             0.6.16:
             v0.7.0.0:
+            v0.7.0.1:
     ComputerCraft:
         installtype: "zip"
         versions:
@@ -110,6 +112,7 @@ mods:
         versions:
             0.7.3.90:
             v0.7.3.99:
+            v1.0.0.111:
     ImmibisCore:
         installtype: "zip"
         versions:
@@ -157,6 +160,7 @@ mods:
         installtype: "zip"
         versions:
             1.4.4:
+            v1.4.6:
     MobAmputation:
         installtype: "zip"
         versions:
@@ -177,6 +181,7 @@ mods:
         installtype: "zip"
         versions:
             1.0.3.6:
+            v1.0.4.1:
     NetherOres:
         installtype: "zip"
         versions:
@@ -266,6 +271,7 @@ mods:
         installtype: "zip"
         versions:
             3.1.12_014:
+            v3.1.13_010:
     Tubestuff:
         installtype: "zip"
         versions:
@@ -281,6 +287,7 @@ mods:
             1.2.0.303:
             v1.2.1.314:
             v1.2.1.315:
+            v1.2.1.317:
     ValvePipes:
         installtype: "zip"
         versions:

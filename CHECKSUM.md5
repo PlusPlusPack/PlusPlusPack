@@ -1,5 +1,5 @@
 d41d8cd98f00b204e9800998ecf8427e|README.md
-919e402b2e782f93a8e7588b63b600f1|modlibrary.yml
+eb9548ac75e0239c12a5371cdbb19ef1|modlibrary.yml
 7dc6e4a87b11e5e876b04e039ad6fb41|libraries.yml
 c58c04ada125510e4f55c7ba225e00d3|minecraft.yml
 35ea5e0f67dfc69e9f36010d906517f8|mirrors.yml
@@ -34,7 +34,7 @@ d62ff8cd9539a32dac094c00e820e9e6|Libraries/lwjgl/jinput.jar
 71b48e6b3e1b1dc73fe705604b9c7584|Libraries/commons-lang3/commons-lang3-3.1.jar
 d05cd8b0a7ee4466994d64779eb28190|Libraries/guava/guava-10.0.1.jar
 ae6d695605990bd2544b358f17b11c28|Libraries/trove4j/trove4j-3.0.1.jar
-479c35a95efcd74b480380eb299c40dc|pluspluspack/modpack.yml
+a727dafaef0b52a7702546ab64068183|pluspluspack/modpack.yml
 82aca6d971f3d4b5bc638cd95892a41d|pluspluspack/resources/logo.png
 4414ce7f3da117b613ab152a4bed33af|pluspluspack/resources/background.jpg
 401cc30df498940e8e559404d9ff88ab|pluspluspack/resources/favicon.png
@@ -162,3 +162,12 @@ e4a7c57f4079fa5bfe6fd44167ccefda|mods/ExtraBees/ExtraBees-v1.4.9.3-prerelease.zi
 f395151824a71bcab47e0983d14002bf|mods/EquivalentExchange3/EquivalentExchange3-vpre2-unofficial.zip
 a812b081025e98301b271ec410166b6d|mods/Forestry/Forestry-v1.6.4.1.zip
 b7ec892e0c4052e8e123f488da3c5a7e|mods/UniversalElectricity/UniversalElectricity-v1.2.1.315.zip
+470d925af9b79c4a9ba9b99f8bc58ca0|mods/AtomicScience/AtomicScience-v0.3.0.118.zip
+26370e8c09f4ba1c8272e86aa24dc540|mods/CodeChickenCore/CodeChickenCore-v0.7.0.1.zip
+085402d2027c5b644bfaa4a99a176409|mods/ICBM/ICBM-v1.0.0.111.zip
+135ec697a15eed3231bfbc838a8a079f|mods/MinefactoryReloaded/MinefactoryReloaded-v1.4.6.zip
+d80cf48b0c4ca11e4ca431f676e5ecec|mods/NEIPlugins/NEIPlugins-v1.0.4.1.zip
+2028b83fa1a6cf54ec20b0226204bbf4|mods/NetherOres/NetherOres-v1.4.6.zip
+e8351a13638fabdf00987697fc6018b7|mods/Portalgun/Portalgun-v1.4.6v1.zip
+2a849855616c606a022213987473662b|mods/Traincraft/Traincraft-v3.1.13_010.zip
+5a3eb23e6366793f49b559dee1114f38|mods/UniversalElectricity/UniversalElectricity-v1.2.1.317.zip

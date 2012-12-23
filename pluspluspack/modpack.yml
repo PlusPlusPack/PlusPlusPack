@@ -17,7 +17,7 @@ builds:
         mods:
             basemods: pluspluspack-v3.0.0
             AdditionalPipes: v2.1.3u36b
-            AtomicScience: v0.2.9.109
+            AtomicScience: v0.3.0.118
             Buildcraft: v3.3.0
             cccable: v1.3.0
             CodeChickenCore: v0.7.0.0
@@ -28,13 +28,17 @@ builds:
             EquivalentExchange: vpre2-unofficial
             Factorization: v0.7.10
             Forestry: v1.6.4.1
-            ICBM: v0.7.3.99
+            ICBM: v1.0.0.111
             IronChest: v4.5.1.199
             JammyFurniture: v4.0
             LogisticsPipes: v0.6.9.32
+            MinefactoryReloaded: v1.4.6
+            NEIPlugins: v1.0.4.1
+            NetherOres: v1.4.6
             Obsidiplates: v1.2.0.3
             OmniTools: v2.2.3
             PamsHarvestcraft: v1.0_1.4.6
+            Portalgun: v1.4.6v1
             ProjectZuluComplete: v0.6.0
             Railcraft: v6.12.0.0
             RecipeRemover: v1.1-b
@@ -45,8 +49,9 @@ builds:
             SoulShards: v1.14
             Thaumcraft: v3.0.1c
             ThermalExpansion: v2.1.6
+            Traincraft: v3.1.13_010
             TwilightForest: v1.14.0
-            UniversalElectricity: v1.2.1.315
+            UniversalElectricity: v1.2.1.317
             WeeeFlowers: v1.0b
             z-pluspluspack-configs: v3.0.0
     RC2.2.11:
