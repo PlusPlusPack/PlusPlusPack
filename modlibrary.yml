@@ -186,6 +186,7 @@ mods:
         installtype: "zip"
         versions:
             1.4.4:
+            v1.4.6:
     NotEnoughItems:
         installtype: "zip"
         versions:
