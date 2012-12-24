@@ -215,6 +215,7 @@ mods:
         installtype: "zip"
         versions:
             1.4.4v0.1:
+            v1.4.6v1:
     ProjectZuluComplete:
         installtype: "zip"
         versions:
