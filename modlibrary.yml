@@ -13,6 +13,7 @@ mods:
         installtype: "zip"
         versions:
             v1.4.5.r04:
+            v1.4.6.r01:
     AdditionalPipes:
         installtype: "zip"
         versions:
@@ -24,10 +25,12 @@ mods:
             0.2.8.105:
             v0.2.9.109:
             v0.3.0.118:
+            v0.3.0.121:
     BetterAnvil:
         installtype: "zip"
         versions:
             1.0.0:
+            v1.4.6:
     Buildcraft:
         installtype: "zip"
         versions:
@@ -46,6 +49,7 @@ mods:
         installtype: "zip"
         versions:
             9.04:
+            v9.05:
     CodeChickenCore:
         installtype: "zip"
         versions:
@@ -84,11 +88,13 @@ mods:
         versions:
             pre1d:
             vpre2-unofficial:
+            vpre1e:
     ExtraBees:
         installtype: "zip"
         versions:
             1.4.9.0:
             v1.4.9.3-prerelease:
+            v1.4.9.5-prerelease:
     ExtrabiomesXL:
         installtype: "zip"
         versions:
@@ -100,6 +106,7 @@ mods:
         versions:
             0.7.7:
             v0.7.10:
+            v0.7.10-2:
     Forestry:
         installtype: "zip"
         versions:
@@ -113,6 +120,7 @@ mods:
             0.7.3.90:
             v0.7.3.99:
             v1.0.0.111:
+            v1.0.0.115:
     ImmibisCore:
         installtype: "zip"
         versions:
@@ -125,11 +133,13 @@ mods:
         installtype: "zip"
         versions:
             1.45:
+            v1.46:
     IronChest:
         installtype: "zip"
         versions:
             4.4.0.194:
             v4.5.1.199:
+            v4.5.1.200:
     JammyFurniture:
         installtype: "zip"
         versions:
@@ -144,18 +154,22 @@ mods:
         versions:
             0.6.1.pre.21:
             v0.6.9.32:
+            v0.6.9.37:
     Mekanism:
         installtype: "zip"
         versions:
             PRb2v5:
+            v5.0.1:
     MekanismGenerators:
         installtype: "zip"
         versions:
             PRb2v5:
+            v5.0.1:
     MekanismTools:
         installtype: "zip"
         versions:
             PRb2v5:
+            v5.0.1:
     MinefactoryReloaded:
         installtype: "zip"
         versions:
@@ -165,14 +179,17 @@ mods:
         installtype: "zip"
         versions:
             1.4.5v1:
+            v1.4.6v1:
     MobDismemberment:
         installtype: "zip"
         versions:
             1.4.4v1:
+            v1.4.6v1:
     Mystcraft:
         installtype: "zip"
         versions:
             0.9.4.05:
+            v0.9.5.00:
     NEI-ThermalExpansion:
         installtype: "zip"
         versions:
@@ -202,6 +219,7 @@ mods:
         versions:
             2.2.2:
             v2.2.3:
+            v2.2.5:
     PaintingSelectionGui:
         installtype: "zip"
         versions:
@@ -226,6 +244,7 @@ mods:
         versions:
             6.10.0.0:
             v6.12.0.0:
+            v6.12.2.0:
     RecipeRemover:
         installtype: "zip"
         versions:
@@ -290,10 +309,12 @@ mods:
             v1.2.1.314:
             v1.2.1.315:
             v1.2.1.317:
+            v1.2.1.318:
     ValvePipes:
         installtype: "zip"
         versions:
             1.3.2:
+            v1.4.6:
     Weaponmod:
         installtype: "zip"
         versions:
@@ -303,6 +324,10 @@ mods:
         versions:
             1.0:
             v1.0b:
+    WR-CBE:
+        installtype: "zip"
+        versions:
+            v1.3.2:
     ic2:
         installtype: "zip"
         versions:
