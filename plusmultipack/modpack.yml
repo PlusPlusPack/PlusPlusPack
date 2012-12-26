@@ -1,7 +1,7 @@
 launcher: 0.5.0
-current: RC2.2.11
+current: RC2.2.10
 recommended: RC2.2.10
-latest: RC2.2.11
+latest: 3.0.0
 lib-1: &lib-1
     commons-io: 2.1
     commons-lang3: 3.1
@@ -15,7 +15,7 @@ builds:
         libraries:
         minecraft: 1.4.6
         mods:
-            basemods: pluspluspack-v3.0.0
+            basemods: plusmultipack-v3.0.0
             AdditionalPipes: v2.1.3u36b
             AtomicScience: v0.3.0.121
             BetterAnvil: v1.4.6
@@ -62,12 +62,12 @@ builds:
             ValvePipes: v1.4.6
             WeeeFlowers: v1.0b
             WR-CBE: v1.3.2
-            z-pluspluspack-configs: v3.0.0
+            z-plusmultipack-configs: v3.0.0
     RC2.2.11:
         libraries:
         minecraft: 1.4.5
         mods:
-            basemods: pluspluspack-RC2.2.8
+            basemods: plusmultipack-RC2.2.8
             AdditionalPipes: 2.1.3u28b2
             AtomicScience: 0.2.8.105
             BetterAnvil: 1.0.0
@@ -127,25 +127,25 @@ builds:
             ValvePipes: 1.3.2
             Weaponmod: 1.10
             WeeeFlowers: 1.0
-            z-pluspluspack-configs: RC2.2.10
+            z-plusmultipack-configs: RC2.2.10
     RC2.2.10:
         libraries:
         minecraft: 1.4.5
         mods:
-            basemods: pluspluspack-RC2.2.8
-            pluspluspack: RC2.2.10
+            basemods: plusmultipack-RC2.2.8
+            plusmultipack: RC2.2.10
             treecapitator: v1.4.5.r04
-            z-pluspluspack-configs: RC2.2.10
+            z-plusmultipack-configs: RC2.2.10
     RC2.2.9:
         libraries:
         minecraft: 1.4.5
         mods:
-            basemods: pluspluspack-RC2.2.8
-            pluspluspack: RC2.2.9
+            basemods: plusmultipack-RC2.2.8
+            plusmultipack: RC2.2.9
     RC2.2.8:
         libraries:
         minecraft: 1.4.5
         mods:
-            basemods: pluspluspack-RC2.2.8
-            pluspluspack: RC2.2.8
+            basemods: plusmultipack-RC2.2.8
+            plusmultipack: RC2.2.8
 

@@ -7,8 +7,8 @@ mods:
         link: ""
         versions:
             atomicpack-v1.0:
-            pluspluspack-RC2.2.8:
-            pluspluspack-v3.0.0:
+            plusmultipack-RC2.2.8:
+            plusmultipack-v3.0.0:
     treecapitator:
         installtype: "zip"
         versions:
@@ -332,13 +332,13 @@ mods:
         installtype: "zip"
         versions:
             v2.1.111:
-    pluspluspack:
+    plusmultipack:
         installtype: "zip"
         versions:
             RC2.2.10:
             RC2.2.9:
             RC2.2.8:
-    z-pluspluspack-configs:
+    z-plusmultipack-configs:
         installtype: "zip"
         versions:
             RC2.2.10:
