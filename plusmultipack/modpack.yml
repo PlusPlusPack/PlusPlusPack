@@ -19,6 +19,7 @@ builds:
             AdditionalPipes: v2.1.3u36b
             AtomicScience: v0.3.0.121
             BetterAnvil: v1.4.6
+            BetterStorage: v0.3.4
             Buildcraft: v3.3.0
             cccable: v1.3.0
             ClaySoldiers: v9.05
@@ -39,6 +40,7 @@ builds:
             Mekanism: v5.0.1
             MekanismGenerators: v5.0.1
             MekanismTools: v5.0.1
+            MineChem: v2.0.0pr2
             MinefactoryReloaded: v1.4.6
             MobAmputation: v1.4.6v1
             MobDismemberment: v1.4.6v1
@@ -48,7 +50,7 @@ builds:
             Obsidiplates: v1.2.0.3
             OmniTools: v2.2.5
             PamsHarvestcraft: v1.0_1.4.6
-            Portalgun: v1.4.6v1
+            Portalgun: v1.4.6v2
             ProjectZuluComplete: v0.6.0
             Railcraft: v6.12.2.0
             RecipeRemover: v1.1-b

@@ -31,6 +31,10 @@ mods:
         versions:
             1.0.0:
             v1.4.6:
+    BetterStorage:
+        installtype: "zip"
+        versions:
+            v0.3.4:
     Buildcraft:
         installtype: "zip"
         versions:
@@ -178,6 +182,10 @@ mods:
         versions:
             PRb2v5:
             v5.0.1:
+    MineChem:
+        installtype: "zip"
+        versions:
+            v2.0.0pr2:
     MinefactoryReloaded:
         installtype: "zip"
         versions:
@@ -246,6 +254,7 @@ mods:
         versions:
             1.4.4v0.1:
             v1.4.6v1:
+            v1.4.6v2:
     ProjectZuluComplete:
         installtype: "zip"
         versions:
