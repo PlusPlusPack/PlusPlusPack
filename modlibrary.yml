@@ -74,6 +74,10 @@ mods:
         installtype: "zip"
         versions:
             1.1.6:
+    ElectricExpansion:
+        installtype: "zip"
+        versions:
+            v1.0.4:
     EnderStorage:
         installtype: "zip"
         versions:
@@ -107,6 +111,10 @@ mods:
             0.7.7:
             v0.7.10:
             v0.7.10-2:
+    FlansMod:
+        installtype: "zip"
+        versions:
+            v2.0:
     Forestry:
         installtype: "zip"
         versions:
@@ -185,6 +193,10 @@ mods:
         versions:
             1.4.4v1:
             v1.4.6v1:
+    ModularForceFieldSystem:
+        installtype: "zip"
+        versions:
+            v2.2.8.2.13:
     Mystcraft:
         installtype: "zip"
         versions:
@@ -267,6 +279,7 @@ mods:
         installtype: "zip"
         versions:
             1.4.4:
+            v1.4.6:
     SecretRooms:
         installtype: "zip"
         versions:
