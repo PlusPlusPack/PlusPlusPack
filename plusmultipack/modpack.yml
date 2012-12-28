@@ -17,29 +17,28 @@ builds:
         mods:
             basemods: plusmultipack-v3.0.0
             AdditionalPipes: v2.1.3u36b
-            AtomicScience: v0.3.0.121
+            AtomicScience: v0.3.0.122
             BetterAnvil: v1.4.6
             BetterStorage: v0.3.4
             Buildcraft: v3.3.0
             cccable: v1.3.0
             ClaySoldiers: v9.05
             CodeChickenCore: v0.7.0.1
-            ComputerCraft: v1.48
-            ElectricExpansion: v1.0.4
-            EnderStorage: v1.3.1.0
+            ComputerCraft: v1.481
+            ElectricExpansion: v1.0.5
+            EnderStorage: v1.3.1.1
             ExtrabiomesXL: v3.7.0a
             EquivalentExchange3: vpre1e
-            ExtraBees: v1.4.9.5-prerelease
+            ExtraBees: v1.4.9.6-prerelease
             Factorization: v0.7.10-2
-            FlansMod: v2.0
             Forestry: v1.6.4.1
             ICBM: v1.0.0.115
-            IronChest: v4.5.1.200
+            IronChest: v4.5.1.204
             JammyFurniture: v4.0
-            LogisticsPipes: v0.6.9.37
-            Mekanism: v5.0.1
-            MekanismGenerators: v5.0.1
-            MekanismTools: v5.0.1
+            LogisticsPipes: v0.6.9.43
+            Mekanism: v5.0.2
+            MekanismGenerators: v5.0.2
+            MekanismTools: v5.0.2
             MineChem: v2.0.0pr2
             MinefactoryReloaded: v1.4.6
             MobAmputation: v1.4.6v1
@@ -47,11 +46,12 @@ builds:
             ModularForceFieldSystem: v2.2.8.2.13
             Mystcraft: v0.9.5.00
             NetherOres: v1.4.6
+            NotEnoughItems: v1.4.4.0
             Obsidiplates: v1.2.0.3
             OmniTools: v2.2.5
             PamsHarvestcraft: v1.0_1.4.6
             Portalgun: v1.4.6v2
-            ProjectZuluComplete: v0.6.0
+            ProjectZuluComplete: v0.6.0b
             Railcraft: v6.12.2.0
             RecipeRemover: v1.1-b
             RedPower: v2.0.6
@@ -59,15 +59,15 @@ builds:
             RopePlus: v1.4.6
             RottenFlesh: v1.4.6
             SecretRooms: v4.4.1.158
-            SoulShards: v1.14
+            SoulShards: v1.19
             Thaumcraft: v3.0.1c
             ThermalExpansion: v2.1.6
             Traincraft: v3.1.13_010
             Twilightforest: v1.14.0
-            UniversalElectricity: v1.2.1.318
+            UniversalElectricity: v1.2.1.320
             ValvePipes: v1.4.6
             WeeeFlowers: v1.0b
-            WR-CBE: v1.3.2
+            WR-CBE: v1.3.2.2
             z-plusmultipack-configs: v3.0.0
     RC2.2.11:
         libraries:

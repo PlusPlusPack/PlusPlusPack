@@ -1,5 +1,5 @@
 d41d8cd98f00b204e9800998ecf8427e|README.md
-6a8bcf18e564672c6c8951fe3bd42526|modlibrary.yml
+22458cb210996fd31d75cb41816333c3|modlibrary.yml
 7dc6e4a87b11e5e876b04e039ad6fb41|libraries.yml
 c58c04ada125510e4f55c7ba225e00d3|minecraft.yml
 35ea5e0f67dfc69e9f36010d906517f8|mirrors.yml
@@ -34,7 +34,7 @@ d62ff8cd9539a32dac094c00e820e9e6|Libraries/lwjgl/jinput.jar
 71b48e6b3e1b1dc73fe705604b9c7584|Libraries/commons-lang3/commons-lang3-3.1.jar
 d05cd8b0a7ee4466994d64779eb28190|Libraries/guava/guava-10.0.1.jar
 ae6d695605990bd2544b358f17b11c28|Libraries/trove4j/trove4j-3.0.1.jar
-82112715f45802100ae3eea907bf0b44|plusmultipack/modpack.yml
+bd8dcd22d7dc4f4dd27bb40eb55f7f17|plusmultipack/modpack.yml
 82aca6d971f3d4b5bc638cd95892a41d|plusmultipack/resources/logo.png
 4414ce7f3da117b613ab152a4bed33af|plusmultipack/resources/background.jpg
 401cc30df498940e8e559404d9ff88ab|plusmultipack/resources/favicon.png
@@ -120,7 +120,7 @@ d6a7d9b6b8eba144307d7ff1d40e3958|mods/BetterAnvil/BetterAnvil-1.0.0.rar
 9722b7a576975dea24ea6dcd6f091d1b|mods/ThermalExpansion/ThermalExpansion-2.1.5.zip
 1d6d8873a141f0d40c4127e7d2a0fe4c|mods/JammyFurniture/JammyFurniture-4.1b2.rar
 a4eafde61558530da8412fe4d26dc1ba|mods/z-atomicpack-configs/z-atomicpack-configs-v1.0.0.zip
-0c6f2f19575a0f9241a32bee8360efbd|mods/basemods/basemods-plusmultipack-v3.0.0.zip
+aee757b32bb1097ded86cd83c373875d|mods/basemods/basemods-plusmultipack-v3.0.0.zip
 f0758ddeb242c915ea6d2d8d4622647d|mods/CodeChickenCore/CodeChickenCore-v0.7.0.0.zip
 464ceab14654f8097676b473dfd83e2a|mods/NotEnoughItems/NotEnoughItems-v1.4.4.0.zip
 f0bc0f8fc59134e6c174bc16cc7553ed|mods/ComputerCraft/ComputerCraft-v1.48pr2.zip
@@ -201,3 +201,18 @@ f1a3e1d1b8fbe0fbdfe6d5b023b0b794|mods/BetterStorage/BetterStorage-v0.3.4.zip
 d734a9b4f610ed48f696ec71b18cc64a|mods/MineChem/MineChem-v2.0.0pr2.zip
 273d8df7b5d4650f66fca4614975eea1|mods/Portalgun/Portalgun-v1.4.6v2.zip
 1f91f2897279cb63c125d93e16511df3|mods/RottenFlesh/RottenFlesh-v1.4.6.zip
+4874979c6793ca0d9b00149bfde81ad9|mods/AtomicScience/AtomicScience-v0.3.0.122.zip
+56fddacd0a13a55d6d65d2051a006d1f|mods/ComputerCraft/ComputerCraft-v1.481.zip
+f1d8e4e8025445c06e76ce1364171ab9|mods/ElectricExpansion/ElectricExpansion-v1.0.5.zip
+e41e91b5bcc1b449977a89fe0dc346d6|mods/EnderStorage/EnderStorage-v1.3.1.1.zip
+9ff021d3a0f65056eb1c02a451721f63|mods/ExtraBees/ExtraBees-v1.4.9.6-prerelease.zip
+ab7dc6f8c1b3f5842a5a0056123dd2af|mods/IronChest/IronChest-v4.5.1.204.zip
+4c7a2a6f9a251a309eb8182931e05d9e|mods/LogisticsPipes/LogisticsPipes-v0.6.9.43.zip
+592e141d7b6004dbfc9a869a851063a2|mods/Mekanism/Mekanism-v5.0.2.zip
+5602b95c557e167c3b4c8b482cd8b8c3|mods/MekanismGenerators/MekanismGenerators-v5.0.2.zip
+4415e4b371239da51184d7d8a069a4e4|mods/MekanismTools/MekanismTools-v5.0.2.zip
+8c11c3420bbdd4f054ece5ffdbfd78e8|mods/MiscPeripherals/MiscPeripherals-v2.3.zip
+22096fa7b82563f552ae3ccb4ebf7ba2|mods/ProjectZuluComplete/ProjectZuluComplete-v0.6.0b.zip
+8d77ecb9e38f617e3b221b4c6d89bce0|mods/SoulShards/SoulShards-v1.19.zip
+3dc42dbf7e1bb119b419e12acca25dec|mods/UniversalElectricity/UniversalElectricity-v1.2.1.320.zip
+5afcaf719e57e5f54edfcffca635d762|mods/WR-CBE/WR-CBE-v1.3.2.2.zip
