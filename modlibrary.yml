@@ -358,6 +358,7 @@ mods:
         installtype: "zip"
         versions:
             1.10:
+            v1.10-2:
     WeeeFlowers:
         installtype: "zip"
         versions:
