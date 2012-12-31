@@ -426,8 +426,8 @@ mods:
         versions:
             v1.0.0:
             v2.0.0:
+            v2.0.1:
     atomicpack:
         installtype: "zip"
         versions:
             v2.0.0:
-            v2.0.1:
