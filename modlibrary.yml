@@ -50,6 +50,10 @@ mods:
         versions:
             1.2.1:
             v1.3.0:
+    ChickenChunks:
+        installtype: "zip"
+        versions:
+            v1.2.1.1:
     ClaySoldiers:
         installtype: "zip"
         versions:
@@ -61,6 +65,10 @@ mods:
             0.6.16:
             v0.7.0.0:
             v0.7.0.1:
+    compactsolars:
+        installtype: "zip"
+        versions:
+            v3.2.0.21:
     ComputerCraft:
         installtype: "zip"
         versions:
@@ -131,6 +139,10 @@ mods:
             v1.6.3.9:
             v1.6.4.0:
             v1.6.4.1:
+    GraviSuite:
+        installtype: "zip"
+        versions:
+            v1.6:
     ICBM:
         installtype: "zip"
         versions:
@@ -219,6 +231,7 @@ mods:
         installtype: "zip"
         versions:
             v2.2.8.2.13:
+            v2.2.8.2.14:
     Mystcraft:
         installtype: "zip"
         versions:
@@ -233,6 +246,10 @@ mods:
         versions:
             1.0.3.6:
             v1.0.4.1:
+    NEIRedPowerPlugin:
+        installtype: "zip"
+        versions:
+            v1.4.3:
     NetherOres:
         installtype: "zip"
         versions:
@@ -243,6 +260,10 @@ mods:
         versions:
             1.4.3.3:
             v1.4.4.0:
+    NuclearControl:
+        installtype: "zip"
+        versions:
+            v1.4.5:
     Obsidiplates:
         installtype: "zip"
         versions:
@@ -316,6 +337,11 @@ mods:
             v1.13:
             v1.14:
             v1.19:
+            v1.21:
+    StevesCarts:
+        installtype: "zip"
+        versions:
+            v2.0.0.a41:
     Thaumcraft:
         installtype: "zip"
         versions:
@@ -325,6 +351,10 @@ mods:
         installtype: "zip"
         versions:
             2.1.5:
+            v2.1.6:
+    ThermalExpansionNEI:
+        installtype: "zip"
+        versions:
             v2.1.6:
     Traincraft:
         installtype: "zip"
@@ -369,16 +399,22 @@ mods:
         versions:
             v1.3.2:
             v1.3.2.2:
+            v1.3.2.4:
     ic2:
         installtype: "zip"
         versions:
             v2.1.111:
+            v2.1.112.170:
     plusmultipack:
         installtype: "zip"
         versions:
             RC2.2.10:
             RC2.2.9:
             RC2.2.8:
+    xycraft:
+        installtype: "zip"
+        versions:
+            v0.9.44:
     z-plusmultipack-configs:
         installtype: "zip"
         versions:
@@ -388,3 +424,8 @@ mods:
         installtype: "zip"
         versions:
             v1.0.0:
+            v2.0.0:
+    atomicpack:
+        installtype: "zip"
+        versions:
+            v2.0.0:
