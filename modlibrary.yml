@@ -10,6 +10,7 @@ mods:
             atomicpack-v2.0.0:
             plusmultipack-RC2.2.8:
             plusmultipack-v3.0.0:
+            plussigmapack-v1.0.0:
     treecapitator:
         installtype: "zip"
         versions:
