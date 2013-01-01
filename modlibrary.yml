@@ -103,7 +103,7 @@ mods:
         versions:
             2.6_1.4.5:
     DoubleDoor:
-        installtype:"zip"
+        installtype: "zip"
         versions:
             v4.4:
     DungeonPack:
