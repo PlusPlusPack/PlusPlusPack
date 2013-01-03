@@ -1,7 +1,7 @@
 launcher: 0.5.0
-current: 2.0.1
-recommended: 2.0.1
-latest: 2.0.1
+current: 2.0.2
+recommended: 2.0.2
+latest: 2.0.2
 lib-1: &lib-1
     commons-io: 2.1
     commons-lang3: 3.1
@@ -11,6 +11,47 @@ lib-1: &lib-1
     snakeyaml: 1.9
     trove4j: 3.0.1
 builds:
+    2.0.2:
+        libraries:
+        minecraft: 1.4.6
+        mods:
+            basemods: atomicpack-v2.0.0
+            atomicpack: v2.0.0
+            Buildcraft: v3.3.0
+            ChickenChunks: v1.2.1.1
+            compactsolars: v3.2.0.21
+            ComputerCraft: v1.481
+            EnderStorage: v1.3.1.1
+            ExtrabiomesXL: v3.7.0
+            Factorization: v0.7.10
+            Forestry: v1.6.4.1
+            NuclearControl: v1.4.5
+            ic2: v2.1.112.170
+            InvTweaks: v1.46
+            IronChest: v4.5.1.204
+            MiscPeripherals: v2.3
+            GraviSuite: v1.6
+            ModularForceFieldSystem: v2.2.8.2.14
+            Mystcraft: v0.9.5.00
+            NEIRedPowerPlugin: v1.4.3
+            NEIPlugins: v1.0.4.1
+            Obsidiplates: v1.2.0.3
+            OmniTools: v2.2.5
+            Portalgun: v1.4.6v2
+            ProjectZuluComplete: v0.6.1
+            Railcraft: v6.12.2.0
+            RedPower: v2.0.6
+            ReiMinimap: v3.2_06
+            SoulShards: v1.21
+            StevesCarts: v2.0.0.a41
+            Thaumcraft: v3.0.1c
+            ThermalExpansion: v2.1.6
+            ThermalExpansionNEI: v2.1.6
+            treecapitator: v1.4.6.r01
+            Twilightforest: v1.14.0
+            WR-CBE: v1.3.2.4
+            xycraft: v0.9.44
+            z-atomicpack-configs: v2.0.2
     2.0.1:
         libraries:
         minecraft: 1.4.6

@@ -1,9 +1,9 @@
-c227b0ec88d11a6bc5c8d849e7a3dbb5|atomicpack/modpack.yml
+e19dc40471cf7e85fe17b5172c43736b|atomicpack/modpack.yml
 8c6799ac8c40d9bf3f2d2200aabf1ba8|atomicpack/resources/background.jpg
 625bde4781359198d33e09cfa54ac54e|atomicpack/resources/favicon.png
 d3b716c47d252d0e94103da861119b1d|atomicpack/resources/icon.png
 d1fa4b584ccccb7bb655d74961672e06|atomicpack/resources/logo.png
-9a06319319f3ce3d226bc9bcb201b9e2|CHECKSUM.md5
+b3c765fc438cc38404d9d8f72e9f190a|CHECKSUM.md5
 4854c2344aa182ad4f37976e83348aa0|Libraries/commons-io/commons-io-2.1.jar
 71b48e6b3e1b1dc73fe705604b9c7584|Libraries/commons-lang3/commons-lang3-3.1.jar
 58b3d877862e49bd5828a73b2c7d1313|Libraries/fastutil/fastutil-6.4.1-int2obj.jar
@@ -39,7 +39,7 @@ ae6d695605990bd2544b358f17b11c28|Libraries/trove4j/trove4j-3.0.1.jar
 f90f614a5b5994909cc7f6bc7246ed1f|md5.sh
 c58c04ada125510e4f55c7ba225e00d3|minecraft.yml
 b4a6d8cbcdca8b22647b2ca8a1a997ce|mirrors.yml
-d27d132df521dfdbdb7c8e21b8c72b4c|modlibrary.yml
+01317fd71aae93d9a4063510f09b654f|modlibrary.yml
 9d75f2db69a54fe2bd06244cb6dd16f3|modpacks.yml
 9f888fcd7c0701fff5b84ddcf7eb1d89|mods/AdditionalPipes/AdditionalPipes-2.1.3u28b2.zip
 780af022e2b2697c94023a0f6e8399eb|mods/AdditionalPipes/AdditionalPipes-v2.1.3u36b.zip
@@ -181,6 +181,7 @@ e8351a13638fabdf00987697fc6018b7|mods/Portalgun/Portalgun-v1.4.6v1.zip
 4ffda4edc9640fd56761b00525c352a6|mods/ProjectZuluComplete/ProjectZuluComplete-0.5.4b.zip
 12e844a03a868a8ecbaab6666a52d4e3|mods/ProjectZuluComplete/ProjectZuluComplete-v0.6.0.zip
 22096fa7b82563f552ae3ccb4ebf7ba2|mods/ProjectZuluComplete/ProjectZuluComplete-v0.6.0b.zip
+55b29f2ccdae12bf078450dd6ccd65c5|mods/ProjectZuluComplete/ProjectZuluComplete-v0.6.1.zip
 30d8ff89545dfa50e1ecfcb0f897d31c|mods/Railcraft/Railcraft-6.10.0.0.zip
 2082f213116b351ecc37b7b9ee94557a|mods/Railcraft/Railcraft-v6.12.0.0.zip
 720ee2a2354fcb531913745fcf1d3af3|mods/Railcraft/Railcraft-v6.12.2.0.zip
@@ -232,6 +233,7 @@ d4c1b9e33df080ec2569a0f81066b45b|mods/WR-CBE/WR-CBE-v1.3.2.zip
 a4eafde61558530da8412fe4d26dc1ba|mods/z-atomicpack-configs/z-atomicpack-configs-v1.0.0.zip
 ecb155f60bc4e0f89a53d267a4b9744f|mods/z-atomicpack-configs/z-atomicpack-configs-v2.0.0.zip
 573f0896022dd1761e2fdefe6851d984|mods/z-atomicpack-configs/z-atomicpack-configs-v2.0.1.zip
+87f33181cedfe4f769158e4d7ee549b3|mods/z-atomicpack-configs/z-atomicpack-configs-v2.0.2.zip
 8548c39307f2bb3f6c753eef3e9ad7cc|mods/z-plusmultipack-configs/z-plusmultipack-configs-RC2.2.10.zip
 e865b233bf66669eaf823a63841dd3af|mods/z-plusmultipack-configs/z-plusmultipack-configs-v3.0.0.zip
 653061f4be8c7288d913a2df34acd0dc|mods/z-plussigmapack-configs/z-plussigmapackconfigs-1.0.0.zip
