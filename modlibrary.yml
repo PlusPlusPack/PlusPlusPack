@@ -107,6 +107,7 @@ mods:
         versions:
             2.6_1.4.5:
             v2.7_1.4.6:
+            v2.8b_1.4.6:
     DoubleDoor:
         installtype: "zip"
         versions:
@@ -125,6 +126,7 @@ mods:
             v1.0.4:
             v1.0.5:
             v1.1.0:
+            v1.1.1:
     EnderStorage:
         installtype: "zip"
         versions:
@@ -232,6 +234,7 @@ mods:
             v0.6.9.32:
             v0.6.9.37:
             v0.6.9.43:
+            v0.6.9.73:
     mcore:
         installtype: "zip"
         versions:
@@ -244,6 +247,7 @@ mods:
             v5.0.1:
             v5.0.2:
             v5.0.5:
+            v5.0.7:
     MekanismGenerators:
         installtype: "zip"
         versions:
@@ -251,6 +255,7 @@ mods:
             v5.0.1:
             v5.0.2:
             v5.0.5:
+            v5.0.7:
     MekanismTools:
         installtype: "zip"
         versions:
@@ -258,10 +263,12 @@ mods:
             v5.0.1:
             v5.0.2:
             v5.0.5:
+            v5.0.7:
     MineChem:
         installtype: "zip"
         versions:
             v2.0.0pr2:
+            v2.0.0pr5.3:
     MinefactoryReloaded:
         installtype: "zip"
         versions:
@@ -367,6 +374,7 @@ mods:
             6.10.0.0:
             v6.12.0.0:
             v6.12.2.0:
+            v6.13.1.0:
     RecipeRemover:
         installtype: "zip"
         versions:

@@ -26,8 +26,8 @@ builds:
             ClaySoldiers: v9.05
             CodeChickenCore: v0.7.0.2
             ComputerCraft: v1.481
-            CraftAndEnchant: v2.7_1.4.6
-            ElectricExpansion: v1.1.0
+            CraftAndEnchant: v2.8b_1.4.6
+            ElectricExpansion: v1.1.1
             EnderStorage: v1.3.1.1
             EnhancedPortals: v1.4.2
             ExtrabiomesXL: v3.8.0   
@@ -39,12 +39,12 @@ builds:
             InvTweaks: v1.49
             IronChest: v4.5.2.207
             JammyFurniture: v4.0
-            LogisticsPipes: v0.6.9.43
+            LogisticsPipes: v0.6.9.73
             mcore: v5.32.272
-            Mekanism: v5.0.5
-            MekanismGenerators: v5.0.5
-            MekanismTools: v5.0.5
-            MineChem: v2.0.0pr2
+            Mekanism: v5.0.7
+            MekanismGenerators: v5.0.7
+            MekanismTools: v5.0.7
+            MineChem: v2.0.0pr5.3
             MinefactoryReloaded: v2.0.0
             MobAmputation: v1.4.6v1
             MobDismemberment: v1.4.6v1
@@ -57,7 +57,7 @@ builds:
             PamsHarvestcraft: v1.0_1.4.6
             Portalgun: v1.4.6v2
             ProjectZuluComplete: v0.6.0b
-            Railcraft: v6.12.2.0
+            Railcraft: v6.13.1.0
             RecipeRemover: v1.1-b
             RedPower: v2.0.6
             ReiMinimap: v3.2_06
