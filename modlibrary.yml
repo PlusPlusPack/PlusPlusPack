@@ -244,6 +244,10 @@ mods:
             v0.6.9.37:
             v0.6.9.43:
             v0.6.9.73:
+    MachineMuseModularPowerSuits:
+        installtype: "zip"
+        versions:
+            v0.0.1:
     Millenaire:
         installtype: "zip"
         versions:
@@ -527,6 +531,7 @@ mods:
         versions:
             RC2.2.10:
             v3.0.0:
+            v3.0.1:
     z-atomicpack-configs:
         installtype: "zip"
         versions:
