@@ -538,7 +538,7 @@ mods:
     z-plussigmapackconfigs:
         installtype: "zip"
         versions:
-            1.0.0:
+            v1.0.0:
     atomicpack:
         installtype: "zip"
         versions:
