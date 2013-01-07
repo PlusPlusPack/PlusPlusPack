@@ -39,7 +39,7 @@ ae6d695605990bd2544b358f17b11c28|Libraries/trove4j/trove4j-3.0.1.jar
 f90f614a5b5994909cc7f6bc7246ed1f|md5.sh
 c58c04ada125510e4f55c7ba225e00d3|minecraft.yml
 b4a6d8cbcdca8b22647b2ca8a1a997ce|mirrors.yml
-8d27b1c782c73b258f0a2b5532135001|modlibrary.yml
+ae4da944c807de7a10a731e05125ce74|modlibrary.yml
 9d75f2db69a54fe2bd06244cb6dd16f3|modpacks.yml
 9f888fcd7c0701fff5b84ddcf7eb1d89|mods/AdditionalPipes/AdditionalPipes-2.1.3u28b2.zip
 780af022e2b2697c94023a0f6e8399eb|mods/AdditionalPipes/AdditionalPipes-v2.1.3u36b.zip
@@ -268,7 +268,7 @@ b1372037c05e1ac2ef4b5e4a451b7adc|mods/z-atomicpack-configs/z-atomicpack-configs-
 2abd8a9e58db03ae87fd625de3fc2fe9|mods/z-plusmultipack-configs/z-plusmultipack-configs-v3.0.0.zip
 653061f4be8c7288d913a2df34acd0dc|mods/z-plussigmapack-configs/z-plussigmapackconfigs-1.0.0.zip
 e26ab80e55cd1c35692a42a1ebd9be75|Patches/Minecraft/minecraft_1.4.6-1.4.5.patch
-267a783981385b27f506a0b4f389ceb6|plusmultipack/modpack.yml
+58fd89f7b2c5540e32883b7ab52cdcd7|plusmultipack/modpack.yml
 4414ce7f3da117b613ab152a4bed33af|plusmultipack/resources/background.jpg
 401cc30df498940e8e559404d9ff88ab|plusmultipack/resources/favicon.png
 c5b8519aae94f41c43a01e8c298b6658|plusmultipack/resources/icon.png
@@ -279,3 +279,6 @@ c5b8519aae94f41c43a01e8c298b6658|plusmultipack/resources/icon.png
 99914daac918134d9e9996dddb914dd0|plussigmapack/resources/icon.png
 2b093230893d001a3f2d77e03611d404|plussigmapack/resources/logo.png
 d41d8cd98f00b204e9800998ecf8427e|README.md
+54397772aeee37e0d2e85f66126f2325|mods/MinefactoryReloaded/MinefactoryReloaded-v2.0.3.zip
+c54b2717389a890c57c62f74d8de6385|mods/NetherOres/NetherOres-v2.0.0.zip
+3c7da6140b4780a07ecd4aeb4a752713|mods/PowerCrystalsCore/PowerCrystalsCore-v1.0.0.zip

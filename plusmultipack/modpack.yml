@@ -45,17 +45,18 @@ builds:
             MekanismGenerators: v5.0.7
             MekanismTools: v5.0.7
             MineChem: v2.0.0pr5.3
-            MinefactoryReloaded: v2.0.0
+            MinefactoryReloaded: v2.0.3
             MobAmputation: v1.4.6v1
             MobDismemberment: v1.4.6v1
             ModularForceFieldSystem: v2.2.8.2.13
             Mystcraft: v0.9.5.00
-            NetherOres: v1.4.6
+            NetherOres: v2.0.0
             NotEnoughItems: v1.4.5.0
             Obsidiplates: v1.2.0.3
             OmniTools: v2.2.5
             PamsHarvestcraft: v1.0_1.4.6
             Portalgun: v1.4.6v2
+            PowerCrystalsCore: v1.0.0
             ProjectZuluComplete: v0.6.0b
             Railcraft: v6.13.1.0
             RecipeRemover: v1.1-b

@@ -276,6 +276,7 @@ mods:
             1.4.4:
             v1.4.6:
             v2.0.0:
+            v2.0.3:
     MiscPeripherals:
         installtype: "zip"
         versions:
@@ -322,6 +323,7 @@ mods:
         versions:
             1.4.4:
             v1.4.6:
+            v2.0.0:
     NotEnoughItems:
         installtype: "zip"
         versions:
@@ -358,6 +360,10 @@ mods:
             1.4.4v0.1:
             v1.4.6v1:
             v1.4.6v2:
+    PowerCrystalsCore:
+        installtype: "zip"
+        versions:
+            v1.0.0:
     ProjectBench:
         installtype: "zip"
         versions:
