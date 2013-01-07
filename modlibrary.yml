@@ -535,7 +535,7 @@ mods:
             v2.0.1:
             v2.0.2:
             v2.0.4:
-    z-plussigmapackconfigs:
+    z-plussigmapack-configs:
         installtype: "zip"
         versions:
             v1.0.0:
