@@ -116,6 +116,7 @@ mods:
         installtype: "zip"
         versions:
             1.4.5v1:
+            1.4.6v2:
     dustmod:
         installtype: "zip"
         versions:
