@@ -39,7 +39,7 @@ ae6d695605990bd2544b358f17b11c28|Libraries/trove4j/trove4j-3.0.1.jar
 f90f614a5b5994909cc7f6bc7246ed1f|md5.sh
 c58c04ada125510e4f55c7ba225e00d3|minecraft.yml
 b4a6d8cbcdca8b22647b2ca8a1a997ce|mirrors.yml
-ae4da944c807de7a10a731e05125ce74|modlibrary.yml
+3f50fd88a597b6a81fdeb51669c131fe|modlibrary.yml
 9d75f2db69a54fe2bd06244cb6dd16f3|modpacks.yml
 9f888fcd7c0701fff5b84ddcf7eb1d89|mods/AdditionalPipes/AdditionalPipes-2.1.3u28b2.zip
 780af022e2b2697c94023a0f6e8399eb|mods/AdditionalPipes/AdditionalPipes-v2.1.3u36b.zip
@@ -55,7 +55,9 @@ f4346e9a24ad7a23cfec7302ce5b637b|mods/AtomicScience/AtomicScience-v0.2.9.109.zip
 4874979c6793ca0d9b00149bfde81ad9|mods/AtomicScience/AtomicScience-v0.3.0.122.zip
 c02213a053a194a4603c352151338ed7|mods/AtomicScience/AtomicScience-v0.3.1.123.zip
 7fd3293f03b47acff8d31ee531faf69d|mods/Backpack/Backpack-v1.5.6.zip
+11410ebef56fcb6865becd38154481de|mods/Backpack/Backpack-v1.5.7.zip
 4c2d32cba5ee740b25f0a55a3f0e88fd|mods/Backtools/Backtools-1.4.6v1.zip
+53ea41c48af746995ae32654d9dc5edd|mods/BattleTowers/BattleTowers-v1.4.5.zip
 8e91475fe4885a2d2451b097f008d3e3|mods/basemods/basemods-atomicpack-v1.0.zip
 aee757b32bb1097ded86cd83c373875d|mods/basemods/basemods-atomicpack-v2.0.0.zip
 8e91475fe4885a2d2451b097f008d3e3|mods/basemods/basemods-plusmultipack-RC2.2.8.zip
@@ -65,6 +67,7 @@ f63a64f36ee2c28f048c8b2b6ac9b56a|mods/basemods/basemods-plussigmapack-v1.0.0.zip
 d6a7d9b6b8eba144307d7ff1d40e3958|mods/BetterAnvil/BetterAnvil-1.0.0.rar
 17810d9d0293f25374c6cb744a32c26d|mods/BetterAnvil/BetterAnvil-v1.4.6.zip
 f1a3e1d1b8fbe0fbdfe6d5b023b0b794|mods/BetterStorage/BetterStorage-v0.3.4.zip
+652928139d3369d9fa225d56ab6f6556|mods/BetterStorage/BetterStorage-v0.4.2.zip
 8891a1eb55f20c19502daccaa2dfadbc|mods/Buildcraft/Buildcraft-3.2.2.zip
 7abd90e2749189da8a691f303ab87981|mods/Buildcraft/Buildcraft-v3.3.0.zip
 f593644a2d564cf5712ce140afac9be6|mods/BuildRegion/BuildRegion-2.0.2.zip
@@ -102,6 +105,7 @@ c7b77cb0903a4520252f78b9297fc0d4|mods/EnhancedPortals/EnhancedPortals-v1.4.2.zip
 2c7ecd404e5ab5d2f4067a6e66972b80|mods/EquivalentExchange3/EquivalentExchange3-pre1d.zip
 51d035fb2b9121c25904d573bdee3588|mods/EquivalentExchange3/EquivalentExchange3-vpre1e.zip
 f395151824a71bcab47e0983d14002bf|mods/EquivalentExchange3/EquivalentExchange3-vpre2-unofficial.zip
+35e4329bd8ff7a239c78aad46a6e2d4c|mods/EquivalentExchange3/EquivalentExchange3-vpre3f.zip
 1bc4ca4b7bc917b6b31310fb97bfc307|mods/ExtraBees/ExtraBees-1.4.9.0.zip
 e4a7c57f4079fa5bfe6fd44167ccefda|mods/ExtraBees/ExtraBees-v1.4.9.3-prerelease.zip
 22b1f51730ccdcabd3fa0c6e4df5ddb0|mods/ExtraBees/ExtraBees-v1.4.9.5-prerelease.zip
@@ -138,6 +142,7 @@ b5e5c11da043e4d2f15154ec460b09db|mods/IronChest/IronChest-v4.5.1.199.zip
 b735a839700552822603dee30cb69937|mods/IronChest/IronChest-v4.5.1.200.zip
 ab7dc6f8c1b3f5842a5a0056123dd2af|mods/IronChest/IronChest-v4.5.1.204.zip
 11ec810bc3ee9324371b385dc9122bbe|mods/IronChest/IronChest-v4.5.2.207.zip
+18333e18c1d6d0d57f7691aabb638b97|mods/IronChest/IronChest-v4.5.2.213.zip
 1d6d8873a141f0d40c4127e7d2a0fe4c|mods/JammyFurniture/JammyFurniture-4.1b2.rar
 5ea5cd2e543e54732c8838b139ec0f2a|mods/JammyFurniture/JammyFurniture-v4.0.zip
 f35dfbf84ab8941328e90281ecb5bbf8|mods/LibShapeDraw/LibShapeDraw-1.3.1.zip
@@ -170,6 +175,7 @@ d734a9b4f610ed48f696ec71b18cc64a|mods/MineChem/MineChem-v2.0.0pr2.zip
 135ec697a15eed3231bfbc838a8a079f|mods/MinefactoryReloaded/MinefactoryReloaded-v1.4.6.zip
 feff11080c3d997f0d54ecf0cbe0e440|mods/MinefactoryReloaded/MinefactoryReloaded-v2.0.0.zip
 8c11c3420bbdd4f054ece5ffdbfd78e8|mods/MiscPeripherals/MiscPeripherals-v2.3.zip
+8181e7713c7febf9ba3ed56f47dc95c2|mods/Millenaire/Millenaire-v3.3.2.zip
 bb1b023b3f0c2c4deff778d439ce769b|mods/MobAmputation/MobAmputation-1.4.5v1.zip
 d070c02c4ac7b7bee5cd5a11bc1f6993|mods/MobAmputation/MobAmputation-v1.4.6v1.zip
 7b30c6969ba9fe27d7f11409e7d8f562|mods/MobDismemberment/MobDismemberment-1.4.4v1.zip
@@ -197,6 +203,7 @@ c9c4e710dc7d1dc868a8b89d06d489b0|mods/OmniTools/OmniTools-v2.2.5.zip
 7ea2266e4258487ea1a4ef8b99a156a2|mods/PaintingSelectionGui/PaintingSelectionGui-1.4.4.0.zip
 7e7396c2f7970023d0d9299e30ab0674|mods/PamsHarvestcraft/PamsHarvestcraft-1.0_1.4.5.zip
 529d8cb3188b32d698037dd16b6d8119|mods/PamsHarvestcraft/PamsHarvestcraft-v1.0_1.4.6.zip
+4be2349b5eaf5a68dca3eb362bd25d49|mods/PamsHarvestcraft/PamsHarvestcraft-v1.01_1.4.6.zip
 4f354f6931264eb111963f430742ec33|mods/plusmultipack/plusmultipack-RC2.2.10.zip
 eb2aaceeaeb8e0ec6a0eadf0eec5bc10|mods/plusmultipack/plusmultipack-RC2.2.8.zip
 6edad51f1cb46a553bfab0e4c10f6b78|mods/plusmultipack/plusmultipack-RC2.2.9.zip
@@ -255,6 +262,8 @@ f14f04ba1991784ab918de3d3cf789c4|mods/Weaponmod/Weaponmod-1.10.zip
 235cb723285e46d6c88d064e30ac6816|mods/Weaponmod/Weaponmod-v1.10-3.zip
 338c103d28dfd8d8d2210a07c7fb0409|mods/WeeeFlowers/WeeeFlowers-1.0.zip
 355c8f6300c4102093c947e5e0dda565|mods/WeeeFlowers/WeeeFlowers-v1.0b.zip
+80b45dd4727fe24c6b05ae6f3a71dc52|mods/WildCaves3/WildCaves3-v0.3.2.zip
+e7b40a94cd4a9ee2fd9869c7c59dcf6c|mods/WitchesandMore/WitchesandMore-v109.zip
 5afcaf719e57e5f54edfcffca635d762|mods/WR-CBE/WR-CBE-v1.3.2.2.zip
 1a7f4a627198ead5b6b96246dc9e7af1|mods/WR-CBE/WR-CBE-v1.3.2.4.zip
 d4c1b9e33df080ec2569a0f81066b45b|mods/WR-CBE/WR-CBE-v1.3.2.zip
@@ -266,14 +275,14 @@ ecb155f60bc4e0f89a53d267a4b9744f|mods/z-atomicpack-configs/z-atomicpack-configs-
 b1372037c05e1ac2ef4b5e4a451b7adc|mods/z-atomicpack-configs/z-atomicpack-configs-v2.0.4.zip
 8548c39307f2bb3f6c753eef3e9ad7cc|mods/z-plusmultipack-configs/z-plusmultipack-configs-RC2.2.10.zip
 2abd8a9e58db03ae87fd625de3fc2fe9|mods/z-plusmultipack-configs/z-plusmultipack-configs-v3.0.0.zip
-653061f4be8c7288d913a2df34acd0dc|mods/z-plussigmapack-configs/z-plussigmapackconfigs-1.0.0.zip
+6fb4b6602170bc5376b5b3d20c7d3397|mods/z-plussigmapack-configs/z-plussigmapackconfigs-1.0.0.zip
 e26ab80e55cd1c35692a42a1ebd9be75|Patches/Minecraft/minecraft_1.4.6-1.4.5.patch
 58fd89f7b2c5540e32883b7ab52cdcd7|plusmultipack/modpack.yml
 4414ce7f3da117b613ab152a4bed33af|plusmultipack/resources/background.jpg
 401cc30df498940e8e559404d9ff88ab|plusmultipack/resources/favicon.png
 c5b8519aae94f41c43a01e8c298b6658|plusmultipack/resources/icon.png
 82aca6d971f3d4b5bc638cd95892a41d|plusmultipack/resources/logo.png
-94e781c6c389c073a1eca994870bd8c4|plussigmapack/modpack.yml
+935072c51e03859af947248e6e9b48e4|plussigmapack/modpack.yml
 4414ce7f3da117b613ab152a4bed33af|plussigmapack/resources/background.jpg
 0dddc33c952ada52bc49ce6241690321|plussigmapack/resources/favicon.png
 99914daac918134d9e9996dddb914dd0|plussigmapack/resources/icon.png
