@@ -39,7 +39,7 @@ ae6d695605990bd2544b358f17b11c28|Libraries/trove4j/trove4j-3.0.1.jar
 f90f614a5b5994909cc7f6bc7246ed1f|md5.sh
 c58c04ada125510e4f55c7ba225e00d3|minecraft.yml
 d6b0a1f6e423eb9a1f02528e878dac11|mirrors.yml
-8f1f55620acff39827c01fec3129a30b|modlibrary.yml
+b58e4fa27bab1f04f5bbb8d3f384c69b|modlibrary.yml
 9d75f2db69a54fe2bd06244cb6dd16f3|modpacks.yml
 9f888fcd7c0701fff5b84ddcf7eb1d89|mods/AdditionalPipes/AdditionalPipes-2.1.3u28b2.zip
 780af022e2b2697c94023a0f6e8399eb|mods/AdditionalPipes/AdditionalPipes-v2.1.3u36b.zip
@@ -184,7 +184,7 @@ d070c02c4ac7b7bee5cd5a11bc1f6993|mods/MobAmputation/MobAmputation-v1.4.6v1.zip
 13c62490cb8cfb0e171f26777ee40c5e|mods/ModularForceFieldSystem/ModularForceFieldSystem-v2.2.8.2.14.zip
 17de8ea88010870f7dd476507e82066e|mods/Mystcraft/Mystcraft-0.9.4.05.zip
 51760c2223a49e15e42eccd741683bf2|mods/Mystcraft/Mystcraft-v0.9.5.00.zip
-20ca73a524172e57fb29abf8a1f9bfdc|mods/Necromancy/Necromancy-1.4.6b4.zip
+d3b502973924609ee57929689906b0ef|mods/Necromancy/Necromancy-v1.4.6b4.zip
 a33efdf4333bed1efad498cdb2bd4f4a|mods/NEI-ThermalExpansion/NEI-ThermalExpansion-v2.1.6.zip
 5fb6f79e4128443ee7a0cf5132586a72|mods/NEIPlugins/NEIPlugins-1.0.3.6.zip
 d80cf48b0c4ca11e4ca431f676e5ecec|mods/NEIPlugins/NEIPlugins-v1.0.4.1.zip
@@ -282,7 +282,7 @@ e26ab80e55cd1c35692a42a1ebd9be75|Patches/Minecraft/minecraft_1.4.6-1.4.5.patch
 401cc30df498940e8e559404d9ff88ab|plusmultipack/resources/favicon.png
 c5b8519aae94f41c43a01e8c298b6658|plusmultipack/resources/icon.png
 82aca6d971f3d4b5bc638cd95892a41d|plusmultipack/resources/logo.png
-be614042311f06c1d2de22eb01bb29f0|plussigmapack/modpack.yml
+e01f3439b157a2598ba4f849c4f82385|plussigmapack/modpack.yml
 4414ce7f3da117b613ab152a4bed33af|plussigmapack/resources/background.jpg
 0dddc33c952ada52bc49ce6241690321|plussigmapack/resources/favicon.png
 99914daac918134d9e9996dddb914dd0|plussigmapack/resources/icon.png
