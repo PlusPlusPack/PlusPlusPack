@@ -253,6 +253,7 @@ mods:
         installtype: "zip"
         versions:
             v3.3.2:
+            v3.4.0:
     mcore:
         installtype: "zip"
         versions:
