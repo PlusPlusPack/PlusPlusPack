@@ -321,7 +321,7 @@ mods:
     Necromancy:
         installtype: "zip"
         versions:
-            1.4.6b4:
+            v1.4.6b4:
     NEI-ThermalExpansion:
         installtype: "zip"
         versions:
