@@ -1,6 +1,6 @@
 * text=auto
 
-*.bat 
+*.bat text
 *.md text
 *.md5 text
 *.sh text
