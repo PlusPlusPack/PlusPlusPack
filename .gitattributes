@@ -1,0 +1,13 @@
+* text=auto
+
+*.bat 
+*.md text
+*.md5 text
+*.sh text
+*.txt text
+*.yml text
+
+*.jar binary
+*.patch binary
+*.png binary
+*.zip binary
