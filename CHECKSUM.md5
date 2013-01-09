@@ -37,7 +37,7 @@ aee7d6eb28be4b13a207cb6dc565a7db|Libraries/snakeyaml/snakeyaml-1.9.jar
 ae6d695605990bd2544b358f17b11c28|Libraries/trove4j/trove4j-3.0.1.jar
 7dc6e4a87b11e5e876b04e039ad6fb41|libraries.yml
 f90f614a5b5994909cc7f6bc7246ed1f|md5.sh
-c58c04ada125510e4f55c7ba225e00d3|minecraft.yml
+8a95c99117e9cd34ebaa52a2b434f70f|minecraft.yml
 d6b0a1f6e423eb9a1f02528e878dac11|mirrors.yml
 b915c6b5fe19ee88107ee9c815f77ecc|modlibrary.yml
 9d75f2db69a54fe2bd06244cb6dd16f3|modpacks.yml
@@ -295,3 +295,7 @@ c54b2717389a890c57c62f74d8de6385|mods/NetherOres/NetherOres-v2.0.0.zip
 7d26e2faa20d65a0ca8f3354443f8a49|mods/z-plusmultipack-configs/z-plusmultipack-configs-v3.0.1.zip
 3f5954967b7869b3e77dd25fe139d8ce|mods/MachineMuseModularPowerSuits/MachineMuseModularPowerSuits-v0.0.1.zip
 7ab77b4b1696e3b245806bd408d71b38|mods/MachineMuseModularPowerSuits/MachineMuseModularPowerSuits-v0.0.1a.zip
+3ae6ce5b5fe42bd62be51e629bb38130|patches/minecraft/Create Patch/Create Patch.bat
+b687971bd4a77ccb04330f7e86211841|patches/minecraft/Create Patch/diff.jar
+4a68d50cf38e47460dee8321d361ab4c|patches/minecraft/Create Patch/How the Fuck.txt
+28b4fa734721d1963ea2a06bcb94b71a|patches/minecraft/minecraft_1.4.7-1.4.6.patch
