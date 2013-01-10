@@ -39,7 +39,7 @@ ae6d695605990bd2544b358f17b11c28|Libraries/trove4j/trove4j-3.0.1.jar
 f90f614a5b5994909cc7f6bc7246ed1f|md5.sh
 82f6b2e7a83e88296d5b4644cacfc778|minecraft.yml
 d6b0a1f6e423eb9a1f02528e878dac11|mirrors.yml
-729a93f652e267e00beb7aac62487d92|modlibrary.yml
+f9a6958add0db0dc701cc4aaec570dfb|modlibrary.yml
 9d75f2db69a54fe2bd06244cb6dd16f3|modpacks.yml
 9f888fcd7c0701fff5b84ddcf7eb1d89|mods/AdditionalPipes/AdditionalPipes-2.1.3u28b2.zip
 780af022e2b2697c94023a0f6e8399eb|mods/AdditionalPipes/AdditionalPipes-v2.1.3u36b.zip
@@ -278,7 +278,7 @@ b1372037c05e1ac2ef4b5e4a451b7adc|mods/z-atomicpack-configs/z-atomicpack-configs-
 2abd8a9e58db03ae87fd625de3fc2fe9|mods/z-plusmultipack-configs/z-plusmultipack-configs-v3.0.0.zip
 9d3b7025212509b5622a1201707dbce4|mods/z-plussigmapack-configs/z-plussigmapack-configs-v1.0.0.zip
 e26ab80e55cd1c35692a42a1ebd9be75|Patches/Minecraft/minecraft_1.4.6-1.4.5.patch
-a6ba399de08386aee266f7d895066476|plusmultipack/modpack.yml
+7674ffb41a83cb0f43473f01a7ea2234|plusmultipack/modpack.yml
 4414ce7f3da117b613ab152a4bed33af|plusmultipack/resources/background.jpg
 401cc30df498940e8e559404d9ff88ab|plusmultipack/resources/favicon.png
 c5b8519aae94f41c43a01e8c298b6658|plusmultipack/resources/icon.png
@@ -301,3 +301,4 @@ b687971bd4a77ccb04330f7e86211841|Patches/Minecraft/Create Patch/diff.jar
 28b4fa734721d1963ea2a06bcb94b71a|Patches/Minecraft/minecraft_1.4.7-1.4.6.patch
 0ab5df5f64102c215fd04efa22eeb030|Patches/Minecraft/minecraft_1.4.7-1.4.5.patch
 9276eee2919c8705545265663490957d|mods/MachineMuseModularPowerSuits/MachineMuseModularPowersuits-v0.0.5.zip
+514798d4596829812a8b466f757a288a|mods/MachineMuseModularPowerSuits/MachineMuseModularPowersuits-v0.0.6.zip

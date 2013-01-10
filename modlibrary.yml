@@ -250,6 +250,7 @@ mods:
             v0.0.1:
             v0.0.1a:
             v0.0.5:
+            v0.0.6:
     Millenaire:
         installtype: "zip"
         versions:
