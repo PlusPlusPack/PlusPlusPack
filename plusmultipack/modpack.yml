@@ -1,7 +1,7 @@
 launcher: 0.5.0
-current: 3.1.4
+current: 3.1.5
 recommended: 3.0.3
-latest: 3.1.4
+latest: 3.1.5
 lib-1: &lib-1
     commons-io: 2.1
     commons-lang3: 3.1
@@ -11,7 +11,7 @@ lib-1: &lib-1
     snakeyaml: 1.9
     trove4j: 3.0.1
 builds:
-    3.1.4:
+    3.1.5:
         libraries:
         minecraft: 1.4.7
         mods:
@@ -19,7 +19,7 @@ builds:
             AdditionalPipes: v2.1.3u40
             AtomicScience: v0.3.2.127
             BetterAnvil: v1.4.6
-            BetterStorage: v0.3.4
+            BetterStorage: v0.4.2
             Buildcraft: v3.4.0
             cccable: v1.3.0
             ClaySoldiers: v9.05
@@ -27,7 +27,7 @@ builds:
             ComputerCraft: v1.481
             CraftAndEnchant: v2.9_1.4.6
             dustmod: v1.2
-            ElectricExpansion: v1.1.1
+            ElectricExpansion: v1.2.7
             EnderStorage: v1.3.1.1
             EnhancedPortals: v1.4.2
             ExtraBees: v1.4.9.14-prerelease
