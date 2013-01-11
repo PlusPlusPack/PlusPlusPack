@@ -15,7 +15,7 @@ builds:
         libraries:
         minecraft: 1.4.7
         mods:
-            basemods: plusmultipack-v3.0.0
+            basemods: plusmultipack-v3.1.0
             AdditionalPipes: v2.1.3u40
             AtomicScience: v0.3.1.123
             BetterAnvil: v1.4.6
