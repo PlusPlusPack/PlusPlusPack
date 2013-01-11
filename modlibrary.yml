@@ -17,6 +17,7 @@ mods:
         versions:
             v1.4.5.r04:
             v1.4.6.r01:
+            v1.4.6.r03:
     AdditionalPipes:
         installtype: "zip"
         versions:
