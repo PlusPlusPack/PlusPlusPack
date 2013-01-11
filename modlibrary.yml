@@ -563,7 +563,7 @@ mods:
             RC2.2.10:
             v3.0.0:
             v3.0.1:
-            v3.1.0:
+            v3.1.1:
     z-atomicpack-configs:
         installtype: "zip"
         versions:
