@@ -80,7 +80,7 @@ builds:
             Weaponmod: v1.10-3
             WeeeFlowers: v1.0b
             WR-CBE: v1.3.2.4
-            z-plusmultipack-configs: v3.0.1
+            z-plusmultipack-configs: v3.1.0
     3.0.3:
         libraries:
         minecraft: 1.4.6
