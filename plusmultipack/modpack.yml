@@ -1,7 +1,7 @@
 launcher: 0.5.0
-current: 3.1.7
+current: 3.1.8
 recommended: 3.0.3
-latest: 3.1.7
+latest: 3.1.8
 lib-1: &lib-1
     commons-io: 2.1
     commons-lang3: 3.1
@@ -11,7 +11,7 @@ lib-1: &lib-1
     snakeyaml: 1.9
     trove4j: 3.0.1
 builds:
-    3.1.7:
+    3.1.8:
         libraries:
         minecraft: 1.4.7
         mods:
@@ -33,20 +33,22 @@ builds:
             ExtraBees: v1.4.9.14-prerelease
             ExtrabiomesXL: v3.8.0   
             EquivalentExchange3: vpre1f
-            Forestry: v1.7.0.2
+            Forestry: v1.7.0.3
             Factorization: v0.7.10-2
             GregsProspecting: v1.4.2
             ICBM: v1.0.1.123
+            ImmibisCore: v52.2.2
+            ImmibisPeripherals: v52.0.8
             InvTweaks: v1.49
             IronChest: v4.5.2.207
             JammyFurniture: v4.0
             LogisticsPipes: v0.7.0.75
             MachineMuseModularPowerSuits: v0.0.13
-            Mekanism: v5.0.8b
-            MekanismGenerators: v5.0.8b
-            MekanismTools: v5.0.8b
+            Mekanism: v5.0.9
+            MekanismGenerators: v5.0.9
+            MekanismTools: v5.0.9
             MineChem: v2.0.0pr6.1
-            MinefactoryReloaded: v2.0.4
+            MinefactoryReloaded: v2.0.5
             MobAmputation: v1.4.6v1
             MobDismemberment: v1.4.6v1
             ModularForceFieldSystem: v2.2.8.2.13
@@ -67,6 +69,7 @@ builds:
             ReiMinimap: v3.2_06
             RopePlus: v1.4.6
             RottenFlesh: v1.4.6
+            Scaffolding: v1.4.6ml1
             SecretRooms: v4.4.1.158
             SoulShards: v1.26
             Thaumcraft: v3.0.1c
@@ -74,6 +77,7 @@ builds:
             ThermalExpansion: v2.1.6
             Traincraft: v3.1.13_030
             treecapitator: v1.4.6.r03
+            Tubestuff: v52.0.8
             Twilightforest: v1.14.0
             UniversalElectricity: v1.2.2.327
             ValvePipes: v1.4.6
