@@ -198,7 +198,6 @@ mods:
             v1.6.4.1:
             v1.6.4.2:
             v1.7.0.2:
-            v1.7.0.3:
     GraviSuite:
         installtype: "zip"
         versions:
@@ -220,12 +219,10 @@ mods:
         installtype: "zip"
         versions:
             51.0.5:
-            v52.2.2:
     ImmibisPeripherals:
         installtype: "zip"
         versions:
             51.1.1:
-            v52.0.8:
     InvTweaks:
         installtype: "zip"
         versions:
@@ -288,7 +285,6 @@ mods:
             v5.0.5:
             v5.0.7:
             v5.0.8b:
-            v5.0.9:
     MekanismGenerators:
         installtype: "zip"
         versions:
@@ -298,7 +294,6 @@ mods:
             v5.0.5:
             v5.0.7:
             v5.0.8b:
-            v5.0.9:
     MekanismTools:
         installtype: "zip"
         versions:
@@ -308,7 +303,6 @@ mods:
             v5.0.5:
             v5.0.7:
             v5.0.8b:
-            v5.0.9:
     MineChem:
         installtype: "zip"
         versions:
@@ -323,7 +317,6 @@ mods:
             v2.0.0:
             v2.0.3:
             v2.0.4:
-            v2.0.5:
     MiscPeripherals:
         installtype: "zip"
         versions:
@@ -456,10 +449,6 @@ mods:
         versions:
             1.4.4:
             v1.4.6:
-    Scaffolding:
-        installtype: "zip"
-        versions:
-            v1.4.6ml1:
     SecretRooms:
         installtype: "zip"
         versions:
@@ -510,7 +499,6 @@ mods:
         installtype: "zip"
         versions:
             51.0.4:
-            v52.0.8:
     Twilightforest:
         installtype: "zip"
         versions:
