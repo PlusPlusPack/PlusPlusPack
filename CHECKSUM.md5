@@ -1,9 +1,9 @@
-94aaebea9d693d13cd51fef2d392bcb3|atomicpack/modpack.yml
+3f5cbd3de83be9e48bb38087a94b92bd|atomicpack/modpack.yml
 8c6799ac8c40d9bf3f2d2200aabf1ba8|atomicpack/resources/background.jpg
 625bde4781359198d33e09cfa54ac54e|atomicpack/resources/favicon.png
 d3b716c47d252d0e94103da861119b1d|atomicpack/resources/icon.png
 d1fa4b584ccccb7bb655d74961672e06|atomicpack/resources/logo.png
-76c548f090ce8f50e98e99b043a7751a|CHECKSUM.md5
+5e67c1cf6f42fc8511370b9adc58ce36|CHECKSUM.md5
 4854c2344aa182ad4f37976e83348aa0|Libraries/commons-io/commons-io-2.1.jar
 71b48e6b3e1b1dc73fe705604b9c7584|Libraries/commons-lang3/commons-lang3-3.1.jar
 58b3d877862e49bd5828a73b2c7d1313|Libraries/fastutil/fastutil-6.4.1-int2obj.jar
@@ -39,7 +39,7 @@ ae6d695605990bd2544b358f17b11c28|Libraries/trove4j/trove4j-3.0.1.jar
 6d7b4e4b57752ea2391ff64159606d34|md5.sh
 f275f512b84cdc38da503996bd150d64|minecraft.yml
 c2702bc8a33d29da0bd5513e2a4cedee|mirrors.yml
-3dc2fb48c2d0baf81487230854086374|modlibrary.yml
+87bde0a045da36f656ca3dcd9fedc57b|modlibrary.yml
 9d75f2db69a54fe2bd06244cb6dd16f3|modpacks.yml
 9f888fcd7c0701fff5b84ddcf7eb1d89|mods/AdditionalPipes/AdditionalPipes-2.1.3u28b2.zip
 780af022e2b2697c94023a0f6e8399eb|mods/AdditionalPipes/AdditionalPipes-v2.1.3u36b.zip
@@ -319,6 +319,7 @@ ecb155f60bc4e0f89a53d267a4b9744f|mods/z-atomicpack-configs/z-atomicpack-configs-
 b1372037c05e1ac2ef4b5e4a451b7adc|mods/z-atomicpack-configs/z-atomicpack-configs-v2.0.4.zip
 2c3cd31bc875982f36a2d4c1675e97a4|mods/z-atomicpack-configs/z-atomicpack-configs-v3.0.0.zip
 dcb5ee98e3a2c57448381b29e7f93fbb|mods/z-atomicpack-configs/z-atomicpack-configs-v3.0.1.zip
+9293c22b923c9d318116e7eda7e3312e|mods/z-atomicpack-configs/z-atomicpack-configs-v3.0.2.zip
 8548c39307f2bb3f6c753eef3e9ad7cc|mods/z-plusmultipack-configs/z-plusmultipack-configs-RC2.2.10.zip
 2abd8a9e58db03ae87fd625de3fc2fe9|mods/z-plusmultipack-configs/z-plusmultipack-configs-v3.0.0.zip
 7d26e2faa20d65a0ca8f3354443f8a49|mods/z-plusmultipack-configs/z-plusmultipack-configs-v3.0.1.zip
