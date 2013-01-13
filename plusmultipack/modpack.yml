@@ -1,7 +1,7 @@
 launcher: 0.5.0
-current: RC2.2.10
-recommended: RC2.2.10
-latest: 3.0.0
+current: 3.1.10
+recommended: 3.0.3
+latest: 3.1.10
 lib-1: &lib-1
     commons-io: 2.1
     commons-lang3: 3.1
@@ -11,13 +11,88 @@ lib-1: &lib-1
     snakeyaml: 1.9
     trove4j: 3.0.1
 builds:
-    3.0.0:
+    3.1.10:
+        libraries:
+        minecraft: 1.4.7
+        mods:
+            basemods: plusmultipack-v3.1.0
+            AdditionalPipes: v2.1.3u40
+            AtomicScience: v0.3.2.127
+            BetterAnvil: v1.4.6
+            BetterStorage: v0.4.2
+            Buildcraft: v3.4.0
+            cccable: v1.3.0
+            ClaySoldiers: v9.05
+            CodeChickenCore: v0.7.0.2
+            ComputerCraft: v1.481
+            CraftAndEnchant: v2.9_1.4.6
+            dustmod: v1.2
+            ElectricExpansion: v1.2.7
+            EnderStorage: v1.3.1.1
+            EnhancedPortals: v1.4.2
+            ExtraBees: v1.4.9.14-prerelease
+            ExtrabiomesXL: v3.8.0   
+            EquivalentExchange3: vpre1f
+            Forestry: v1.7.0.3
+            Factorization: v0.7.10-2
+            GregsProspecting: v1.4.2
+            ICBM: v1.0.1.123
+            ImmibisCore: v52.2.2
+            ImmibisPeripherals: v52.0.8
+            InvTweaks: v1.49
+            IronChest: v4.5.2.207
+            JammyFurniture: v4.0
+            LightLevelOverlay: v0.9
+            LogisticsPipes: v0.7.0.75
+            MachineMuseModularPowerSuits: v0.0.13
+            Mekanism: v5.0.9
+            MekanismGenerators: v5.0.9
+            MekanismTools: v5.0.9
+            MineChem: v2.0.0pr6.1
+            MinefactoryReloaded: v2.0.5
+            MobAmputation: v1.4.6v1
+            MobDismemberment: v1.4.6v1
+            ModularForceFieldSystem: v2.2.8.2.13
+            Mystcraft: v0.9.5.00
+            NetherOres: v2.0.2
+            NEIPlugins: v1.0.4.1
+            NEIRedPowerPlugin: v1.4.3
+            NotEnoughItems: v1.4.5.0
+            Obsidiplates: v1.2.0.3
+            OmniTools: v2.2.5
+            PamsHarvestcraft: v1.0_1.4.6
+            Portalgun: v1.4.6v2
+            PowerCrystalsCore: v1.0.0
+            ProjectZuluComplete: v0.6.2
+            Railcraft: v6.14.0.0
+            RecipeRemover: v1.1-b
+            RedPower: v2.0.6
+            ReiMinimap: v3.2_06
+            RopePlus: v1.4.6
+            RottenFlesh: v1.4.6
+            Scaffolding: v1.4.6ml1
+            SecretRooms: v4.4.1.158
+            SoulShards: v1.26
+            Thaumcraft: v3.0.1c
+            ThaumicBees: v1.0.701-56
+            ThermalExpansion: v2.1.6
+            Traincraft: v3.1.13_030
+            treecapitator: v1.4.6.r03
+            Tubestuff: v52.0.8
+            Twilightforest: v1.14.0
+            UniversalElectricity: v1.2.2.327
+            ValvePipes: v1.4.6
+            Weaponmod: v1.10-3
+            WeeeFlowers: v1.0b
+            WildCaves3: v0.3.2
+            WR-CBE: v1.3.2.4
+            z-plusmultipack-configs: v3.1.1
+    3.0.3:
         libraries:
         minecraft: 1.4.6
         mods:
             basemods: plusmultipack-v3.0.0
             AdditionalPipes: v2.1.3u40
-            ArsMagica: v5.32.272
             AtomicScience: v0.3.1.123
             BetterAnvil: v1.4.6
             BetterStorage: v0.3.4
@@ -32,30 +107,29 @@ builds:
             EnhancedPortals: v1.4.2
             ExtrabiomesXL: v3.8.0   
             EquivalentExchange3: vpre1e
-            ExtraBees: v1.4.9.6-prerelease
             Factorization: v0.7.10-2
-            Forestry: v1.6.4.2
             ICBM: v1.0.0.118
             InvTweaks: v1.49
             IronChest: v4.5.2.207
             JammyFurniture: v4.0
             LogisticsPipes: v0.6.9.73
-            mcore: v5.32.272
+            MachineMuseModularPowerSuits: v0.0.6a
             Mekanism: v5.0.7
             MekanismGenerators: v5.0.7
             MekanismTools: v5.0.7
             MineChem: v2.0.0pr5.3
-            MinefactoryReloaded: v2.0.0
+            MinefactoryReloaded: v2.0.3
             MobAmputation: v1.4.6v1
             MobDismemberment: v1.4.6v1
             ModularForceFieldSystem: v2.2.8.2.13
             Mystcraft: v0.9.5.00
-            NetherOres: v1.4.6
+            NetherOres: v2.0.0
             NotEnoughItems: v1.4.5.0
             Obsidiplates: v1.2.0.3
             OmniTools: v2.2.5
             PamsHarvestcraft: v1.0_1.4.6
             Portalgun: v1.4.6v2
+            PowerCrystalsCore: v1.0.0
             ProjectZuluComplete: v0.6.0b
             Railcraft: v6.13.1.0
             RecipeRemover: v1.1-b
@@ -75,7 +149,7 @@ builds:
             Weaponmod: v1.10-3
             WeeeFlowers: v1.0b
             WR-CBE: v1.3.2.4
-            z-plusmultipack-configs: v3.0.0
+            z-plusmultipack-configs: v3.0.1
     RC2.2.11:
         libraries:
         minecraft: 1.4.5

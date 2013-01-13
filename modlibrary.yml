@@ -8,15 +8,16 @@ mods:
         versions:
             atomicpack-v1.0:
             atomicpack-v2.0.0:
-            atomicpack-v3.0.0:
             plusmultipack-RC2.2.8:
             plusmultipack-v3.0.0:
             plussigmapack-v1.0.0:
+            plusmultipack-v3.1.0:
     treecapitator:
         installtype: "zip"
         versions:
             v1.4.5.r04:
             v1.4.6.r01:
+            v1.4.6.r03:
     AdditionalPipes:
         installtype: "zip"
         versions:
@@ -41,14 +42,20 @@ mods:
             v0.3.0.121:
             v0.3.0.122:
             v0.3.1.123:
+            v0.3.2.127:
     Backpack:
         installtype: "zip"
         versions:
             v1.5.6:
+            v1.5.7:
     Backtools:
         installtype: "zip"
         versions:
             1.4.6v1:
+    BattleTowers:
+        installtype: "zip"
+        versions:
+            v1.4.5:
     BetterAnvil:
         installtype: "zip"
         versions:
@@ -58,11 +65,13 @@ mods:
         installtype: "zip"
         versions:
             v0.3.4:
+            v0.4.2:
     Buildcraft:
         installtype: "zip"
         versions:
             3.2.2:
             v3.3.0:
+            v3.4.0:
     BuildRegion:
         installtype: "zip"
         versions:
@@ -72,10 +81,6 @@ mods:
         versions:
             1.2.1:
             v1.3.0:
-    chargepads:
-        installtype: "zip"
-        versions:
-            v2.3.0.58:
     ChestTransporter:
         installtype: "zip"
         versions:
@@ -113,6 +118,7 @@ mods:
             2.6_1.4.5:
             v2.7_1.4.6:
             v2.8b_1.4.6:
+            v2.9_1.4.6:
     DoubleDoor:
         installtype: "zip"
         versions:
@@ -121,10 +127,12 @@ mods:
         installtype: "zip"
         versions:
             1.4.5v1:
+            1.4.6v2:
     dustmod:
         installtype: "zip"
         versions:
             1.1.6:
+            v1.2:
     ElectricExpansion:
         installtype: "zip"
         versions:
@@ -132,6 +140,7 @@ mods:
             v1.0.5:
             v1.1.0:
             v1.1.1:
+            v1.2.7:
     EnderStorage:
         installtype: "zip"
         versions:
@@ -149,6 +158,8 @@ mods:
             pre1d:
             vpre2-unofficial:
             vpre1e:
+            vpre3f:
+            vpre1f:
     ExtraBees:
         installtype: "zip"
         versions:
@@ -156,6 +167,7 @@ mods:
             v1.4.9.3-prerelease:
             v1.4.9.5-prerelease:
             v1.4.9.6-prerelease:
+            v1.4.9.14-prerelease:
     ExtrabiomesXL:
         installtype: "zip"
         versions:
@@ -185,11 +197,16 @@ mods:
             v1.6.4.0:
             v1.6.4.1:
             v1.6.4.2:
-            v1.7.0.1:
+            v1.7.0.2:
+            v1.7.0.3:
     GraviSuite:
         installtype: "zip"
         versions:
             v1.6:
+    GregsProspecting:
+        installtype: "zip"
+        versions:
+            v1.4.2:
     ICBM:
         installtype: "zip"
         versions:
@@ -198,14 +215,17 @@ mods:
             v1.0.0.111:
             v1.0.0.115:
             v1.0.0.118:
+            v1.0.1.123:
     ImmibisCore:
         installtype: "zip"
         versions:
             51.0.5:
+            v52.2.2:
     ImmibisPeripherals:
         installtype: "zip"
         versions:
             51.1.1:
+            v52.0.8:
     InvTweaks:
         installtype: "zip"
         versions:
@@ -220,6 +240,7 @@ mods:
             v4.5.1.200:
             v4.5.1.204:
             v4.5.2.207:
+            v4.5.2.213:
     JammyFurniture:
         installtype: "zip"
         versions:
@@ -241,6 +262,18 @@ mods:
             v0.6.9.37:
             v0.6.9.43:
             v0.6.9.73:
+            v0.7.0.75:
+    MachineMuseModularPowerSuits:
+        installtype: "zip"
+        versions:
+            v0.0.6a:
+            v0.0.10:
+            v0.0.13:
+    Millenaire:
+        installtype: "zip"
+        versions:
+            v3.3.2:
+            v3.4.0:
     mcore:
         installtype: "zip"
         versions:
@@ -254,6 +287,8 @@ mods:
             v5.0.2:
             v5.0.5:
             v5.0.7:
+            v5.0.8b:
+            v5.0.9:
     MekanismGenerators:
         installtype: "zip"
         versions:
@@ -262,6 +297,8 @@ mods:
             v5.0.2:
             v5.0.5:
             v5.0.7:
+            v5.0.8b:
+            v5.0.9:
     MekanismTools:
         installtype: "zip"
         versions:
@@ -270,17 +307,23 @@ mods:
             v5.0.2:
             v5.0.5:
             v5.0.7:
+            v5.0.8b:
+            v5.0.9:
     MineChem:
         installtype: "zip"
         versions:
             v2.0.0pr2:
             v2.0.0pr5.3:
+            v2.0.0pr6.1:
     MinefactoryReloaded:
         installtype: "zip"
         versions:
             1.4.4:
             v1.4.6:
             v2.0.0:
+            v2.0.3:
+            v2.0.4:
+            v2.0.5:
     MiscPeripherals:
         installtype: "zip"
         versions:
@@ -308,7 +351,7 @@ mods:
     Necromancy:
         installtype: "zip"
         versions:
-            1.4.6b4:
+            v1.4.6b4:
     NEI-ThermalExpansion:
         installtype: "zip"
         versions:
@@ -327,6 +370,8 @@ mods:
         versions:
             1.4.4:
             v1.4.6:
+            v2.0.0:
+            v2.0.2:
     NotEnoughItems:
         installtype: "zip"
         versions:
@@ -357,12 +402,17 @@ mods:
         versions:
             1.0_1.4.5:
             v1.0_1.4.6:
+            v1.01_1.4.6:
     Portalgun:
         installtype: "zip"
         versions:
             1.4.4v0.1:
             v1.4.6v1:
             v1.4.6v2:
+    PowerCrystalsCore:
+        installtype: "zip"
+        versions:
+            v1.0.0:
     ProjectBench:
         installtype: "zip"
         versions:
@@ -374,6 +424,7 @@ mods:
             v0.6.0:
             v0.6.0b:
             v0.6.1:
+            v0.6.2:
     Railcraft:
         installtype: "zip"
         versions:
@@ -381,6 +432,7 @@ mods:
             v6.12.0.0:
             v6.12.2.0:
             v6.13.1.0:
+            v6.14.0.0:
     RecipeRemover:
         installtype: "zip"
         versions:
@@ -404,6 +456,10 @@ mods:
         versions:
             1.4.4:
             v1.4.6:
+    Scaffolding:
+        installtype: "zip"
+        versions:
+            v1.4.6ml1:
     SecretRooms:
         installtype: "zip"
         versions:
@@ -431,6 +487,10 @@ mods:
         versions:
             3.0.1b:
             v3.0.1c:
+    ThaumicBees:
+        installtype: "zip"
+        versions:
+            v1.0.701-56:
     ThermalExpansion:
         installtype: "zip"
         versions:
@@ -445,10 +505,12 @@ mods:
         versions:
             3.1.12_014:
             v3.1.13_010:
+            v3.1.13_030:
     Tubestuff:
         installtype: "zip"
         versions:
             51.0.4:
+            v52.0.8:
     Twilightforest:
         installtype: "zip"
         versions:
@@ -463,17 +525,26 @@ mods:
             v1.2.1.317:
             v1.2.1.318:
             v1.2.1.320:
+            v1.2.2.327:
     ValvePipes:
         installtype: "zip"
         versions:
             1.3.2:
             v1.4.6:
+    WildCaves3:
+        installtype: "zip"
+        versions:
+            v0.3.2:
     Weaponmod:
         installtype: "zip"
         versions:
             1.10:
             v1.10-2:
             v1.10-3:
+    WitchesandMore:
+        installtype: "zip"
+        versions:
+            v109:
     WeeeFlowers:
         installtype: "zip"
         versions:
@@ -505,6 +576,8 @@ mods:
         versions:
             RC2.2.10:
             v3.0.0:
+            v3.0.1:
+            v3.1.1:
     z-atomicpack-configs:
         installtype: "zip"
         versions:
@@ -513,11 +586,10 @@ mods:
             v2.0.1:
             v2.0.2:
             v2.0.4:
-            v3.0.0:
-    z-plussigmapackconfigs:
+    z-plussigmapack-configs:
         installtype: "zip"
         versions:
-            1.0.0:
+            v1.0.0:
     atomicpack:
         installtype: "zip"
         versions:
