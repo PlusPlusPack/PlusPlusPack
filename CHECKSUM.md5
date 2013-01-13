@@ -39,7 +39,7 @@ ae6d695605990bd2544b358f17b11c28|Libraries/trove4j/trove4j-3.0.1.jar
 f90f614a5b5994909cc7f6bc7246ed1f|md5.sh
 82f6b2e7a83e88296d5b4644cacfc778|minecraft.yml
 c2702bc8a33d29da0bd5513e2a4cedee|mirrors.yml
-e96c18063935f943de9f89f658147379|modlibrary.yml
+2c6a13129a0c2b470a6160d33320362d|modlibrary.yml
 9d75f2db69a54fe2bd06244cb6dd16f3|modpacks.yml
 9f888fcd7c0701fff5b84ddcf7eb1d89|mods/AdditionalPipes/AdditionalPipes-2.1.3u28b2.zip
 780af022e2b2697c94023a0f6e8399eb|mods/AdditionalPipes/AdditionalPipes-v2.1.3u36b.zip
@@ -278,7 +278,7 @@ b1372037c05e1ac2ef4b5e4a451b7adc|mods/z-atomicpack-configs/z-atomicpack-configs-
 2abd8a9e58db03ae87fd625de3fc2fe9|mods/z-plusmultipack-configs/z-plusmultipack-configs-v3.0.0.zip
 9d3b7025212509b5622a1201707dbce4|mods/z-plussigmapack-configs/z-plussigmapack-configs-v1.0.0.zip
 e26ab80e55cd1c35692a42a1ebd9be75|Patches/Minecraft/minecraft_1.4.6-1.4.5.patch
-88c16f4af937bf86aa2a27605e6dc3d9|plusmultipack/modpack.yml
+d7330d477391b3e254adc6e5708e7884|plusmultipack/modpack.yml
 4414ce7f3da117b613ab152a4bed33af|plusmultipack/resources/background.jpg
 401cc30df498940e8e559404d9ff88ab|plusmultipack/resources/favicon.png
 c5b8519aae94f41c43a01e8c298b6658|plusmultipack/resources/icon.png
@@ -324,5 +324,6 @@ a0c91d94e1e2c22def32ee02a48d1474|mods/UniversalElectricity/UniversalElectricity-
 4497534ce490662d2e5228700c299bda|mods/dustmod/dustmod-v1.2.zip
 7a42a6dd427540d0243fc0a805f6eefc|mods/z-plusmultipack-configs/z-plusmultipack-configs-v3.1.0.zip
 8e3c25c2b1e12921267dd7a1f1ad71ce|mods/treecapitator/treecapitator-v1.4.6.r03.zip
-0b2fdb78dd67a10406203bdf69a0f378|mods/z-plusmultipack-configs/z-plusmultipack-configs-v3.1.1.zip
+dbcd035c6f56d779801e6693b075e349|mods/z-plusmultipack-configs/z-plusmultipack-configs-v3.1.1.zip
 609290ac81e3c08b572d5d56ca682ac3|mods/ElectricExpansion/ElectricExpansion-v1.2.7.zip
+9c2e74e99279b18e91b4b0c8eb177b2d|mods/MachineMuseModularPowerSuits/MachineMuseModularPowerSuits-v0.0.12.zip
