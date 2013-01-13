@@ -1,7 +1,7 @@
 launcher: 0.5.0
-current: 3.1.10
+current: 3.1.11
 recommended: 3.0.3
-latest: 3.1.10
+latest: 3.1.11
 lib-1: &lib-1
     commons-io: 2.1
     commons-lang3: 3.1
@@ -11,7 +11,7 @@ lib-1: &lib-1
     snakeyaml: 1.9
     trove4j: 3.0.1
 builds:
-    3.1.10:
+    3.1.11:
         libraries:
         minecraft: 1.4.7
         mods:
@@ -61,6 +61,7 @@ builds:
             Obsidiplates: v1.2.0.3
             OmniTools: v2.2.5
             PamsHarvestcraft: v1.0_1.4.6
+            pmcompat: v0.0.1
             Portalgun: v1.4.6v2
             PowerCrystalsCore: v1.0.0
             ProjectZuluComplete: v0.6.2

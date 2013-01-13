@@ -409,6 +409,10 @@ mods:
             1.0_1.4.5:
             v1.0_1.4.6:
             v1.01_1.4.6:
+    pmcompat:
+        installtype: "zip"
+        versions:
+            v0.0.1:
     Portalgun:
         installtype: "zip"
         versions:
