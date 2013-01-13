@@ -8,6 +8,7 @@ mods:
         versions:
             atomicpack-v1.0:
             atomicpack-v2.0.0:
+            atomicpack-v3.0.0:
             plusmultipack-RC2.2.8:
             plusmultipack-v3.0.0:
             plussigmapack-v1.0.0:
@@ -71,6 +72,10 @@ mods:
         versions:
             1.2.1:
             v1.3.0:
+    chargepads:
+        installtype: "zip"
+        versions:
+            v2.3.0.58:
     ChestTransporter:
         installtype: "zip"
         versions:
@@ -180,6 +185,7 @@ mods:
             v1.6.4.0:
             v1.6.4.1:
             v1.6.4.2:
+            v1.7.0.1:
     GraviSuite:
         installtype: "zip"
         versions:
@@ -507,6 +513,7 @@ mods:
             v2.0.1:
             v2.0.2:
             v2.0.4:
+            v3.0.0:
     z-plussigmapackconfigs:
         installtype: "zip"
         versions:
