@@ -134,9 +134,9 @@ b58b06e49cd4c9b4c2b6c17b665158a5|mods/ICBM/ICBM-v0.7.3.99.zip
 ddf89910a2692b5538644e0653711670|mods/ICBM/ICBM-v1.0.0.115.zip
 20cf957594dda2a23401841f3c72f6f9|mods/ICBM/ICBM-v1.0.0.118.zip
 436e8d0287965749ae88b23e521458f6|mods/ImmibisCore/ImmibisCore-51.0.5.zip
-34ab7c5dedf0d6a6b80860029bae0713|mods/ImmibisCore/ImmibisCore-v52.2.2.zip
+165483c0be1eed600c2463f6ad098def|mods/ImmibisCore/ImmibisCore-v52.2.2.zip
 107f9440d8ffa7b388e4a4287d3fa55f|mods/ImmibisPeripherals/ImmibisPeripherals-51.1.1.zip
-87cda8147fe8a37c3cbcabad1cfa71d7|mods/ImmibisPeripherals/ImmibisPeripherals-v52.0.8.zip
+5ac2e5df8bf0d51637390232b5e669e2|mods/ImmibisPeripherals/ImmibisPeripherals-v52.0.8.zip
 eec6588422d6cf99ddabbe333c7531c9|mods/InvTweaks/InvTweaks-1.45.zip
 826f2382668d10d23fa854c547b9b831|mods/InvTweaks/InvTweaks-v1.46.zip
 a7c4bf1febd95b772e4dbae0d40df198|mods/InvTweaks/InvTweaks-v1.49.zip
@@ -256,7 +256,7 @@ fed65431e818035cd5a8a4eeb54df488|mods/ThermalExpansionNEI/ThermalExpansionNEI-v2
 95611bbebd5ee82929f8c592bb59ccde|mods/treecapitator/treecapitator-v1.4.5.r04.zip
 b4176ac08a2016712625536e6cda3306|mods/treecapitator/treecapitator-v1.4.6.r01.zip
 56bae1453e03bad2d7c6f0f58c3a0b18|mods/Tubestuff/Tubestuff-51.0.4.zip
-58fcb74a0957489dd8480a9db7153d10|mods/Tubestuff/Tubestuff-v52.0.8.zip
+00d0689d4c2ba5cf9bedab2acea69869|mods/Tubestuff/Tubestuff-v52.0.8.zip
 73fc50d0d871562a652a48ab793e9f2a|mods/Twilightforest/Twilightforest-1.13.2.zip
 53df960d712b224b50556ae7f3fb7a04|mods/Twilightforest/Twilightforest-v1.14.0.zip
 74e224f201a627d48fc88d76e977c293|mods/UniversalElectricity/UniversalElectricity-1.2.0.303.zip
@@ -287,7 +287,7 @@ b1372037c05e1ac2ef4b5e4a451b7adc|mods/z-atomicpack-configs/z-atomicpack-configs-
 2abd8a9e58db03ae87fd625de3fc2fe9|mods/z-plusmultipack-configs/z-plusmultipack-configs-v3.0.0.zip
 9d3b7025212509b5622a1201707dbce4|mods/z-plussigmapack-configs/z-plussigmapack-configs-v1.0.0.zip
 e26ab80e55cd1c35692a42a1ebd9be75|Patches/Minecraft/minecraft_1.4.6-1.4.5.patch
-4f4972fcaa18c0517528345a0fc8aa10|plusmultipack/modpack.yml
+fb9dc06d21b4411afe91ca7251a3a657|plusmultipack/modpack.yml
 4414ce7f3da117b613ab152a4bed33af|plusmultipack/resources/background.jpg
 401cc30df498940e8e559404d9ff88ab|plusmultipack/resources/favicon.png
 c5b8519aae94f41c43a01e8c298b6658|plusmultipack/resources/icon.png
@@ -333,6 +333,6 @@ a0c91d94e1e2c22def32ee02a48d1474|mods/UniversalElectricity/UniversalElectricity-
 4497534ce490662d2e5228700c299bda|mods/dustmod/dustmod-v1.2.zip
 7a42a6dd427540d0243fc0a805f6eefc|mods/z-plusmultipack-configs/z-plusmultipack-configs-v3.1.0.zip
 8e3c25c2b1e12921267dd7a1f1ad71ce|mods/treecapitator/treecapitator-v1.4.6.r03.zip
-dbcd035c6f56d779801e6693b075e349|mods/z-plusmultipack-configs/z-plusmultipack-configs-v3.1.1.zip
+b0fd0b596c8dba2e04bf448462f5ca39|mods/z-plusmultipack-configs/z-plusmultipack-configs-v3.1.1.zip
 609290ac81e3c08b572d5d56ca682ac3|mods/ElectricExpansion/ElectricExpansion-v1.2.7.zip
 b1a62f8b918a993b55f20614591e9499|mods/MachineMuseModularPowerSuits/MachineMuseModularPowerSuits-v0.0.13.zip
