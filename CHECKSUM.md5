@@ -39,7 +39,7 @@ ae6d695605990bd2544b358f17b11c28|Libraries/trove4j/trove4j-3.0.1.jar
 6d7b4e4b57752ea2391ff64159606d34|md5.sh
 f275f512b84cdc38da503996bd150d64|minecraft.yml
 c2702bc8a33d29da0bd5513e2a4cedee|mirrors.yml
-c19bf070437e997ca500313ddfdf38bc|modlibrary.yml
+c0b18a82b55e8a534f601f99756fc8d0|modlibrary.yml
 9d75f2db69a54fe2bd06244cb6dd16f3|modpacks.yml
 9f888fcd7c0701fff5b84ddcf7eb1d89|mods/AdditionalPipes/AdditionalPipes-2.1.3u28b2.zip
 780af022e2b2697c94023a0f6e8399eb|mods/AdditionalPipes/AdditionalPipes-v2.1.3u36b.zip
@@ -331,7 +331,7 @@ b687971bd4a77ccb04330f7e86211841|Patches/Minecraft/Create Patch/diff.jar
 e26ab80e55cd1c35692a42a1ebd9be75|Patches/Minecraft/minecraft_1.4.6-1.4.5.patch
 0ab5df5f64102c215fd04efa22eeb030|Patches/Minecraft/minecraft_1.4.7-1.4.5.patch
 28b4fa734721d1963ea2a06bcb94b71a|Patches/Minecraft/minecraft_1.4.7-1.4.6.patch
-cbba7d1f28a01f9841867aef96d4eb68|plusmultipack/modpack.yml
+a37af4153870262878e26952967b5cd0|plusmultipack/modpack.yml
 4414ce7f3da117b613ab152a4bed33af|plusmultipack/resources/background.jpg
 401cc30df498940e8e559404d9ff88ab|plusmultipack/resources/favicon.png
 c5b8519aae94f41c43a01e8c298b6658|plusmultipack/resources/icon.png
@@ -344,3 +344,4 @@ c5b8519aae94f41c43a01e8c298b6658|plusmultipack/resources/icon.png
 d41d8cd98f00b204e9800998ecf8427e|README.md
 3f99ee544eaa5d0bad7fa2f114de4b1b|mods/pmcompat/pmcompat-v0.0.1.zip
 470816bd6a0e913f0adfd40a6658911b|mods/pmcompat/pmcompat-v0.0.2.zip
+3904851aa93bd63dbd2fa657ba754f43|mods/MachineMuseModularPowerSuits/MachineMuseModularPowerSuits-v0.0.32.zip
