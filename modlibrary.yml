@@ -252,6 +252,7 @@ mods:
         versions:
             4.1b2:
             v4.0:
+            v4.0-nosound:
     LibShapeDraw:
         installtype: "zip"
         versions:
