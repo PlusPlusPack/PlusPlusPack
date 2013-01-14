@@ -590,6 +590,7 @@ mods:
             v3.0.0:
             v3.0.1:
             v3.1.1:
+            v3.2.0:
     z-atomicpack-configs:
         installtype: "zip"
         versions:
