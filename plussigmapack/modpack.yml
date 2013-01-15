@@ -15,7 +15,7 @@ builds:
         libraries:
         minecraft: 1.4.7
         mods:
-            basemods: plussigmapack-v1.0.1
+            basemods: plusmultipack-v3.1.0
             CodeChickenCore: v0.7.0.2
             mcore: v5.32.272
             ArsMagica: v5.32.272
