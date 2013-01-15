@@ -12,6 +12,7 @@ mods:
             plusmultipack-RC2.2.8:
             plusmultipack-v3.0.0:
             plussigmapack-v1.0.0:
+            plussigmapack-v1.0.1:
             plusmultipack-v3.1.0:
     treecapitator:
         installtype: "zip"
@@ -128,7 +129,7 @@ mods:
             v2.7_1.4.6:
             v2.8b_1.4.6:
             v2.9_1.4.6:
-    DamageIndocators:
+    DamageIndicators:
         installtype: "zip"
         versions:
             v2.3.7:
@@ -619,6 +620,7 @@ mods:
         installtype: "zip"
         versions:
             v1.0.0:
+            v1.0.1:
     atomicpack:
         installtype: "zip"
         versions:
