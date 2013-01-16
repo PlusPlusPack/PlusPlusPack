@@ -579,6 +579,7 @@ mods:
         installtype: "zip"
         versions:
             v109:
+            v111:
     WeeeFlowers:
         installtype: "zip"
         versions:

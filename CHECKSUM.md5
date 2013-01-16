@@ -39,7 +39,7 @@ ae6d695605990bd2544b358f17b11c28|Libraries/trove4j/trove4j-3.0.1.jar
 6d7b4e4b57752ea2391ff64159606d34|md5.sh
 f275f512b84cdc38da503996bd150d64|minecraft.yml
 c2702bc8a33d29da0bd5513e2a4cedee|mirrors.yml
-ed56ed5432c21490d1e449b176b45ce2|modlibrary.yml
+2de14f76dd7e87e7a2aac7b5e66ff571|modlibrary.yml
 9d75f2db69a54fe2bd06244cb6dd16f3|modpacks.yml
 9f888fcd7c0701fff5b84ddcf7eb1d89|mods/AdditionalPipes/AdditionalPipes-2.1.3u28b2.zip
 780af022e2b2697c94023a0f6e8399eb|mods/AdditionalPipes/AdditionalPipes-v2.1.3u36b.zip
@@ -346,7 +346,7 @@ b6966697b399e17441e9b3b7d30188a1|plusmultipack/modpack.yml
 401cc30df498940e8e559404d9ff88ab|plusmultipack/resources/favicon.png
 c5b8519aae94f41c43a01e8c298b6658|plusmultipack/resources/icon.png
 82aca6d971f3d4b5bc638cd95892a41d|plusmultipack/resources/logo.png
-35f368a4bb9dc2e5742c7c1b267b79ad|plussigmapack/modpack.yml
+f3b00a7fc543c06526e068fe84759b3e|plussigmapack/modpack.yml
 4414ce7f3da117b613ab152a4bed33af|plussigmapack/resources/background.jpg
 0dddc33c952ada52bc49ce6241690321|plussigmapack/resources/favicon.png
 99914daac918134d9e9996dddb914dd0|plussigmapack/resources/icon.png
@@ -360,3 +360,4 @@ b410ed15d9dde597373eff72f1a57f08|mods/Mekanism/Mekanism-v5.0.11b.zip
 902630b3181e252beb8de80559bed4bf|mods/MekanismGenerators/MekanismGenerators-v5.0.11b.zip
 0d7d2836f196248cef8f6176b95acadf|mods/MekanismTools/MekanismTools-v5.0.11b.zip
 0be8f5608fd182d36715456a0cf77631|mods/UniversalElectricity/UniversalElectricity-v1.2.3.331.zip
+7e45d53f8050c7a0064298bb38a7270d|mods/WitchesandMore/WitchesandMore-v111.zip

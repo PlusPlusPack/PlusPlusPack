@@ -1,7 +1,7 @@
 launcher: 1.0.1
-current: 1.0.4
-recommended: 1.0.4
-latest: 1.0.4
+current: 1.0.5
+recommended: 1.0.5
+latest: 1.0.5
 lib-1:
     commons-io: 2.1
     commons-lang3: 3.1
@@ -11,7 +11,7 @@ lib-1:
     snakeyaml: 1.9
     trove4j: 3.0.1
 builds:
-    1.0.4:
+    1.0.5:
         libraries:
         minecraft: 1.4.7
         mods:
@@ -58,7 +58,7 @@ builds:
             Thaumcraft: v3.0.1c
             treecapitator: v1.4.6.r03
             Twilightforest: v1.14.0
-            WitchesandMore: v109
+            WitchesandMore: v111
             WildCaves3: v0.3.2
             Weaponmod: v1.10-2
             WeeeFlowers: v1.0b
