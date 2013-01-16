@@ -45,6 +45,7 @@ mods:
             v0.3.0.122:
             v0.3.1.123:
             v0.3.2.127:
+            v0.3.3.130:
     Backpack:
         installtype: "zip"
         versions:
@@ -159,6 +160,7 @@ mods:
             v1.1.0:
             v1.1.1:
             v1.2.7:
+            v1.3.2:
     EnderStorage:
         installtype: "zip"
         versions:
@@ -235,6 +237,7 @@ mods:
             v1.0.0.115:
             v1.0.0.118:
             v1.0.1.123:
+            v1.0.2.126:
     ImmibisCore:
         installtype: "zip"
         versions:
@@ -290,6 +293,7 @@ mods:
             v0.0.10:
             v0.0.13:
             v0.0.32:
+            v0.1.2:
     Millenaire:
         installtype: "zip"
         versions:
@@ -310,6 +314,7 @@ mods:
             v5.0.7:
             v5.0.8b:
             v5.0.9:
+            v5.0.11b:
     MekanismGenerators:
         installtype: "zip"
         versions:
@@ -320,6 +325,7 @@ mods:
             v5.0.7:
             v5.0.8b:
             v5.0.9:
+            v5.0.11b:
     MekanismTools:
         installtype: "zip"
         versions:
@@ -330,6 +336,7 @@ mods:
             v5.0.7:
             v5.0.8b:
             v5.0.9:
+            v5.0.11b:
     MineChem:
         installtype: "zip"
         versions:
@@ -552,6 +559,7 @@ mods:
             v1.2.1.318:
             v1.2.1.320:
             v1.2.2.327:
+            v1.2.3.331:
     ValvePipes:
         installtype: "zip"
         versions:

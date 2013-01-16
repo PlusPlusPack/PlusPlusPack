@@ -1,7 +1,7 @@
 launcher: 0.5.0
-current: 3.2.2
+current: 3.2.3
 recommended: 3.1.12
-latest: 3.2.2
+latest: 3.2.3
 lib-1: &lib-1
     commons-io: 2.1
     commons-lang3: 3.1
@@ -11,13 +11,13 @@ lib-1: &lib-1
     snakeyaml: 1.9
     trove4j: 3.0.1
 builds:
-    3.2.2:
+    3.2.3:
         libraries:
         minecraft: 1.4.7
         mods:
             basemods: plusmultipack-v3.1.0
             AdditionalPipes: v2.1.3u40
-            AtomicScience: v0.3.2.127
+            AtomicScience: v0.3.3.130
             BetterAnvil: v1.4.6
             BetterStorage: v0.4.2
             Buildcraft: v3.4.0
@@ -27,7 +27,7 @@ builds:
             ComputerCraft: v1.481
             CraftAndEnchant: v2.9_1.4.6
             dustmod: v1.2
-            ElectricExpansion: v1.2.7
+            ElectricExpansion: v1.3.2
             EnderStorage: v1.3.1.1
             EnhancedPortals: v1.4.2
             ExtraBees: v1.4.9.14-prerelease
@@ -36,7 +36,7 @@ builds:
             Forestry: v1.7.0.3
             Factorization: v0.7.10-2
             GregsProspecting: v1.4.2
-            ICBM: v1.0.1.123
+            ICBM: v1.0.2.126
             ImmibisCore: v52.2.2
             ImmibisPeripherals: v52.0.8
             InvTweaks: v1.49
@@ -44,10 +44,10 @@ builds:
             JammyFurniture: v4.0-nosound
             LightLevelOverlay: v0.9
             LogisticsPipes: v0.7.0.75
-            MachineMuseModularPowerSuits: v0.0.32
-            Mekanism: v5.0.9
-            MekanismGenerators: v5.0.9
-            MekanismTools: v5.0.9
+            MachineMuseModularPowerSuits: v0.1.2
+            Mekanism: v5.0.11b
+            MekanismGenerators: v5.0.11b
+            MekanismTools: v5.0.11b
             MineChem: v2.0.0pr6.1
             MinefactoryReloaded: v2.0.5
             MobAmputation: v1.4.6v1
@@ -81,7 +81,7 @@ builds:
             treecapitator: v1.4.6.r03
             Tubestuff: v52.0.8
             Twilightforest: v1.14.0
-            UniversalElectricity: v1.2.2.327
+            UniversalElectricity: v1.2.3.331
             ValvePipes: v1.4.6
             Weaponmod: v1.10-3
             WeeeFlowers: v1.0b

@@ -39,7 +39,7 @@ ae6d695605990bd2544b358f17b11c28|Libraries/trove4j/trove4j-3.0.1.jar
 6d7b4e4b57752ea2391ff64159606d34|md5.sh
 f275f512b84cdc38da503996bd150d64|minecraft.yml
 c2702bc8a33d29da0bd5513e2a4cedee|mirrors.yml
-0bba43c25f7bf7a4f01c5f0b8cf7edc6|modlibrary.yml
+ed56ed5432c21490d1e449b176b45ce2|modlibrary.yml
 9d75f2db69a54fe2bd06244cb6dd16f3|modpacks.yml
 9f888fcd7c0701fff5b84ddcf7eb1d89|mods/AdditionalPipes/AdditionalPipes-2.1.3u28b2.zip
 780af022e2b2697c94023a0f6e8399eb|mods/AdditionalPipes/AdditionalPipes-v2.1.3u36b.zip
@@ -332,7 +332,7 @@ dcb5ee98e3a2c57448381b29e7f93fbb|mods/z-atomicpack-configs/z-atomicpack-configs-
 2abd8a9e58db03ae87fd625de3fc2fe9|mods/z-plusmultipack-configs/z-plusmultipack-configs-v3.0.0.zip
 7d26e2faa20d65a0ca8f3354443f8a49|mods/z-plusmultipack-configs/z-plusmultipack-configs-v3.0.1.zip
 b0fd0b596c8dba2e04bf448462f5ca39|mods/z-plusmultipack-configs/z-plusmultipack-configs-v3.1.1.zip
-871acb571a0915e2d08fb2e045fbcf6b|mods/z-plusmultipack-configs/z-plusmultipack-configs-v3.2.0.zip
+10242a997aacc339f13cc083e94d794b|mods/z-plusmultipack-configs/z-plusmultipack-configs-v3.2.0.zip
 9d3b7025212509b5622a1201707dbce4|mods/z-plussigmapack-configs/z-plussigmapack-configs-v1.0.0.zip
 4e7ae617452a4a259478dd6f1526c493|mods/z-plussigmapack-configs/z-plussigmapack-configs-v1.0.1.zip
 b9bb3e45d58b6351e1093a6fb9f7d4a7|Patches/Minecraft/Create Patch/Create Patch.bat
@@ -341,7 +341,7 @@ b687971bd4a77ccb04330f7e86211841|Patches/Minecraft/Create Patch/diff.jar
 e26ab80e55cd1c35692a42a1ebd9be75|Patches/Minecraft/minecraft_1.4.6-1.4.5.patch
 0ab5df5f64102c215fd04efa22eeb030|Patches/Minecraft/minecraft_1.4.7-1.4.5.patch
 28b4fa734721d1963ea2a06bcb94b71a|Patches/Minecraft/minecraft_1.4.7-1.4.6.patch
-82836ef3bb5336b549b650494d4f8e33|plusmultipack/modpack.yml
+b6966697b399e17441e9b3b7d30188a1|plusmultipack/modpack.yml
 4414ce7f3da117b613ab152a4bed33af|plusmultipack/resources/background.jpg
 401cc30df498940e8e559404d9ff88ab|plusmultipack/resources/favicon.png
 c5b8519aae94f41c43a01e8c298b6658|plusmultipack/resources/icon.png
@@ -352,3 +352,11 @@ c5b8519aae94f41c43a01e8c298b6658|plusmultipack/resources/icon.png
 99914daac918134d9e9996dddb914dd0|plussigmapack/resources/icon.png
 2b093230893d001a3f2d77e03611d404|plussigmapack/resources/logo.png
 d41d8cd98f00b204e9800998ecf8427e|README.md
+eee3744a37275af447c474578fb93c65|mods/AtomicScience/AtomicScience-v0.3.3.130.zip
+0085be51c017ccb902c0376618bf79af|mods/ElectricExpansion/ElectricExpansion-v1.3.2.zip
+bf5bcfa0aca1cfc41bb4067a95c83e05|mods/ICBM/ICBM-v1.0.2.126.zip
+57aa938f8c994848c4ccb8a05d90ff98|mods/MachineMuseModularPowerSuits/MachineMuseModularPowerSuits-v0.1.2.zip
+b410ed15d9dde597373eff72f1a57f08|mods/Mekanism/Mekanism-v5.0.11b.zip
+902630b3181e252beb8de80559bed4bf|mods/MekanismGenerators/MekanismGenerators-v5.0.11b.zip
+0d7d2836f196248cef8f6176b95acadf|mods/MekanismTools/MekanismTools-v5.0.11b.zip
+0be8f5608fd182d36715456a0cf77631|mods/UniversalElectricity/UniversalElectricity-v1.2.3.331.zip
