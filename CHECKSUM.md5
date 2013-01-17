@@ -1,10 +1,10 @@
-688c92a9ef4f183ee961cc75c6725420|plussigmapack/modpack.yml
+0e58f67ff1c0572989b4b6f436d487c5|plussigmapack/modpack.yml
 2b093230893d001a3f2d77e03611d404|plussigmapack/resources/logo.png
 4414ce7f3da117b613ab152a4bed33af|plussigmapack/resources/background.jpg
 0dddc33c952ada52bc49ce6241690321|plussigmapack/resources/favicon.png
 99914daac918134d9e9996dddb914dd0|plussigmapack/resources/icon.png
 d41d8cd98f00b204e9800998ecf8427e|README.md
-0d4291d1ef90cbaeadbb512428b30c63|modlibrary.yml
+95b50387671392594722a541b48a2a90|modlibrary.yml
 7dc6e4a87b11e5e876b04e039ad6fb41|libraries.yml
 f275f512b84cdc38da503996bd150d64|minecraft.yml
 b6966697b399e17441e9b3b7d30188a1|plusmultipack/modpack.yml
@@ -49,7 +49,7 @@ cd06de3d5e46eec4b304a6c1f2004a85|pluspluspack/modpack.yml
 4414ce7f3da117b613ab152a4bed33af|pluspluspack/resources/background.jpg
 401cc30df498940e8e559404d9ff88ab|pluspluspack/resources/favicon.png
 c5b8519aae94f41c43a01e8c298b6658|pluspluspack/resources/icon.png
-58b89836f78164b0b3cabbc085669a4a|CHECKSUM.md5
+9eb66e7c7f4a3aa84fca26322c8c99c1|CHECKSUM.md5
 18809df705c3e37ff465d497b950476c|atomicpack/modpack.yml
 d1fa4b584ccccb7bb655d74961672e06|atomicpack/resources/logo.png
 8c6799ac8c40d9bf3f2d2200aabf1ba8|atomicpack/resources/background.jpg
@@ -154,6 +154,7 @@ ad6c27d885e2b1444c8a1ce79e77efc7|mods/MekanismGenerators/MekanismGenerators-v5.0
 902630b3181e252beb8de80559bed4bf|mods/MekanismGenerators/MekanismGenerators-v5.0.11b.zip
 151c4d1fae63efa2ef1d30a817c023ab|mods/MekanismGenerators/MekanismGenerators-v5.0.5.zip
 9539cbd5269ce18a849ee8afdca422dc|mods/MekanismGenerators/MekanismGenerators-v5.0.8b.zip
+dabf693d820d5a7aebf1dd9e3f6df355|mods/z-plussigmapack-configs/z-plussigmapack-configs-v1.0.3.zip
 9d3b7025212509b5622a1201707dbce4|mods/z-plussigmapack-configs/z-plussigmapack-configs-v1.0.0.zip
 a4c7be3d772f4967d9a9eeb6ff76f2da|mods/z-plussigmapack-configs/z-plussigmapack-configs-v1.0.2.zip
 4e7ae617452a4a259478dd6f1526c493|mods/z-plussigmapack-configs/z-plussigmapack-configs-v1.0.1.zip
