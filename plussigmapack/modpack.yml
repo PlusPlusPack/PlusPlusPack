@@ -1,7 +1,7 @@
 launcher: 1.0.1
-current: 1.0.5
-recommended: 1.0.5
-latest: 1.0.5
+current: 1.0.6
+recommended: 1.0.6
+latest: 1.0.6
 lib-1:
     commons-io: 2.1
     commons-lang3: 3.1
@@ -11,14 +11,16 @@ lib-1:
     snakeyaml: 1.9
     trove4j: 3.0.1
 builds:
-    1.0.5:
+    1.0.6:
         libraries:
         minecraft: 1.4.7
         mods:
             basemods: plusmultipack-v3.1.0
             CodeChickenCore: v0.7.0.2
             mcore: v5.32.272
+            ArmorPlus: Alpha100
             ArsMagica: v5.32.272
+            AuroraRubealis: v101
             Backpack: v1.5.7
             Backtools: 1.4.6v1
             BetterStorage: v0.4.2
@@ -39,6 +41,7 @@ builds:
             Familiars: 1.4.6
             InvTweaks: v1.46
             IronChest: v4.5.2.213
+            MeteorsMod: v292
             Millenaire: v3.4.0
             MobAmputation: v1.4.6v1
             MobDismemberment: v1.4.6v1
@@ -62,5 +65,5 @@ builds:
             WildCaves3: v0.3.2
             Weaponmod: v1.10-2
             WeeeFlowers: v1.0b
-            z-plussigmapack-configs: v1.0.1
+            z-plussigmapack-configs: v1.0.2
 

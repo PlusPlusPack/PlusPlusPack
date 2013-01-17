@@ -26,15 +26,39 @@ mods:
             2.1.3u28b2:
             v2.1.3u36b:
             v2.1.3u40:
+    AdvancedMachines:
+        installtype: "zip"
+        versions:
+            v4.7a:
+    AdvPowerManagement:
+        installtype: "zip"
+        versions:
+            v1.1.55:
+    AdvRepulsionSystems:
+        installtype: "zip"
+        versions:
+            v52.0.4:
+    AdvSolarPanels:
+        installtype: "zip"
+        versions:
+            v3.3.2:
     ArcaneAscension:
         installtype: "zip"
         versions:
             PR4:
+    ArmorPlus:
+        installtype: "zip"
+        versions:
+            Alpha100:
     ArsMagica:
         installtype: "zip"
         versions:
             v5.32.268:
             v5.32.272:
+    AssemblyLine:
+        installtype: "zip"
+        versions:
+            v0.2.1.40:
     AtomicScience:
         installtype: "zip"
         versions:
@@ -46,6 +70,10 @@ mods:
             v0.3.1.123:
             v0.3.2.127:
             v0.3.3.130:
+    AuroraRubealis:
+        installtype: "zip"
+        versions:
+            v101:
     Backpack:
         installtype: "zip"
         versions:
@@ -55,6 +83,10 @@ mods:
         installtype: "zip"
         versions:
             1.4.6v1:
+    BasicPipes:
+        installtype: "zip"
+        versions:
+            v2.2.1:
     BattleTowers:
         installtype: "zip"
         versions:
@@ -134,6 +166,14 @@ mods:
         installtype: "zip"
         versions:
             v2.3.7:
+    DiamondMeter:
+        installtype: "zip"
+        versions:
+            v2.1.5:
+    DimensionalAnchor:
+        installtype: "zip"
+        versions:
+            v52.0.6:
     DoubleDoor:
         installtype: "zip"
         versions:
@@ -161,6 +201,10 @@ mods:
             v1.1.1:
             v1.2.7:
             v1.3.2:
+    EnchantingPlus:
+        installtype: "zip"
+        versions:
+            v1.12.2:
     EnderStorage:
         installtype: "zip"
         versions:
@@ -180,6 +224,10 @@ mods:
             vpre1e:
             vpre3f:
             vpre1f:
+    EssentialCraft:
+        installtype: "zip"
+        versions:
+            v1.4.6:
     ExtraBees:
         installtype: "zip"
         versions:
@@ -224,10 +272,18 @@ mods:
         installtype: "zip"
         versions:
             v1.6:
+    GravityGun:
+        installtype: "zip"
+        versions:
+            1.4.6v1:
     GregsProspecting:
         installtype: "zip"
         versions:
             v1.4.2:
+    Gregtech:
+        installtype: "zip"
+        versions:
+            v1.4.6:
     ICBM:
         installtype: "zip"
         versions:
@@ -248,6 +304,11 @@ mods:
         versions:
             51.1.1:
             v52.0.8:
+    Infinitubes:
+        installtype: "zip"
+        versions:
+            v0.2.0:
+            v0.3.0:
     InvTweaks:
         installtype: "zip"
         versions:
@@ -337,6 +398,38 @@ mods:
             v5.0.8b:
             v5.0.9:
             v5.0.11b:
+    MetallurgyCore:
+        installtype: "zip"
+        versions:
+            v2.4:
+    MetallurgyBase:
+        installtype: "zip"
+        versions:
+            v2.4.2:
+    MetallurgyEnder:
+        installtype: "zip"
+        versions:
+            v2.4:
+    MetallurgyFantasy:
+        installtype: "zip"
+        versions:
+            v2.4:
+    MetallurgyNether:
+        installtype: "zip"
+        versions:
+            v2.4:
+    MetallurgyPrecious:
+        installtype: "zip"
+        versions:
+            v2.4:
+    MetallurgyUtility:
+        installtype: "zip"
+        versions:
+            v2.4:
+    MeteorsMod:
+        installtype: "zip"
+        versions:
+            v292:
     MineChem:
         installtype: "zip"
         versions:
@@ -371,11 +464,19 @@ mods:
         versions:
             v2.2.8.2.13:
             v2.2.8.2.14:
+    MorePipes:
+        installtype: "zip"
+        versions:
+            v1.04:
     Mystcraft:
         installtype: "zip"
         versions:
             0.9.4.05:
             v0.9.5.00:
+    MystcraftAddon:
+        installtype: "zip"
+        versions:
+            v1.4:
     Necromancy:
         installtype: "zip"
         versions:
@@ -431,6 +532,10 @@ mods:
             1.0_1.4.5:
             v1.0_1.4.6:
             v1.01_1.4.6:
+    PlusBlock:
+        installtype: "zip"
+        versions:
+            v1.0.0:
     pmcompat:
         installtype: "zip"
         versions:
@@ -442,10 +547,19 @@ mods:
             1.4.4v0.1:
             v1.4.6v1:
             v1.4.6v2:
+    PowerConverters:
+        installtype: "zip"
+        versions:
+            v1.4.6:
     PowerCrystalsCore:
         installtype: "zip"
         versions:
             v1.0.0:
+            v1.0.1:
+    PowerTools:
+        installtype: "zip"
+        versions:
+            v1.1.4.6:
     ProjectBench:
         installtype: "zip"
         versions:
@@ -533,6 +647,10 @@ mods:
         installtype: "zip"
         versions:
             v2.1.6:
+    TF2:
+        installtype: "zip"
+        versions:
+            v1.4.6:
     Traincraft:
         installtype: "zip"
         versions:
@@ -549,6 +667,10 @@ mods:
         versions:
             1.13.2:
             v1.14.0:
+    UltimateFist:
+        installtype: "zip"
+        versions:
+            v1.4.6:
     UniversalElectricity:
         installtype: "zip"
         versions:
@@ -614,6 +736,10 @@ mods:
             v3.0.1:
             v3.1.1:
             v3.2.0:
+    z-pluspluspack-configs:
+        installtype: "zip"
+        versions:
+            v1.0.0:
     z-atomicpack-configs:
         installtype: "zip"
         versions:
@@ -630,6 +756,7 @@ mods:
         versions:
             v1.0.0:
             v1.0.1:
+            v1.0.2:
     atomicpack:
         installtype: "zip"
         versions:

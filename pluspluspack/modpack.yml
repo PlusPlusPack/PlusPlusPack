@@ -1,0 +1,107 @@
+launcher: 0.5.0
+current: 1.0.0
+recommended: 1.0.0
+latest: 1.0.0
+lib-1: &lib-1
+    commons-io: 2.1
+    commons-lang3: 3.1
+    guava: 10.0.1
+    joda-time: 2.0
+    slick: 0.3
+    snakeyaml: 1.9
+    trove4j: 3.0.1
+builds:
+    1.0.0:
+        libraries:
+        minecraft: 1.4.7
+        mods:
+            basemods: plusmultipack-v3.1.0
+            AdvancedMachines: v4.7a
+            AdvPowerManagement: v1.1.55
+            AdvRepulsionSystems: v52.0.4
+            AdvSolarPanels: v3.3.2
+            AssemblyLine: v0.2.1.40
+            AdditionalPipes: v2.1.3u40
+            AtomicScience: v0.3.3.130
+            Backpack: v1.5.7
+            BasicPipes: v2.2.1
+            BetterAnvil: v1.4.6
+            BetterStorage: v0.4.2
+            Buildcraft: v3.4.0
+            cccable: v1.3.0
+            ChickenChunks: v1.2.1.1
+            ClaySoldiers: v9.05
+            CodeChickenCore: v0.7.0.2
+            compactsolars: v3.2.0.21
+            ComputerCraft: v1.481
+            DiamondMeter: v2.1.5
+            DimensionalAnchor: v52.0.6
+            EasyCrafting: v1.1.3
+            ElectricExpansion: v1.3.2
+            EnchantingPlus: v1.12.2
+            EnderStorage: v1.3.1.1
+            ExtraBees: v1.4.9.14-prerelease
+            ExtrabiomesXL: v3.8.0   
+            EquivalentExchange3: vpre1f
+            EssentialCraft: v1.4.6
+            Forestry: v1.7.0.3
+            Factorization: v0.7.10-2
+            GravityGun: 1.4.6v1
+            GraviSuite: v1.6
+            Gregtech: v1.4.6
+            ic2: v2.1.112.170
+            ICBM: v1.0.2.126
+            ImmibisCore: v52.2.2
+            ImmibisPeripherals: v52.0.8
+            Infinitubes: v0.3.0
+            InvTweaks: v1.49
+            IronChest: v4.5.2.207
+            LightLevelOverlay: v0.9
+            LogisticsPipes: v0.7.0.75
+            Mekanism: v5.0.11b
+            MekanismGenerators: v5.0.11b
+            MekanismTools: v5.0.11b
+            MetallurgyCore: v2.4
+            MetallurgyBase: v2.4.2
+            MetallurgyEnder: v2.4
+            MetallurgyFantasy: v2.4
+            MetallurgyNether: v2.4
+            MetallurgyPrecious: v2.4
+            MetallurgyUtility: v2.4
+            MineChem: v2.0.0pr6.1
+            MinefactoryReloaded: v2.0.5
+            MobAmputation: v1.4.6v1
+            MobDismemberment: v1.4.6v1
+            ModularForceFieldSystem: v2.2.8.2.13
+            MorePipes: v1.04
+            Mystcraft: v0.9.5.00
+            MystcraftAddon: v1.4
+            NetherOres: v2.0.2
+            NEIPlugins: v1.0.4.1
+            NEIRedPowerPlugin: v1.4.3
+            NotEnoughItems: v1.4.5.0
+            NuclearControl: v1.4.5
+            Obsidiplates: v1.2.0.3
+            OmniTools: v2.2.5
+            Portalgun: v1.4.6v2
+            PowerConverters: v1.4.6
+            PowerCrystalsCore: v1.0.1
+            PowerTools: v1.1.4.6
+            Railcraft: v6.14.0.0
+            RedPower: v2.0.6
+            ReiMinimap: v3.2_06
+            RottenFlesh: v1.4.6
+            StevesCarts: v2.0.0.a41
+            SoulShards: v1.26
+            Thaumcraft: v3.0.1c
+            ThermalExpansion: v2.1.6
+            ThermalExpansionNEI: v2.1.6
+            treecapitator: v1.4.6.r03
+            TF2: v1.4.6
+            Tubestuff: v52.0.8
+            UltimateFist: v1.4.6
+            UniversalElectricity: v1.2.3.331
+            WR-CBE: v1.3.2.4
+            xycraft: v0.9.44
+            PlusBlock: v1.0.0
+            z-pluspluspack-configs: v1.0.0
