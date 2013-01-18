@@ -1,7 +1,7 @@
 launcher: 1.0.1
-current: 1.0.7
-recommended: 1.0.7
-latest: 1.0.7
+current: 1.0.8
+recommended: 1.0.8
+latest: 1.0.8
 lib-1:
     commons-io: 2.1
     commons-lang3: 3.1
@@ -11,7 +11,7 @@ lib-1:
     snakeyaml: 1.9
     trove4j: 3.0.1
 builds:
-    1.0.7:
+    1.0.8:
         libraries:
         minecraft: 1.4.7
         mods:
@@ -47,7 +47,7 @@ builds:
             MetallurgyNether: v2.4
             MetallurgyPrecious: v2.4
             MeteorsMod: v292
-            Millenaire: v3.4.0
+            Millenaire: v4.0.1
             MobAmputation: v1.4.6v1
             MobDismemberment: v1.4.6v1
             Mystcraft: v0.9.5.00
@@ -55,7 +55,7 @@ builds:
             NotEnoughItems: v1.4.4.0
             NetherOres: v2.0.2
             Necromancy: v1.4.6b4
-            PowerCrystalsCore: v1.0.0
+            PowerCrystalsCore: v1.0.1
             PamsHarvestcraft: v1.01_1.4.6
             ProjectZuluComplete: v0.6.2
             ReiMinimap: v3.2_06
