@@ -4,10 +4,10 @@
 0dddc33c952ada52bc49ce6241690321|plussigmapack/resources/favicon.png
 99914daac918134d9e9996dddb914dd0|plussigmapack/resources/icon.png
 d41d8cd98f00b204e9800998ecf8427e|README.md
-95b50387671392594722a541b48a2a90|modlibrary.yml
+666d344066d4ebc759251877b939af3c|modlibrary.yml
 7dc6e4a87b11e5e876b04e039ad6fb41|libraries.yml
 f275f512b84cdc38da503996bd150d64|minecraft.yml
-b6966697b399e17441e9b3b7d30188a1|plusmultipack/modpack.yml
+37d09af8dd70b193666615f29eb12255|plusmultipack/modpack.yml
 a9590fc297a5cb4193450de0df0a32f7|plusmultipack/resources/logo.png
 4414ce7f3da117b613ab152a4bed33af|plusmultipack/resources/background.jpg
 401cc30df498940e8e559404d9ff88ab|plusmultipack/resources/favicon.png
@@ -44,12 +44,12 @@ d62ff8cd9539a32dac094c00e820e9e6|Libraries/lwjgl/jinput.jar
 71b48e6b3e1b1dc73fe705604b9c7584|Libraries/commons-lang3/commons-lang3-3.1.jar
 d05cd8b0a7ee4466994d64779eb28190|Libraries/guava/guava-10.0.1.jar
 ae6d695605990bd2544b358f17b11c28|Libraries/trove4j/trove4j-3.0.1.jar
-cd06de3d5e46eec4b304a6c1f2004a85|pluspluspack/modpack.yml
+b5905fd593ffbb6554c96ba359d8d114|pluspluspack/modpack.yml
 2986ab4713c2c941eb54c0b85c817c4b|pluspluspack/resources/logo.png
 4414ce7f3da117b613ab152a4bed33af|pluspluspack/resources/background.jpg
 401cc30df498940e8e559404d9ff88ab|pluspluspack/resources/favicon.png
 c5b8519aae94f41c43a01e8c298b6658|pluspluspack/resources/icon.png
-9eb66e7c7f4a3aa84fca26322c8c99c1|CHECKSUM.md5
+78cd5f5a2c4c7e26012c5a1ad96ff9fc|CHECKSUM.md5
 18809df705c3e37ff465d497b950476c|atomicpack/modpack.yml
 d1fa4b584ccccb7bb655d74961672e06|atomicpack/resources/logo.png
 8c6799ac8c40d9bf3f2d2200aabf1ba8|atomicpack/resources/background.jpg
@@ -78,6 +78,7 @@ b0fd0b596c8dba2e04bf448462f5ca39|mods/z-plusmultipack-configs/z-plusmultipack-co
 3904851aa93bd63dbd2fa657ba754f43|mods/MachineMuseModularPowerSuits/MachineMuseModularPowerSuits-v0.0.32.zip
 9c2e74e99279b18e91b4b0c8eb177b2d|mods/MachineMuseModularPowerSuits/MachineMuseModularPowerSuits-v0.0.12.zip
 3a7eeafa06507bb94b6a6df68b0a2f6d|mods/MachineMuseModularPowerSuits/MachineMuseModularPowerSuits-v0.0.10.zip
+aed625daaa6873a00a25c4edf6f344a0|mods/MachineMuseModularPowerSuits/MachineMuseModularPowerSuits-v0.1.21.zip
 b1a62f8b918a993b55f20614591e9499|mods/MachineMuseModularPowerSuits/MachineMuseModularPowerSuits-v0.0.13.zip
 514798d4596829812a8b466f757a288a|mods/MachineMuseModularPowerSuits/MachineMuseModularPowerSuits-v0.0.6a.zip
 2c7ecd404e5ab5d2f4067a6e66972b80|mods/EquivalentExchange3/EquivalentExchange3-pre1d.zip
@@ -176,6 +177,7 @@ f1a3e1d1b8fbe0fbdfe6d5b023b0b794|mods/BetterStorage/BetterStorage-v0.3.4.zip
 7b30c6969ba9fe27d7f11409e7d8f562|mods/MobDismemberment/MobDismemberment-1.4.4v1.zip
 e7b40a94cd4a9ee2fd9869c7c59dcf6c|mods/WitchesandMore/WitchesandMore-v109.zip
 7e45d53f8050c7a0064298bb38a7270d|mods/WitchesandMore/WitchesandMore-v111.zip
+13c594c417c2c4eff628e6e754a96ed8|mods/ModularForceFieldSystem/ModularForceFieldSystem-v2.2.8.3.5.zip
 663a855587b5158c0bbda4d97d030d0b|mods/ModularForceFieldSystem/ModularForceFieldSystem-v2.2.8.2.13.zip
 13c62490cb8cfb0e171f26777ee40c5e|mods/ModularForceFieldSystem/ModularForceFieldSystem-v2.2.8.2.14.zip
 9d12bb0631c76e5450c7558c65a64a35|mods/Infinitubes/Infinitubes-v0.3.0.zip
@@ -253,6 +255,7 @@ b4176ac08a2016712625536e6cda3306|mods/treecapitator/treecapitator-v1.4.6.r01.zip
 0506ede50f9f151b9663a0601e766b6e|mods/Buildcraft/Buildcraft-v3.4.0.zip
 7abd90e2749189da8a691f303ab87981|mods/Buildcraft/Buildcraft-v3.3.0.zip
 8891a1eb55f20c19502daccaa2dfadbc|mods/Buildcraft/Buildcraft-3.2.2.zip
+fed65431e818035cd5a8a4eeb54df488|mods/NEIThermalExpansion/NEIThermalExpansion-v2.1.6.zip
 d4c1b9e33df080ec2569a0f81066b45b|mods/WR-CBE/WR-CBE-v1.3.2.zip
 5afcaf719e57e5f54edfcffca635d762|mods/WR-CBE/WR-CBE-v1.3.2.2.zip
 1a7f4a627198ead5b6b96246dc9e7af1|mods/WR-CBE/WR-CBE-v1.3.2.4.zip
@@ -264,6 +267,7 @@ feff11080c3d997f0d54ecf0cbe0e440|mods/MinefactoryReloaded/MinefactoryReloaded-v2
 51df15a71e9d10b2f7f02e2d42e9fe5b|mods/MinefactoryReloaded/MinefactoryReloaded-v2.0.5.zip
 677a88c6d5946d3df92d6bcb4ac9a515|mods/ExtraBees/ExtraBees-v1.4.9.14-prerelease.zip
 1bc4ca4b7bc917b6b31310fb97bfc307|mods/ExtraBees/ExtraBees-1.4.9.0.zip
+b3b6ff32b4d3f15e512bc88e1325a35c|mods/ExtraBees/ExtraBees-v1.4.9.17-prerelease.zip
 e4a7c57f4079fa5bfe6fd44167ccefda|mods/ExtraBees/ExtraBees-v1.4.9.3-prerelease.zip
 22b1f51730ccdcabd3fa0c6e4df5ddb0|mods/ExtraBees/ExtraBees-v1.4.9.5-prerelease.zip
 9ff021d3a0f65056eb1c02a451721f63|mods/ExtraBees/ExtraBees-v1.4.9.6-prerelease.zip
@@ -281,9 +285,7 @@ c9c4e710dc7d1dc868a8b89d06d489b0|mods/OmniTools/OmniTools-v2.2.5.zip
 f593644a2d564cf5712ce140afac9be6|mods/BuildRegion/BuildRegion-2.0.2.zip
 c55fb52f2fe4cf11b57b53c7c35c4382|mods/ValvePipes/ValvePipes-1.3.2.zip
 8af93bd5fbe0a5178b5ea285402d5946|mods/ValvePipes/ValvePipes-v1.4.6.zip
-a33efdf4333bed1efad498cdb2bd4f4a|mods/NEI-ThermalExpansion/NEI-ThermalExpansion-v2.1.6.zip
 8e4ce19ee2a22bc052acd70c73f7f2f2|mods/TaleOfKingdoms/TaleOfKingdoms-v1.4.2.4.zip
-fed65431e818035cd5a8a4eeb54df488|mods/ThermalExpansionNEI/ThermalExpansionNEI-v2.1.6.zip
 7b7844b03acfd7b9e046e91a7d4e7f0e|mods/MystcraftAddon/MystcraftAddon-v1.4.zip
 273d8df7b5d4650f66fca4614975eea1|mods/Portalgun/Portalgun-v1.4.6v2.zip
 e8351a13638fabdf00987697fc6018b7|mods/Portalgun/Portalgun-v1.4.6v1.zip
@@ -362,6 +364,7 @@ c54b2717389a890c57c62f74d8de6385|mods/NetherOres/NetherOres-v2.0.0.zip
 c42200d1bbbdde2520375917fd11c516|mods/NetherOres/NetherOres-1.4.4.zip
 6fcfa43def937a77d1fe25d8a7babd9f|mods/AdvSolarPanels/AdvSolarPanels-v3.3.2.zip
 233537ba3182538bee5364515ccbae9d|mods/ThaumicBees/ThaumicBees-v1.0.701-56.zip
+ac5eeaba67db902f6a01381f331a8633|mods/ThaumicBees/ThaumicBees-v1.1.702-67.zip
 05d664bb0ffc5e7c17773b90474dbc7d|mods/chargepads/chargepads-v2.3.0.58.zip
 90fb983cf52b6e58250c03c556ca71de|mods/SecretRooms/SecretRooms-4.4.0.144.zip
 8879c59cdba0db0354cd3c159bfd6858|mods/SecretRooms/SecretRooms-v4.4.1.158.zip
@@ -384,6 +387,7 @@ d6a7d9b6b8eba144307d7ff1d40e3958|mods/BetterAnvil/BetterAnvil-1.0.0.rar
 9e9743c3b6995aefea08d3058fb7abf4|mods/MineChem/MineChem-v2.0.0pr5.3.zip
 d734a9b4f610ed48f696ec71b18cc64a|mods/MineChem/MineChem-v2.0.0pr2.zip
 73ef3c5fbf7f84b02e1788454aef8bb5|mods/MineChem/MineChem-v2.0.0pr6.1.zip
+0cd1b604e4b3138b782a0735643972b5|mods/ThermalExpansion/ThermalExpansion-v2.1.7.zip
 74f033f4cfc97c15d893808ce8c1308a|mods/ThermalExpansion/ThermalExpansion-v2.1.6.zip
 9722b7a576975dea24ea6dcd6f091d1b|mods/ThermalExpansion/ThermalExpansion-2.1.5.zip
 1d6d8873a141f0d40c4127e7d2a0fe4c|mods/JammyFurniture/JammyFurniture-4.1b2.rar

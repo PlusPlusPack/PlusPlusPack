@@ -236,6 +236,7 @@ mods:
             v1.4.9.5-prerelease:
             v1.4.9.6-prerelease:
             v1.4.9.14-prerelease:
+            v1.4.9.17-prerelease:
     ExtrabiomesXL:
         installtype: "zip"
         versions:
@@ -355,6 +356,7 @@ mods:
             v0.0.13:
             v0.0.32:
             v0.1.2:
+            v0.1.21:
     Millenaire:
         installtype: "zip"
         versions:
@@ -464,6 +466,7 @@ mods:
         versions:
             v2.2.8.2.13:
             v2.2.8.2.14:
+            v2.2.8.3.5:
     MorePipes:
         installtype: "zip"
         versions:
@@ -481,7 +484,7 @@ mods:
         installtype: "zip"
         versions:
             v1.4.6b4:
-    NEI-ThermalExpansion:
+    NEIThermalExpansion:
         installtype: "zip"
         versions:
             v2.1.6:
@@ -638,11 +641,13 @@ mods:
         installtype: "zip"
         versions:
             v1.0.701-56:
+            v1.1.702-67:
     ThermalExpansion:
         installtype: "zip"
         versions:
             2.1.5:
             v2.1.6:
+            v2.1.7:
     ThermalExpansionNEI:
         installtype: "zip"
         versions:
