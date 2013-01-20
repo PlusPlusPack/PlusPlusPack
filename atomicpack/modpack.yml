@@ -17,6 +17,7 @@ builds:
         mods:
             basemods: atomicpack-v4.0.0
             atomicpack: v2.0.0
+            ArmorStatusHUD: v1.4.6
             Buildcraft: v3.3.0
             chargepads: v2.3.0.58
             ChickenChunks: v1.2.1.1

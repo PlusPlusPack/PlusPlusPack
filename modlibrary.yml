@@ -51,6 +51,10 @@ mods:
         installtype: "zip"
         versions:
             Alpha100:
+    ArmorStatusHUD:
+        installtype: "zip"
+        versions:
+            v1.4.6:
     ArsMagica:
         installtype: "zip"
         versions:
