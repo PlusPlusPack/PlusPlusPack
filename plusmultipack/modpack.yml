@@ -1,7 +1,7 @@
 launcher: 0.5.0
-current: 3.2.5
+current: 3.2.6
 recommended: 3.1.12
-latest: 3.2.5
+latest: 3.2.6
 lib-1: &lib-1
     commons-io: 2.1
     commons-lang3: 3.1
@@ -11,7 +11,7 @@ lib-1: &lib-1
     snakeyaml: 1.9
     trove4j: 3.0.1
 builds:
-    3.2.5:
+    3.2.6:
         libraries:
         minecraft: 1.4.7
         mods:
@@ -33,7 +33,7 @@ builds:
             ExtraBees: v1.4.9.17-prerelease
             ExtrabiomesXL: v3.8.0   
             EquivalentExchange3: vpre1f
-            Forestry: v1.7.0.3
+            Forestry: v1.7.0.5
             Factorization: v0.7.10-2
             GregsProspecting: v1.4.2
             ICBM: v1.0.2.126
@@ -44,12 +44,12 @@ builds:
             JammyFurniture: v4.0-nosound
             LightLevelOverlay: v0.9
             LogisticsPipes: v0.7.0.75
-            MachineMuseModularPowerSuits: v0.1.21
-            Mekanism: v5.0.11b
-            MekanismGenerators: v5.0.11b
-            MekanismTools: v5.0.11b
+            MachineMuseModularPowerSuits: v0.1.43
+            Mekanism: v5.1.0
+            MekanismGenerators: v5.1.0
+            MekanismTools: v5.1.0
             MineChem: v2.0.0pr6.1
-            MinefactoryReloaded: v2.0.5
+            MinefactoryReloaded: v2.0.6
             MobAmputation: v1.4.6v1
             MobDismemberment: v1.4.6v1
             ModularForceFieldSystem: v2.2.8.3.5
@@ -60,7 +60,7 @@ builds:
             NotEnoughItems: v1.4.5.0
             Obsidiplates: v1.2.0.3
             OmniTools: v2.2.5
-            PamsHarvestcraft: v1.0_1.4.6
+            PamsHarvestcraft: v1.0.2
             pmcompat: v0.0.2
             Portalgun: v1.4.6v2
             PowerCrystalsCore: v1.0.1

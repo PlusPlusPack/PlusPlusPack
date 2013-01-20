@@ -1,7 +1,7 @@
 launcher: 1.0.1
-current: 1.0.9
-recommended: 1.0.9
-latest: 1.0.9
+current: 1.0.10
+recommended: 1.0.10
+latest: 1.0.10
 lib-1:
     commons-io: 2.1
     commons-lang3: 3.1
@@ -11,7 +11,7 @@ lib-1:
     snakeyaml: 1.9
     trove4j: 3.0.1
 builds:
-    1.0.9:
+    1.0.10:
         libraries:
         minecraft: 1.4.7
         mods:
@@ -42,6 +42,7 @@ builds:
             InvTweaks: v1.46
             IronChest: v4.5.4.217
             MetallurgyCore: v2.4
+            MetallurgyBase: v2.4
             MetallurgyEnder: v2.4
             MetallurgyFantasy: v2.4
             MetallurgyNether: v2.4
@@ -70,5 +71,5 @@ builds:
             WildCaves3: v0.3.2
             Weaponmod: v1.10-2
             WeeeFlowers: v1.0b
-            z-plussigmapack-configs: v1.0.4
+            z-plussigmapack-configs: v1.0.5
 

@@ -279,6 +279,7 @@ mods:
             v1.7.0.1:
             v1.7.0.2:
             v1.7.0.3:
+            v1.7.0.5:
     GoluiUtils:
         installtype: "zip"
         versions:
@@ -376,6 +377,7 @@ mods:
             v0.0.32:
             v0.1.2:
             v0.1.21:
+            v0.1.43:
     Millenaire:
         installtype: "zip"
         versions:
@@ -402,6 +404,7 @@ mods:
             v5.0.8b:
             v5.0.9:
             v5.0.11b:
+            v5.1.0:
     MekanismGenerators:
         installtype: "zip"
         versions:
@@ -413,6 +416,7 @@ mods:
             v5.0.8b:
             v5.0.9:
             v5.0.11b:
+            v5.1.0:
     MekanismTools:
         installtype: "zip"
         versions:
@@ -424,6 +428,7 @@ mods:
             v5.0.8b:
             v5.0.9:
             v5.0.11b:
+            v5.1.0:
     MetallurgyCore:
         installtype: "zip"
         versions:
@@ -432,6 +437,7 @@ mods:
         installtype: "zip"
         versions:
             v2.4.2:
+            v2.4:
     MetallurgyEnder:
         installtype: "zip"
         versions:
@@ -471,6 +477,7 @@ mods:
             v2.0.3:
             v2.0.4:
             v2.0.5:
+            v2.0.6:
     MiscPeripherals:
         installtype: "zip"
         versions:
@@ -791,6 +798,7 @@ mods:
             v1.0.2:
             v1.0.3:
             v1.0.4:
+            v1.0.5:
     atomicpack:
         installtype: "zip"
         versions:
