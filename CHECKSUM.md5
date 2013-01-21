@@ -4,7 +4,7 @@
 0dddc33c952ada52bc49ce6241690321|plussigmapack/resources/favicon.png
 99914daac918134d9e9996dddb914dd0|plussigmapack/resources/icon.png
 d41d8cd98f00b204e9800998ecf8427e|README.md
-aa84a531e93077a5474212c8d076cff6|modlibrary.yml
+a15af49582a33c3919c7fb3cb1b25427|modlibrary.yml
 7dc6e4a87b11e5e876b04e039ad6fb41|libraries.yml
 f275f512b84cdc38da503996bd150d64|minecraft.yml
 f21dcc410c8296f5c07a1b6b55433795|plusmultipack/modpack.yml
@@ -49,13 +49,18 @@ b5905fd593ffbb6554c96ba359d8d114|pluspluspack/modpack.yml
 4414ce7f3da117b613ab152a4bed33af|pluspluspack/resources/background.jpg
 401cc30df498940e8e559404d9ff88ab|pluspluspack/resources/favicon.png
 c5b8519aae94f41c43a01e8c298b6658|pluspluspack/resources/icon.png
-8e33682272e0b503e240608f1f85c868|CHECKSUM.md5
+8473f9a8f66d749b703e85abf06d0fad|CHECKSUM.md5
 4ab730fc2f81c539ce42800f742a46e1|atomicpack/modpack.yml
 d1fa4b584ccccb7bb655d74961672e06|atomicpack/resources/logo.png
 8c6799ac8c40d9bf3f2d2200aabf1ba8|atomicpack/resources/background.jpg
 625bde4781359198d33e09cfa54ac54e|atomicpack/resources/favicon.png
 d3b716c47d252d0e94103da861119b1d|atomicpack/resources/icon.png
-f4c1741fc7bd08294ec69e60ff6e2adf|modpacks.yml
+779d2a1d4903783ade66a94c9901ab1c|modpacks.yml
+5fd9f1fe65cef4afb8fe6a488a73337c|skyden/modpack.yml
+aeb4222470f7c68ea5240ec6409b169c|skyden/resources/logo.png
+4414ce7f3da117b613ab152a4bed33af|skyden/resources/background.jpg
+01a60417db774ca0f2f0aa49db2d1ed0|skyden/resources/favicon.png
+5d42aada5887289214da5e754da5aead|skyden/resources/icon.png
 6d7b4e4b57752ea2391ff64159606d34|md5.sh
 28b4fa734721d1963ea2a06bcb94b71a|Patches/Minecraft/minecraft_1.4.7-1.4.6.patch
 b9bb3e45d58b6351e1093a6fb9f7d4a7|Patches/Minecraft/Create Patch/Create Patch.bat
@@ -96,6 +101,7 @@ bf28ac2615e0e722b7e1f2bc7a1f597f|mods/ExtrabiomesXL/ExtrabiomesXL-v3.8.0.zip
 36c4e26f0640a59e404f8281401e644d|mods/DungeonPack/DungeonPack-1.4.5v1.zip
 70a7e967543eecf6cf626473143423f4|mods/DungeonPack/DungeonPack-1.4.6v2.zip
 1ced51648d6ad1bcd17ed5587f17c557|mods/ArcaneAscension/ArcaneAscension-PR4.zip
+2c4a08d2e3ead6756f28528c6528de78|mods/EnchantingPlus/EnchantingPlus-v1.12.1.zip
 d3b0476445b08a417961df646e745d7e|mods/EnchantingPlus/EnchantingPlus-v1.12.2.zip
 0d1eb5c8d30ad15d8b3430d2b3b68d6a|mods/UltimateFist/UltimateFist-v1.4.6.zip
 3644f936b5fa710dfae41bdb43c1dee0|mods/Familiars/Familiars-1.4.6.zip
@@ -299,6 +305,7 @@ c067c8b7d20ce84c76e5d8d82d5a902c|mods/BasicPipes/BasicPipes-v2.2.1.zip
 c9c4e710dc7d1dc868a8b89d06d489b0|mods/OmniTools/OmniTools-v2.2.5.zip
 8c11c3420bbdd4f054ece5ffdbfd78e8|mods/MiscPeripherals/MiscPeripherals-v2.3.zip
 f593644a2d564cf5712ce140afac9be6|mods/BuildRegion/BuildRegion-2.0.2.zip
+8671bf8949a2489a6023e068853d8344|mods/SkyDenMap/SkyDenMap-v1.0.0.zip
 c55fb52f2fe4cf11b57b53c7c35c4382|mods/ValvePipes/ValvePipes-1.3.2.zip
 8af93bd5fbe0a5178b5ea285402d5946|mods/ValvePipes/ValvePipes-v1.4.6.zip
 8e4ce19ee2a22bc052acd70c73f7f2f2|mods/TaleOfKingdoms/TaleOfKingdoms-v1.4.2.4.zip
@@ -321,6 +328,7 @@ a7c4bf1febd95b772e4dbae0d40df198|mods/InvTweaks/InvTweaks-v1.49.zip
 2bd28d744f6ab3300279056223af0001|mods/MorePipes/MorePipes-v1.04.zip
 8ecb87e896ccd9002728a5648be39eeb|mods/MetallurgyFantasy/MetallurgyFantasy-v2.4.zip
 438845526fa589a359ea153ea9c47896|mods/EasyCrafting/EasyCrafting-v1.1.3.zip
+9019d582ce28da54febd38b29073f249|mods/CustomNPCs/CustomNPCs-v1.4.6.zip
 355c8f6300c4102093c947e5e0dda565|mods/WeeeFlowers/WeeeFlowers-v1.0b.zip
 338c103d28dfd8d8d2210a07c7fb0409|mods/WeeeFlowers/WeeeFlowers-1.0.zip
 8db99d3f77caa6e6ac1853e1994133cd|mods/atomicpack/atomicpack-v2.0.0.zip

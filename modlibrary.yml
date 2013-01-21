@@ -172,6 +172,10 @@ mods:
             v2.7_1.4.6:
             v2.8b_1.4.6:
             v2.9_1.4.6:
+    CustomNPCs:
+        installtype: "zip"
+        versions:
+            v1.4.6:
     DamageIndicators:
         installtype: "zip"
         versions:
@@ -214,6 +218,7 @@ mods:
     EnchantingPlus:
         installtype: "zip"
         versions:
+            v1.12.1:
             v1.12.2:
     EnderStorage:
         installtype: "zip"
@@ -648,6 +653,10 @@ mods:
         versions:
             4.4.0.144:
             v4.4.1.158:
+    SkyDenMap:
+        installtype: "zip"
+        versions:
+            v1.0.0:
     SoulShards:
         installtype: "zip"
         versions:
@@ -800,6 +809,10 @@ mods:
             v1.0.3:
             v1.0.4:
             v1.0.5:
+    z-skyden-configs:
+        installtype: "zip"
+        versions:
+            v1.0.0:
     atomicpack:
         installtype: "zip"
         versions:
