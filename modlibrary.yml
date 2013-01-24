@@ -541,6 +541,7 @@ mods:
             v1.4.6:
             v2.0.0:
             v2.0.2:
+            v2.0.3:
     NotEnoughItems:
         installtype: "zip"
         versions:
@@ -680,6 +681,7 @@ mods:
         versions:
             3.0.1b:
             v3.0.1c:
+            v3.0.2a:
     ThaumicBees:
         installtype: "zip"
         versions:
@@ -751,6 +753,7 @@ mods:
         versions:
             v109:
             v111:
+            v113:
     WeeeFlowers:
         installtype: "zip"
         versions:
@@ -810,6 +813,7 @@ mods:
             v1.0.3:
             v1.0.4:
             v1.0.5:
+            v1.0.6:
     z-skyden-configs:
         installtype: "zip"
         versions:

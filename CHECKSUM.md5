@@ -1,10 +1,10 @@
-5a334246eaa50c86c8c29f0f68d349cd|plussigmapack/modpack.yml
+78f5d3213729e4dabc8ad103f0029880|plussigmapack/modpack.yml
 2b093230893d001a3f2d77e03611d404|plussigmapack/resources/logo.png
 4414ce7f3da117b613ab152a4bed33af|plussigmapack/resources/background.jpg
 0dddc33c952ada52bc49ce6241690321|plussigmapack/resources/favicon.png
 99914daac918134d9e9996dddb914dd0|plussigmapack/resources/icon.png
 d41d8cd98f00b204e9800998ecf8427e|README.md
-263bb8eb28a5e46f9fa50220f33c5792|modlibrary.yml
+e56dc77e08568f5ac5767b72c125237c|modlibrary.yml
 7dc6e4a87b11e5e876b04e039ad6fb41|libraries.yml
 f275f512b84cdc38da503996bd150d64|minecraft.yml
 f21dcc410c8296f5c07a1b6b55433795|plusmultipack/modpack.yml
@@ -49,7 +49,7 @@ b5905fd593ffbb6554c96ba359d8d114|pluspluspack/modpack.yml
 4414ce7f3da117b613ab152a4bed33af|pluspluspack/resources/background.jpg
 401cc30df498940e8e559404d9ff88ab|pluspluspack/resources/favicon.png
 c5b8519aae94f41c43a01e8c298b6658|pluspluspack/resources/icon.png
-b4afa316c26cd0cc0bf9051091e45056|CHECKSUM.md5
+0dcafb5f7c821584748c56f491b95299|CHECKSUM.md5
 4ab730fc2f81c539ce42800f742a46e1|atomicpack/modpack.yml
 d1fa4b584ccccb7bb655d74961672e06|atomicpack/resources/logo.png
 8c6799ac8c40d9bf3f2d2200aabf1ba8|atomicpack/resources/background.jpg
@@ -120,6 +120,7 @@ a1d14416919af0ca4312322905a54894|mods/BladeCraft/BladeCraft-v1.3.2.zip
 568501c0ea0e0d941858ee0e96cf3821|mods/NotEnoughItems/NotEnoughItems-1.4.3.3.zip
 464ceab14654f8097676b473dfd83e2a|mods/NotEnoughItems/NotEnoughItems-v1.4.4.0.zip
 85d9ddfe7639692ec6335695a19c18cc|mods/NotEnoughItems/NotEnoughItems-v1.4.5.0.zip
+0a5cf2a50f8a6ff8dc31eb0ed21f5161|mods/Thaumcraft/Thaumcraft-v3.0.2a.zip
 d765c801d4f74c505ab084506c48a416|mods/Thaumcraft/Thaumcraft-3.0.1b.zip
 5879794dce5bc65638e1ff828f1f98a2|mods/Thaumcraft/Thaumcraft-v3.0.1c.zip
 d8aa7cdd55286d543108b0a7fc5d31fa|mods/PowerConverters/PowerConverters-v1.4.6.zip
@@ -173,6 +174,7 @@ ad6c27d885e2b1444c8a1ce79e77efc7|mods/MekanismGenerators/MekanismGenerators-v5.0
 902630b3181e252beb8de80559bed4bf|mods/MekanismGenerators/MekanismGenerators-v5.0.11b.zip
 151c4d1fae63efa2ef1d30a817c023ab|mods/MekanismGenerators/MekanismGenerators-v5.0.5.zip
 9539cbd5269ce18a849ee8afdca422dc|mods/MekanismGenerators/MekanismGenerators-v5.0.8b.zip
+dabdb14b7802fc7d98084d75ebc32143|mods/z-plussigmapack-configs/z-plussigmapack-configs-v1.0.6.zip
 5eab05d30fd9ace53d9205775a2ae1d9|mods/z-plussigmapack-configs/z-plussigmapack-configs-v1.0.4.zip
 dabf693d820d5a7aebf1dd9e3f6df355|mods/z-plussigmapack-configs/z-plussigmapack-configs-v1.0.3.zip
 6bdb79bb74d305fe4fe0bca4e02abc7d|mods/z-plussigmapack-configs/z-plussigmapack-configs-v1.0.5.zip
@@ -198,6 +200,7 @@ f1a3e1d1b8fbe0fbdfe6d5b023b0b794|mods/BetterStorage/BetterStorage-v0.3.4.zip
 7b30c6969ba9fe27d7f11409e7d8f562|mods/MobDismemberment/MobDismemberment-1.4.4v1.zip
 e7b40a94cd4a9ee2fd9869c7c59dcf6c|mods/WitchesandMore/WitchesandMore-v109.zip
 7e45d53f8050c7a0064298bb38a7270d|mods/WitchesandMore/WitchesandMore-v111.zip
+04e617d0311c2eff62be3b58063b7b6d|mods/WitchesandMore/WitchesandMore-v113.zip
 13c594c417c2c4eff628e6e754a96ed8|mods/ModularForceFieldSystem/ModularForceFieldSystem-v2.2.8.3.5.zip
 663a855587b5158c0bbda4d97d030d0b|mods/ModularForceFieldSystem/ModularForceFieldSystem-v2.2.8.2.13.zip
 13c62490cb8cfb0e171f26777ee40c5e|mods/ModularForceFieldSystem/ModularForceFieldSystem-v2.2.8.2.14.zip
@@ -392,6 +395,7 @@ b735a839700552822603dee30cb69937|mods/IronChest/IronChest-v4.5.1.200.zip
 78b3e4f42030c562a60d736a7679b73d|mods/IronChest/IronChest-v4.5.4.217.zip
 b5e5c11da043e4d2f15154ec460b09db|mods/IronChest/IronChest-v4.5.1.199.zip
 ab7dc6f8c1b3f5842a5a0056123dd2af|mods/IronChest/IronChest-v4.5.1.204.zip
+d1c488e8eedfa2fb3b3c53e841398efb|mods/NetherOres/NetherOres-v2.0.3.zip
 2028b83fa1a6cf54ec20b0226204bbf4|mods/NetherOres/NetherOres-v1.4.6.zip
 c35dd571a4cb7070dd4fa0a90458d93c|mods/NetherOres/NetherOres-v2.0.2.zip
 c54b2717389a890c57c62f74d8de6385|mods/NetherOres/NetherOres-v2.0.0.zip
