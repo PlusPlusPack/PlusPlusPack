@@ -1,13 +1,13 @@
-78f5d3213729e4dabc8ad103f0029880|plussigmapack/modpack.yml
+4806e91fe3afa0ec0b309d79ec0e8e21|plussigmapack/modpack.yml
 2b093230893d001a3f2d77e03611d404|plussigmapack/resources/logo.png
 4414ce7f3da117b613ab152a4bed33af|plussigmapack/resources/background.jpg
 0dddc33c952ada52bc49ce6241690321|plussigmapack/resources/favicon.png
 99914daac918134d9e9996dddb914dd0|plussigmapack/resources/icon.png
 d41d8cd98f00b204e9800998ecf8427e|README.md
-e56dc77e08568f5ac5767b72c125237c|modlibrary.yml
+c45e31ee96ebc4b03e6854a08df94a64|modlibrary.yml
 7dc6e4a87b11e5e876b04e039ad6fb41|libraries.yml
 f275f512b84cdc38da503996bd150d64|minecraft.yml
-f21dcc410c8296f5c07a1b6b55433795|plusmultipack/modpack.yml
+72a44a92c75bd1ea10561491417c0db3|plusmultipack/modpack.yml
 a9590fc297a5cb4193450de0df0a32f7|plusmultipack/resources/logo.png
 4414ce7f3da117b613ab152a4bed33af|plusmultipack/resources/background.jpg
 401cc30df498940e8e559404d9ff88ab|plusmultipack/resources/favicon.png
@@ -49,7 +49,7 @@ b5905fd593ffbb6554c96ba359d8d114|pluspluspack/modpack.yml
 4414ce7f3da117b613ab152a4bed33af|pluspluspack/resources/background.jpg
 401cc30df498940e8e559404d9ff88ab|pluspluspack/resources/favicon.png
 c5b8519aae94f41c43a01e8c298b6658|pluspluspack/resources/icon.png
-0dcafb5f7c821584748c56f491b95299|CHECKSUM.md5
+7168f9929a08804630568d864e19ba54|CHECKSUM.md5
 4ab730fc2f81c539ce42800f742a46e1|atomicpack/modpack.yml
 d1fa4b584ccccb7bb655d74961672e06|atomicpack/resources/logo.png
 8c6799ac8c40d9bf3f2d2200aabf1ba8|atomicpack/resources/background.jpg
@@ -81,6 +81,7 @@ de56690ed7b445803d8e8d00b985b985|mods/Millenaire/Millenaire-v4.0.1.zip
 392e277bb2b129f4836f3e4fe68b3421|mods/Minions/Minions-v1.4.6.zip
 2abd8a9e58db03ae87fd625de3fc2fe9|mods/z-plusmultipack-configs/z-plusmultipack-configs-v3.0.0.zip
 b0fd0b596c8dba2e04bf448462f5ca39|mods/z-plusmultipack-configs/z-plusmultipack-configs-v3.1.1.zip
+ea3ea5a8059968836145615c49ca80f6|mods/z-plusmultipack-configs/z-plusmultipack-configs-v3.2.1.zip
 5ecf19c10f7231661bef322da10c54bf|mods/z-plusmultipack-configs/z-plusmultipack-configs-v3.2.0.zip
 8548c39307f2bb3f6c753eef3e9ad7cc|mods/z-plusmultipack-configs/z-plusmultipack-configs-RC2.2.10.zip
 7d26e2faa20d65a0ca8f3354443f8a49|mods/z-plusmultipack-configs/z-plusmultipack-configs-v3.0.1.zip
@@ -90,6 +91,7 @@ b0fd0b596c8dba2e04bf448462f5ca39|mods/z-plusmultipack-configs/z-plusmultipack-co
 3904851aa93bd63dbd2fa657ba754f43|mods/MachineMuseModularPowerSuits/MachineMuseModularPowerSuits-v0.0.32.zip
 9c2e74e99279b18e91b4b0c8eb177b2d|mods/MachineMuseModularPowerSuits/MachineMuseModularPowerSuits-v0.0.12.zip
 3a7eeafa06507bb94b6a6df68b0a2f6d|mods/MachineMuseModularPowerSuits/MachineMuseModularPowerSuits-v0.0.10.zip
+861f3211df8232b1841379513370da0f|mods/MachineMuseModularPowerSuits/MachineMuseModularPowerSuits-v0.2.0.zip
 aed625daaa6873a00a25c4edf6f344a0|mods/MachineMuseModularPowerSuits/MachineMuseModularPowerSuits-v0.1.21.zip
 b1a62f8b918a993b55f20614591e9499|mods/MachineMuseModularPowerSuits/MachineMuseModularPowerSuits-v0.0.13.zip
 514798d4596829812a8b466f757a288a|mods/MachineMuseModularPowerSuits/MachineMuseModularPowerSuits-v0.0.6a.zip
@@ -105,6 +107,7 @@ d91714d0cffd98f604a1c45b8f71b4ea|mods/ExtrabiomesXL/ExtrabiomesXL-3.6.0a.zip
 bf28ac2615e0e722b7e1f2bc7a1f597f|mods/ExtrabiomesXL/ExtrabiomesXL-v3.8.0.zip
 36c4e26f0640a59e404f8281401e644d|mods/DungeonPack/DungeonPack-1.4.5v1.zip
 70a7e967543eecf6cf626473143423f4|mods/DungeonPack/DungeonPack-1.4.6v2.zip
+aa12a11f6a8c53abecde1677e5c95718|mods/DungeonPack/DungeonPack-1.4.7v1.zip
 1ced51648d6ad1bcd17ed5587f17c557|mods/ArcaneAscension/ArcaneAscension-PR4.zip
 2c4a08d2e3ead6756f28528c6528de78|mods/EnchantingPlus/EnchantingPlus-v1.12.1.zip
 d3b0476445b08a417961df646e745d7e|mods/EnchantingPlus/EnchantingPlus-v1.12.2.zip
@@ -113,17 +116,21 @@ d3b0476445b08a417961df646e745d7e|mods/EnchantingPlus/EnchantingPlus-v1.12.2.zip
 a1d14416919af0ca4312322905a54894|mods/BladeCraft/BladeCraft-v1.3.2.zip
 0a75d74bdd0b9572246945bad896bcdd|mods/Twilightforest/Twilightforest-v1.15.0.zip
 73fc50d0d871562a652a48ab793e9f2a|mods/Twilightforest/Twilightforest-1.13.2.zip
+73f615d6e6fee4168de715bb3964a762|mods/Twilightforest/Twilightforest-v1.15.1.zip
 53df960d712b224b50556ae7f3fb7a04|mods/Twilightforest/Twilightforest-v1.14.0.zip
 892386c1a6425cf64f4f2cf2fe62fc49|mods/Traincraft/Traincraft-v3.1.13_030.zip
 8abf560d8d9053c3a13cdbb696b3574a|mods/Traincraft/Traincraft-3.1.12_014.zip
 2a849855616c606a022213987473662b|mods/Traincraft/Traincraft-v3.1.13_010.zip
+487900620a4f48071178dca7976e7aaf|mods/NotEnoughItems/NotEnoughItems-v1.4.5.1.zip
 568501c0ea0e0d941858ee0e96cf3821|mods/NotEnoughItems/NotEnoughItems-1.4.3.3.zip
 464ceab14654f8097676b473dfd83e2a|mods/NotEnoughItems/NotEnoughItems-v1.4.4.0.zip
 85d9ddfe7639692ec6335695a19c18cc|mods/NotEnoughItems/NotEnoughItems-v1.4.5.0.zip
+0d11e120838035f2602a94953640552c|mods/Thaumcraft/Thaumcraft-v3.0.2c.zip
 0a5cf2a50f8a6ff8dc31eb0ed21f5161|mods/Thaumcraft/Thaumcraft-v3.0.2a.zip
 d765c801d4f74c505ab084506c48a416|mods/Thaumcraft/Thaumcraft-3.0.1b.zip
 5879794dce5bc65638e1ff828f1f98a2|mods/Thaumcraft/Thaumcraft-v3.0.1c.zip
 d8aa7cdd55286d543108b0a7fc5d31fa|mods/PowerConverters/PowerConverters-v1.4.6.zip
+98808c2902ea46fb454578b8d96f8f30|mods/PowerConverters/PowerConverters-v2.0.0.zip
 d3b502973924609ee57929689906b0ef|mods/Necromancy/Necromancy-v1.4.6b4.zip
 f234b918a3b81c76e1cc6dbe16bd4b94|mods/Chococraft/Chococraft-v2.5.1.zip
 25e170a040720d870eef6f73d478df5e|mods/Obsidiplates/Obsidiplates-v1.2.0.3.zip
@@ -136,8 +143,10 @@ e3426e48d993a6286834145f0e571d51|mods/Factorization/Factorization-0.7.7.zip
 d711896dc097de66709daabb0d393aad|mods/MeteorsMod/MeteorsMod-v292.zip
 e360535ab77463de23b562f467e35eb0|mods/Gregtech/Gregtech-v1.4.6.zip
 6d6fa14f03a7ff2545d48cf72f8cd406|mods/ArmorPlus/ArmorPlus-Alpha100.zip
+7d116f38aaee643e4a369ec9e8417bcc|mods/ImmibisCore/ImmibisCore-v52.2.5.zip
 165483c0be1eed600c2463f6ad098def|mods/ImmibisCore/ImmibisCore-v52.2.2.zip
 436e8d0287965749ae88b23e521458f6|mods/ImmibisCore/ImmibisCore-51.0.5.zip
+01af0de4a659396e5b61f1273947f022|mods/Tubestuff/Tubestuff-v52.1.3.zip
 00d0689d4c2ba5cf9bedab2acea69869|mods/Tubestuff/Tubestuff-v52.0.8.zip
 56bae1453e03bad2d7c6f0f58c3a0b18|mods/Tubestuff/Tubestuff-51.0.4.zip
 e048ab05acf84b28235c5d36a59ec557|mods/Mekanism/Mekanism-v5.1.0.zip
@@ -149,6 +158,7 @@ c90a82165a0159e6c1e2322ecedf4526|mods/Mekanism/Mekanism-PRb2v5.zip
 03bcda0a6d654e2287279b889b6cd7ea|mods/Mekanism/Mekanism-v5.0.5.zip
 b410ed15d9dde597373eff72f1a57f08|mods/Mekanism/Mekanism-v5.0.11b.zip
 711148444a4ed745f3c4b544f037c8e9|mods/Mekanism/Mekanism-v5.0.7.zip
+f86d4a6799167662994f5ce0cbdcb8bf|mods/Mekanism/Mekanism-v5.2.0.zip
 19fd0f63856dd963eee60ad1aeae98c6|mods/dustmod/dustmod-1.1.6.zip
 4497534ce490662d2e5228700c299bda|mods/dustmod/dustmod-v1.2.zip
 f7da17a10fab69ad951c0006558330da|mods/EssentialCraft/EssentialCraft-v1.4.6.zip
@@ -160,6 +170,7 @@ ecbd2c85968da7ac8beb78bdc25dfbe7|mods/ICBM/ICBM-v1.0.1.123.zip
 ddf89910a2692b5538644e0653711670|mods/ICBM/ICBM-v1.0.0.115.zip
 bf5bcfa0aca1cfc41bb4067a95c83e05|mods/ICBM/ICBM-v1.0.2.126.zip
 20cf957594dda2a23401841f3c72f6f9|mods/ICBM/ICBM-v1.0.0.118.zip
+81d5f39483be455d49d53b0511b0b5ca|mods/ICBM/ICBM-v1.0.3.130.zip
 b58b06e49cd4c9b4c2b6c17b665158a5|mods/ICBM/ICBM-v0.7.3.99.zip
 085402d2027c5b644bfaa4a99a176409|mods/ICBM/ICBM-v1.0.0.111.zip
 4cc0fe8652c8e9c4b90a0e3eb8c093e1|mods/MetallurgyCore/MetallurgyCore-v2.4.zip
@@ -168,6 +179,7 @@ c8a1f70bdf530d289d73184cc0d18e1e|mods/GravityGun/GravityGun-1.4.6v1.zip
 9d6a557e53fc8dc2c3fb5afdc947fc85|mods/MekanismGenerators/MekanismGenerators-v5.0.9.zip
 2edfdb7d0beb242a218eefd4914b6e53|mods/MekanismGenerators/MekanismGenerators-v5.1.0.zip
 5602b95c557e167c3b4c8b482cd8b8c3|mods/MekanismGenerators/MekanismGenerators-v5.0.2.zip
+31abe38df4c609f47b40ebf77dd6088b|mods/MekanismGenerators/MekanismGenerators-v5.2.0.zip
 7b23d9bcee1e60f6b5d302fc2281c308|mods/MekanismGenerators/MekanismGenerators-v5.0.7.zip
 ad6c27d885e2b1444c8a1ce79e77efc7|mods/MekanismGenerators/MekanismGenerators-v5.0.1.zip
 628fb3984b60cd68f4f596be6eacd484|mods/MekanismGenerators/MekanismGenerators-PRb2v5.zip
@@ -191,6 +203,7 @@ e073e3b91278c2b3ec25cc91331e3c71|mods/MekanismTools/MekanismTools-v5.0.8b.zip
 c0f17637eb1b34d842d2128275d85045|mods/MekanismTools/MekanismTools-v5.0.9.zip
 0d7d2836f196248cef8f6176b95acadf|mods/MekanismTools/MekanismTools-v5.0.11b.zip
 e19fee6aa1b8669a45c08f5d05099779|mods/MekanismTools/MekanismTools-v5.0.5.zip
+fa1e1d36bd8a1d50572517e041dcb8bf|mods/MekanismTools/MekanismTools-v5.2.0.zip
 4415e4b371239da51184d7d8a069a4e4|mods/MekanismTools/MekanismTools-v5.0.2.zip
 fa6dc92144b6f62e05714635b3f1576e|mods/RottenFlesh/RottenFlesh-1.4.4.zip
 1f91f2897279cb63c125d93e16511df3|mods/RottenFlesh/RottenFlesh-v1.4.6.zip
@@ -201,6 +214,7 @@ f1a3e1d1b8fbe0fbdfe6d5b023b0b794|mods/BetterStorage/BetterStorage-v0.3.4.zip
 e7b40a94cd4a9ee2fd9869c7c59dcf6c|mods/WitchesandMore/WitchesandMore-v109.zip
 7e45d53f8050c7a0064298bb38a7270d|mods/WitchesandMore/WitchesandMore-v111.zip
 04e617d0311c2eff62be3b58063b7b6d|mods/WitchesandMore/WitchesandMore-v113.zip
+e77e19d29bcdb31add5b86e0828abd60|mods/ModularForceFieldSystem/ModularForceFieldSystem-v2.2.8.3.6.zip
 13c594c417c2c4eff628e6e754a96ed8|mods/ModularForceFieldSystem/ModularForceFieldSystem-v2.2.8.3.5.zip
 663a855587b5158c0bbda4d97d030d0b|mods/ModularForceFieldSystem/ModularForceFieldSystem-v2.2.8.2.13.zip
 13c62490cb8cfb0e171f26777ee40c5e|mods/ModularForceFieldSystem/ModularForceFieldSystem-v2.2.8.2.14.zip
@@ -234,6 +248,7 @@ b86c25b087e11952d21548a4487dcd4f|mods/Forestry/Forestry-v1.7.0.1.zip
 a8fbacbd53b8a2585f4170cb4c16d59f|mods/Forestry/Forestry-v1.6.4.0.zip
 5383d10f92edace6efd461c63abb13c0|mods/NuclearControl/NuclearControl-v1.4.5.zip
 aee757b32bb1097ded86cd83c373875d|mods/basemods/basemods-atomicpack-v2.0.0.zip
+c546b638043efeccf564825e5ca26b92|mods/basemods/basemods-plusmultipack-v3.2.0.zip
 cb8c840e0c0802ff25e376e33e0b60bf|mods/basemods/basemods-plusmultipack-v0.0.1.zip
 19cc00042e9219a62596b9a1c7352186|mods/basemods/basemods-plusmultipack-v3.1.0.zip
 8e91475fe4885a2d2451b097f008d3e3|mods/basemods/basemods-atomicpack-v1.0.zip
@@ -261,6 +276,7 @@ b371d8ea1c7fd1e32568682ff6e47bd4|mods/Scaffolding/Scaffolding-v1.4.6ml1.zip
 b8452f5c254325bd5ba11a969344b060|mods/HarkenAsgard/HarkenAsgard-v1.0.zip
 12e844a03a868a8ecbaab6666a52d4e3|mods/ProjectZuluComplete/ProjectZuluComplete-v0.6.0.zip
 4ffda4edc9640fd56761b00525c352a6|mods/ProjectZuluComplete/ProjectZuluComplete-0.5.4b.zip
+5c5487641cda7b30d816a3d9fc9068dc|mods/ProjectZuluComplete/ProjectZuluComplete-v0.6.2d.zip
 22096fa7b82563f552ae3ccb4ebf7ba2|mods/ProjectZuluComplete/ProjectZuluComplete-v0.6.0b.zip
 55b29f2ccdae12bf078450dd6ccd65c5|mods/ProjectZuluComplete/ProjectZuluComplete-v0.6.1.zip
 600f68a97da4c41d1c23e6c6f175ce5c|mods/ProjectZuluComplete/ProjectZuluComplete-v0.6.2.zip
@@ -269,8 +285,10 @@ fdc80d4b27d0e707da7086f90b70f691|mods/ArsMagica/ArsMagica-v5.32.268.zip
 85f5cda1b6fdb256d277057f7032aab0|mods/DimensionalAnchor/DimensionalAnchor-v52.0.6.zip
 51760c2223a49e15e42eccd741683bf2|mods/Mystcraft/Mystcraft-v0.9.5.00.zip
 17de8ea88010870f7dd476507e82066e|mods/Mystcraft/Mystcraft-0.9.4.05.zip
+cbe9923f3689df0068374a204156c579|mods/NEIPlugins/NEIPlugins-v1.0.4.5.zip
 5fb6f79e4128443ee7a0cf5132586a72|mods/NEIPlugins/NEIPlugins-1.0.3.6.zip
 d80cf48b0c4ca11e4ca431f676e5ecec|mods/NEIPlugins/NEIPlugins-v1.0.4.1.zip
+b19c66e3ac3c9973d83c5f49aa9abd6f|mods/BuffBar/BuffBar-v0.6.1.zip
 26370e8c09f4ba1c8272e86aa24dc540|mods/CodeChickenCore/CodeChickenCore-v0.7.0.1.zip
 4e85ba890a17887f21ef50352eb8d424|mods/CodeChickenCore/CodeChickenCore-v0.7.0.2.zip
 f6a5530d01a3c7505fc200eb9c971624|mods/CodeChickenCore/CodeChickenCore-0.6.16.zip
@@ -280,15 +298,18 @@ f93dfbfdd0fe829a380dffde244243db|mods/ChestTransporter/ChestTransporter-v1.1.4.z
 b4176ac08a2016712625536e6cda3306|mods/treecapitator/treecapitator-v1.4.6.r01.zip
 8e3c25c2b1e12921267dd7a1f1ad71ce|mods/treecapitator/treecapitator-v1.4.6.r03.zip
 95611bbebd5ee82929f8c592bb59ccde|mods/treecapitator/treecapitator-v1.4.5.r04.zip
+d20345a0fd073f4c49a4a7f5caa2554a|mods/Buildcraft/Buildcraft-v3.4.2.zip
 0506ede50f9f151b9663a0601e766b6e|mods/Buildcraft/Buildcraft-v3.4.0.zip
 7abd90e2749189da8a691f303ab87981|mods/Buildcraft/Buildcraft-v3.3.0.zip
 8891a1eb55f20c19502daccaa2dfadbc|mods/Buildcraft/Buildcraft-3.2.2.zip
+d37532cc136653bad3004f2df4e736de|mods/NEIThermalExpansion/NEIThermalExpansion-v2.1.7.zip
 fed65431e818035cd5a8a4eeb54df488|mods/NEIThermalExpansion/NEIThermalExpansion-v2.1.6.zip
 d4c1b9e33df080ec2569a0f81066b45b|mods/WR-CBE/WR-CBE-v1.3.2.zip
 5afcaf719e57e5f54edfcffca635d762|mods/WR-CBE/WR-CBE-v1.3.2.2.zip
 1a7f4a627198ead5b6b96246dc9e7af1|mods/WR-CBE/WR-CBE-v1.3.2.4.zip
 cb7147c84098bdb916029cde2c1f5211|mods/MinefactoryReloaded/MinefactoryReloaded-v2.0.7.zip
 d51108e63d9698273ed1915537e21454|mods/MinefactoryReloaded/MinefactoryReloaded-v2.0.4.zip
+40147dc2872410a16007fbda69ac0890|mods/MinefactoryReloaded/MinefactoryReloaded-v2.0.8.zip
 54397772aeee37e0d2e85f66126f2325|mods/MinefactoryReloaded/MinefactoryReloaded-v2.0.3.zip
 0e687ff4065088c7097b8be5f5788500|mods/MinefactoryReloaded/MinefactoryReloaded-1.4.4.zip
 feff11080c3d997f0d54ecf0cbe0e440|mods/MinefactoryReloaded/MinefactoryReloaded-v2.0.0.zip
@@ -299,6 +320,7 @@ feff11080c3d997f0d54ecf0cbe0e440|mods/MinefactoryReloaded/MinefactoryReloaded-v2
 1bc4ca4b7bc917b6b31310fb97bfc307|mods/ExtraBees/ExtraBees-1.4.9.0.zip
 b3b6ff32b4d3f15e512bc88e1325a35c|mods/ExtraBees/ExtraBees-v1.4.9.17-prerelease.zip
 e4a7c57f4079fa5bfe6fd44167ccefda|mods/ExtraBees/ExtraBees-v1.4.9.3-prerelease.zip
+f130e66258b94b876df10029145298f5|mods/ExtraBees/ExtraBees-v1.4.9.31-prerelease.zip
 22b1f51730ccdcabd3fa0c6e4df5ddb0|mods/ExtraBees/ExtraBees-v1.4.9.5-prerelease.zip
 9ff021d3a0f65056eb1c02a451721f63|mods/ExtraBees/ExtraBees-v1.4.9.6-prerelease.zip
 609290ac81e3c08b572d5d56ca682ac3|mods/ElectricExpansion/ElectricExpansion-v1.2.7.zip
@@ -307,6 +329,7 @@ cdc6ad14a974888ad42c35a4af4b61e3|mods/ElectricExpansion/ElectricExpansion-v1.0.4
 f1d8e4e8025445c06e76ce1364171ab9|mods/ElectricExpansion/ElectricExpansion-v1.0.5.zip
 436b237e8581c4d92185076e61ba6a67|mods/ElectricExpansion/ElectricExpansion-v1.1.1.zip
 b94549cb11c15b47843bf4cb644f2866|mods/ElectricExpansion/ElectricExpansion-v1.1.0.zip
+26d819ac6ab3082659ada92bf365608e|mods/ElectricExpansion/ElectricExpansion-v1.3.9.zip
 c067c8b7d20ce84c76e5d8d82d5a902c|mods/BasicPipes/BasicPipes-v2.2.1.zip
 58fb58b956479b24dc95efb1a0dc0c12|mods/OmniTools/OmniTools-v2.2.3.zip
 5ac2c4f1a2ca500e72bef68ae15dc7da|mods/OmniTools/OmniTools-2.2.2.zip
@@ -326,6 +349,7 @@ aa2916df7edcdbc268dc1d727c17db47|mods/MetallurgyBase/MetallurgyBase-v2.4.zip
 cf31cc6f919e5d1f5068396894872f57|mods/TF2/TF2-v1.4.6.zip
 8f80008a3328f40dbba7ed72be1bec3f|mods/ArmorStatusHUD/ArmorStatusHUD-v1.4.6.zip
 3095ac3a061b94de0d1b3e52efce942c|mods/AdvPowerManagement/AdvPowerManagement-v1.1.55.zip
+8e6fea2e678a90420c98676eae9ccb42|mods/ArmorBar/ArmorBar-v0.6.1b.zip
 47844a5e7db28daa0f763ac08a13341d|mods/xycraft/xycraft-v0.9.44.zip
 725e4b588b33007695b459d38964d02a|mods/MetallurgyEnder/MetallurgyEnder-v2.4.zip
 d070c02c4ac7b7bee5cd5a11bc1f6993|mods/MobAmputation/MobAmputation-v1.4.6v1.zip
@@ -370,6 +394,7 @@ a0c91d94e1e2c22def32ee02a48d1474|mods/UniversalElectricity/UniversalElectricity-
 0be8f5608fd182d36715456a0cf77631|mods/UniversalElectricity/UniversalElectricity-v1.2.3.331.zip
 74e224f201a627d48fc88d76e977c293|mods/UniversalElectricity/UniversalElectricity-1.2.0.303.zip
 d19aad5c84bbc13a1f00e6c8bdde549c|mods/UniversalElectricity/UniversalElectricity-v1.2.1.318.zip
+9fc1e0ae0cbf7355976409c20252974d|mods/UniversalElectricity/UniversalElectricity-v1.2.4.335.zip
 5a3eb23e6366793f49b559dee1114f38|mods/UniversalElectricity/UniversalElectricity-v1.2.1.317.zip
 b7ec892e0c4052e8e123f488da3c5a7e|mods/UniversalElectricity/UniversalElectricity-v1.2.1.315.zip
 2b32276eca39181000b6bf669152d087|mods/UniversalElectricity/UniversalElectricity-v1.2.1.314.zip
@@ -386,9 +411,11 @@ bdf3d36752238299d540e44f9f0bbf01|mods/SoulShards/SoulShards-1.11.zip
 9f2d40c03c8d77e11301b79155ef9440|mods/CraftAndEnchant/CraftAndEnchant-v2.7_1.4.6.zip
 6b7b13462f958defbb6d8347b66940ba|mods/CraftAndEnchant/CraftAndEnchant-v2.8b_1.4.6.zip
 80c0dbc3636a5c197cf5dbbe9b0c028e|mods/CraftAndEnchant/CraftAndEnchant-2.6_1.4.5.zip
+8e4df3890015add5706290282de02f8e|mods/CraftAndEnchant/CraftAndEnchant-v2.10.zip
 752c3bb67f5ca8cf42a7e7f2a4fac46d|mods/CraftAndEnchant/CraftAndEnchant-v2.9_1.4.6.zip
 783cac82d407d2de09127538bbc9591a|mods/GoluiUtils/GoluiUtils-v1.1.1.zip
 18333e18c1d6d0d57f7691aabb638b97|mods/IronChest/IronChest-v4.5.2.213.zip
+9cd33cac7d80ab9018659a047e78077a|mods/IronChest/IronChest-v5.0.1.235.zip
 11ec810bc3ee9324371b385dc9122bbe|mods/IronChest/IronChest-v4.5.2.207.zip
 596afa07621854d6e48dc818e3f724ff|mods/IronChest/IronChest-4.4.0.194.zip
 b735a839700552822603dee30cb69937|mods/IronChest/IronChest-v4.5.1.200.zip
@@ -401,6 +428,7 @@ c35dd571a4cb7070dd4fa0a90458d93c|mods/NetherOres/NetherOres-v2.0.2.zip
 c54b2717389a890c57c62f74d8de6385|mods/NetherOres/NetherOres-v2.0.0.zip
 c42200d1bbbdde2520375917fd11c516|mods/NetherOres/NetherOres-1.4.4.zip
 6fcfa43def937a77d1fe25d8a7babd9f|mods/AdvSolarPanels/AdvSolarPanels-v3.3.2.zip
+66ace8059b48709a1aaf6fab9e3aca4f|mods/ThaumicBees/ThaumicBees-v1.2.705-79.zip
 233537ba3182538bee5364515ccbae9d|mods/ThaumicBees/ThaumicBees-v1.0.701-56.zip
 ac5eeaba67db902f6a01381f331a8633|mods/ThaumicBees/ThaumicBees-v1.1.702-67.zip
 05d664bb0ffc5e7c17773b90474dbc7d|mods/chargepads/chargepads-v2.3.0.58.zip
@@ -414,6 +442,7 @@ f783fdc7b696c93baa5be4e6f7ef9700|mods/LogisticsPipes/LogisticsPipes-v0.7.0.75.zi
 3603560bedd8a632f4c3028c37efe051|mods/LogisticsPipes/LogisticsPipes-0.6.1.pre.21.zip
 4c7a2a6f9a251a309eb8182931e05d9e|mods/LogisticsPipes/LogisticsPipes-v0.6.9.43.zip
 df154933b2e5fa0b4ed9ed544a2c648d|mods/LogisticsPipes/LogisticsPipes-v0.6.9.32.zip
+5ab7f874dd85bfe481285d25eb1f86b8|mods/LogisticsPipes/LogisticsPipes-v0.7.0.80.zip
 17810d9d0293f25374c6cb744a32c26d|mods/BetterAnvil/BetterAnvil-v1.4.6.zip
 d6a7d9b6b8eba144307d7ff1d40e3958|mods/BetterAnvil/BetterAnvil-1.0.0.rar
 107f9440d8ffa7b388e4a4287d3fa55f|mods/ImmibisPeripherals/ImmibisPeripherals-51.1.1.zip
