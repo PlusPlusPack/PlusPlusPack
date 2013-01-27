@@ -80,6 +80,7 @@ mods:
             v0.3.1.123:
             v0.3.2.127:
             v0.3.3.130:
+            v0.3.4.135:
     AuroraRubealis:
         installtype: "zip"
         versions:
@@ -402,6 +403,7 @@ mods:
             v0.1.21:
             v0.1.43:
             v0.2.0:
+            v0.2.0-33:
     Millenaire:
         installtype: "zip"
         versions:
@@ -821,6 +823,7 @@ mods:
             v3.1.1:
             v3.2.0:
             v3.2.1:
+            v3.2.2:
     z-pluspluspack-configs:
         installtype: "zip"
         versions:
