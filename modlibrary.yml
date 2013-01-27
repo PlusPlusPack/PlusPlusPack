@@ -621,6 +621,7 @@ mods:
         versions:
             v1.4.6:
             v2.0.0:
+            v2.1.0:
     PowerCrystalsCore:
         installtype: "zip"
         versions:
@@ -724,6 +725,7 @@ mods:
             2.1.5:
             v2.1.6:
             v2.1.7:
+            v2.2.0:
     TF2:
         installtype: "zip"
         versions:
