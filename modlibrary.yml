@@ -267,6 +267,7 @@ mods:
             v1.4.9.14-prerelease:
             v1.4.9.17-prerelease:
             v1.4.9.31-prerelease:
+            v1.5.0.0-prerelease:
     ExtrabiomesXL:
         installtype: "zip"
         versions:
@@ -300,6 +301,7 @@ mods:
             v1.7.0.2:
             v1.7.0.3:
             v1.7.0.5:
+            v2.0.0.3:
     GoluiUtils:
         installtype: "zip"
         versions:
@@ -404,6 +406,7 @@ mods:
             v0.1.43:
             v0.2.0:
             v0.2.0-33:
+            v0.2.0-42:
     Millenaire:
         installtype: "zip"
         versions:
@@ -570,6 +573,7 @@ mods:
             v2.0.0:
             v2.0.2:
             v2.0.3:
+            v2.0.4:
     NotEnoughItems:
         installtype: "zip"
         versions:
@@ -624,6 +628,7 @@ mods:
             v1.4.6:
             v2.0.0:
             v2.1.0:
+            v2.1.1:
     PowerCrystalsCore:
         installtype: "zip"
         versions:
@@ -721,6 +726,7 @@ mods:
             v1.0.701-56:
             v1.1.702-67:
             v1.2.705-79:
+            v1.3.0a:
     ThermalExpansion:
         installtype: "zip"
         versions:
