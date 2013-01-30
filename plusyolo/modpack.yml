@@ -1,7 +1,7 @@
 launcher: 0.5.0
-current: 0.0.2
-recommended: 0.0.2
-latest: 0.0.2
+current: 0.0.3
+recommended: 0.0.3
+latest: 0.0.3
 lib-1: &lib-1
     commons-io: 2.1
     commons-lang3: 3.1
@@ -11,7 +11,7 @@ lib-1: &lib-1
     snakeyaml: 1.9
     trove4j: 3.0.1
 builds:
-    0.0.2:
+    0.0.3:
         libraries:
         minecraft: 1.4.7
         mods:
@@ -37,6 +37,7 @@ builds:
             IronChest: v5.0.1.235
             JammyFurniture: v4.0-nosound
             LightLevelOverlay: v0.9
+            LiquidMetals: v0.1.14
             MachineMuseModularPowerSuits: v0.2.0-42
             Mekanism: v5.2.0
             MekanismGenerators: v5.2.0

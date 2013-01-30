@@ -386,6 +386,10 @@ mods:
         installtype: "zip"
         versions:
             v0.9:
+    LiquidMetals:
+        installtype: "zip"
+        versions:
+            v0.1.14:
     LogisticsPipes:
         installtype: "zip"
         versions:
