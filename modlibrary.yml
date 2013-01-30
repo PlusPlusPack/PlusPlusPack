@@ -69,6 +69,7 @@ mods:
         installtype: "zip"
         versions:
             v0.2.1.40:
+            v0.2.4.68:
     AtomicScience:
         installtype: "zip"
         versions:
@@ -370,6 +371,7 @@ mods:
             v4.5.2.213:
             v4.5.4.217:
             v5.0.1.235:
+            v5.0.1.241:
     JammyFurniture:
         installtype: "zip"
         versions:
@@ -727,6 +729,7 @@ mods:
             v1.1.702-67:
             v1.2.705-79:
             v1.3.0a:
+            v1.3.0b:
     ThermalExpansion:
         installtype: "zip"
         versions:
