@@ -653,6 +653,10 @@ mods:
             v0.6.1:
             v0.6.2:
             v0.6.2d:
+    pycustom:
+        installtype: "zip"
+        versions:
+            v0.0.1:
     Railcraft:
         installtype: "zip"
         versions:
