@@ -635,6 +635,10 @@ mods:
             v2.0.0:
             v2.1.0:
             v2.1.1:
+    PowerConverters-RPModule:
+        installtype: "zip"
+        versions:
+            v1.0.0:
     PowerCrystalsCore:
         installtype: "zip"
         versions:
