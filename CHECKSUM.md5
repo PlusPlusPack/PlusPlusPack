@@ -9,10 +9,10 @@ d41d8cd98f00b204e9800998ecf8427e|README.md
 0957630c9e9081806b7d7cb8873b9011|plusyolo/resources/favicon.png
 d5f6f1b7a33ce7a104740d9a6c289999|plusyolo/resources/icon.png
 c049cabede8fb10b8fc8d8487b0f5c05|plusyolo/resources/background.png
-fc5fe745d28de9a0dc0c96e9e1c97377|modlibrary.yml
+31cfee9a2d0a46d5bddb00c9071f1158|modlibrary.yml
 7dc6e4a87b11e5e876b04e039ad6fb41|libraries.yml
 f275f512b84cdc38da503996bd150d64|minecraft.yml
-ba8012eb0935c05a5564a0604bed35a8|plusmultipack/modpack.yml
+389614226724890c1c8007db88f8de0e|plusmultipack/modpack.yml
 a9590fc297a5cb4193450de0df0a32f7|plusmultipack/resources/logo.png
 4414ce7f3da117b613ab152a4bed33af|plusmultipack/resources/background.jpg
 401cc30df498940e8e559404d9ff88ab|plusmultipack/resources/favicon.png
@@ -496,7 +496,10 @@ c049cabede8fb10b8fc8d8487b0f5c05|plusyolo/resources/background.png
 0957630c9e9081806b7d7cb8873b9011|plusyolo/resources/favicon.png
 d5f6f1b7a33ce7a104740d9a6c289999|plusyolo/resources/icon.png
 3d13eeeebaee991097266f9e415dce84|plusyolo/resources/logo.png
-048f5b00a3a9d6f9ef084c96efe5db93|plusyolo/modpack.yml
+a8412e6bed4f7d69213a75f079db5135|plusyolo/modpack.yml
 3046b9e54f99df0ede90f88149b2d030|mods/pycustom/pycustom-v0.0.1.zip
 24e2ab168e255fc90872c4b97eaf8a46|mods/LiquidMetals/LiquidMetals-v0.1.14.zip
 07520cb7fb0e3d54ef8a14dc4f90f485|mods/z-plusyolopack-configs/z-plusyolopack-configs-v0.0.1.zip
+fd1c7bf4289aab7661db852964ad9877|mods/z-plusmultipack-configs/z-plusmultipack-configs-v3.2.3.zip
+93246622744e480e67e64e9bc4b6bc6d|mods/z-plusyolopack-configs/z-plusyolopack-configs-v0.0.2.zip
+8afab345c72e6d24fc04a499f533555f|mods/PowerConverters-RPModule/PowerConverters-RPModule-v1.0.0.zip
