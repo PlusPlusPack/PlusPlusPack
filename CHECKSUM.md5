@@ -9,10 +9,10 @@ d41d8cd98f00b204e9800998ecf8427e|README.md
 0957630c9e9081806b7d7cb8873b9011|plusyolo/resources/favicon.png
 d5f6f1b7a33ce7a104740d9a6c289999|plusyolo/resources/icon.png
 c049cabede8fb10b8fc8d8487b0f5c05|plusyolo/resources/background.png
-c566b6afd3c02b7e2068bb56ebe7b753|modlibrary.yml
+77675099a2c885972c522e9e11e1d86c|modlibrary.yml
 7dc6e4a87b11e5e876b04e039ad6fb41|libraries.yml
 f275f512b84cdc38da503996bd150d64|minecraft.yml
-ab791ba9bdaf85a46b1e2c0e0c18cf4e|plusmultipack/modpack.yml
+cb92903a0dd6dc0345d54ef5ccd2c6c4|plusmultipack/modpack.yml
 a9590fc297a5cb4193450de0df0a32f7|plusmultipack/resources/logo.png
 4414ce7f3da117b613ab152a4bed33af|plusmultipack/resources/background.jpg
 401cc30df498940e8e559404d9ff88ab|plusmultipack/resources/favicon.png
@@ -503,3 +503,4 @@ a8412e6bed4f7d69213a75f079db5135|plusyolo/modpack.yml
 fd1c7bf4289aab7661db852964ad9877|mods/z-plusmultipack-configs/z-plusmultipack-configs-v3.2.3.zip
 93246622744e480e67e64e9bc4b6bc6d|mods/z-plusyolopack-configs/z-plusyolopack-configs-v0.0.2.zip
 8afab345c72e6d24fc04a499f533555f|mods/PowerConverters-RPModule/PowerConverters-RPModule-v1.0.0.zip
+691a67f0a31ee8513a295ba210b3f969|mods/basemods/basemods-plusmultipack-v3.3.0.zip

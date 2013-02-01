@@ -11,17 +11,16 @@ lib-1: &lib-1
     snakeyaml: 1.9
     trove4j: 3.0.1
 builds:
-    3.3.1:
+    3.3.2:
         libraries:
         minecraft: 1.4.7
         forge: 515
         mods:
-            basemods: plusmultipack-v3.2.0
+            basemods: plusmultipack-v3.3.0
             AdditionalPipes: v2.1.3u40
             AssemblyLine: v0.2.4.68
             AtomicScience: v0.3.4.135
             BetterAnvil: v1.4.6
-            BetterStorage: v0.4.2
             Buildcraft: v3.4.2
             cccable: v1.3.0
             CodeChickenCore: v0.7.0.2
@@ -50,7 +49,6 @@ builds:
             MekanismTools: v5.2.0
             MineChem: v2.0.0pr6.1
             MinefactoryReloaded: v2.0.8
-            MobAmputation: v1.4.6v1
             MobDismemberment: v1.4.6v1
             ModularForceFieldSystem: v2.2.8.3.6
             Mystcraft: v0.9.5.00
@@ -70,14 +68,12 @@ builds:
             RecipeRemover: v1.1-b
             RedPower: v2.0.6
             ReiMinimap: v3.2_06
-            RopePlus: v1.4.6
             RottenFlesh: v1.4.6
             SecretRooms: v4.4.1.158
             SoulShards: v1.26
             Thaumcraft: v3.0.2c
             ThaumicBees: v1.3.0b
             ThermalExpansion: v2.2.0
-            Traincraft: v3.1.13_030
             treecapitator: v1.4.6.r03
             Tubestuff: v52.1.3
             Twilightforest: v1.15.1
