@@ -17,6 +17,7 @@ mods:
             plusmultipack-v3.1.0:
             plusmultipack-v3.2.0:
             plusmultipack-v3.3.0:
+            plusmultipack-v3.3.1:
     treecapitator:
         installtype: "zip"
         versions:
