@@ -449,6 +449,7 @@ mods:
             v5.1.0:
             v5.2.0:
             v5.2.3:
+            v5.2.3b2:
     MekanismGenerators:
         installtype: "zip"
         versions:
@@ -463,6 +464,7 @@ mods:
             v5.1.0:
             v5.2.0:
             v5.2.3:
+            v5.2.3b2:
     MekanismTools:
         installtype: "zip"
         versions:
@@ -477,6 +479,7 @@ mods:
             v5.1.0:
             v5.2.0:
             v5.2.3:
+            v5.2.3b2:
     MetallurgyCore:
         installtype: "zip"
         versions:

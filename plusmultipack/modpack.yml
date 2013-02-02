@@ -1,7 +1,7 @@
 launcher: 0.5.0
-current: 3.3.4
+current: 3.3.5
 recommended: 3.1.12
-latest: 3.3.4
+latest: 3.3.5
 lib-1: &lib-1
     commons-io: 2.1
     commons-lang3: 3.1
@@ -11,7 +11,7 @@ lib-1: &lib-1
     snakeyaml: 1.9
     trove4j: 3.0.1
 builds:
-    3.3.4:
+    3.3.5:
         libraries:
         minecraft: 1.4.7
         forge: 518
@@ -44,9 +44,9 @@ builds:
             LightLevelOverlay: v0.9
             LogisticsPipes: v0.7.0.80
             MachineMuseModularPowerSuits: v0.2.0-42
-            Mekanism: v5.2.3
-            MekanismGenerators: v5.2.3
-            MekanismTools: v5.2.3
+            Mekanism: v5.2.3b2
+            MekanismGenerators: v5.2.3b2
+            MekanismTools: v5.2.3b2
             MineChem: v2.0.0pr6.1
             MinefactoryReloaded: v2.0.8
             MobDismemberment: v1.4.6v1

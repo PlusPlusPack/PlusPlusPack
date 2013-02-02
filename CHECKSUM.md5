@@ -11,10 +11,10 @@ a8412e6bed4f7d69213a75f079db5135|plusyolo/modpack.yml
 5b3e1dace7787a2e7c50e7a31da39c8f|plusyolo/resources/background.jpg
 0957630c9e9081806b7d7cb8873b9011|plusyolo/resources/favicon.png
 d5f6f1b7a33ce7a104740d9a6c289999|plusyolo/resources/icon.png
-d8601483de18e09bb05b32bb22ffd1d2|modlibrary.yml
+839233d051f389640bc7364d0c65616e|modlibrary.yml
 7dc6e4a87b11e5e876b04e039ad6fb41|libraries.yml
 f275f512b84cdc38da503996bd150d64|minecraft.yml
-3924c1c437cf9935c22ce028d479a3ba|plusmultipack/modpack.yml
+abad761a2f798a74c2638f83caad63a2|plusmultipack/modpack.yml
 a9590fc297a5cb4193450de0df0a32f7|plusmultipack/resources/logo.png
 5d8ac993d983dfdb338831a843fe1941|plusmultipack/resources/logo_180.png
 4414ce7f3da117b613ab152a4bed33af|plusmultipack/resources/background.jpg
@@ -516,3 +516,6 @@ b1372037c05e1ac2ef4b5e4a451b7adc|mods/z-atomicpack-configs/z-atomicpack-configs-
 dcb5ee98e3a2c57448381b29e7f93fbb|mods/z-atomicpack-configs/z-atomicpack-configs-v3.0.1.zip
 a4eafde61558530da8412fe4d26dc1ba|mods/z-atomicpack-configs/z-atomicpack-configs-v1.0.0.zip
 573f0896022dd1761e2fdefe6851d984|mods/z-atomicpack-configs/z-atomicpack-configs-v2.0.1.zip
+fdcde0659764b56c4e2602b3a693316d|mods/Mekanism/Mekanism-v5.2.3b2.zip
+ffa674587fc0b4710a397b5d1026f8d3|mods/MekanismGenerators/MekanismGenerators-v5.2.3b2.zip
+777ca6c6c6b643cd64257ad2a9555a15|mods/MekanismTools/MekanismTools-v5.2.3b2.zip
