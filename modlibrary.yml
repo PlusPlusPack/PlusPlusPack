@@ -72,6 +72,7 @@ mods:
         versions:
             v0.2.1.40:
             v0.2.4.68:
+            v0.2.5.69:
     AtomicScience:
         installtype: "zip"
         versions:
@@ -84,6 +85,7 @@ mods:
             v0.3.2.127:
             v0.3.3.130:
             v0.3.4.135:
+            v0.3.5.143:
     AuroraRubealis:
         installtype: "zip"
         versions:
@@ -305,6 +307,7 @@ mods:
             v1.7.0.3:
             v1.7.0.5:
             v2.0.0.3:
+            v2.0.0.5:
     GoluiUtils:
         installtype: "zip"
         versions:
@@ -340,6 +343,7 @@ mods:
             v1.0.1.123:
             v1.0.2.126:
             v1.0.3.130:
+            v1.0.4.135:
     ImmibisCore:
         installtype: "zip"
         versions:
@@ -374,6 +378,7 @@ mods:
             v4.5.4.217:
             v5.0.1.235:
             v5.0.1.241:
+            v5.0.1.242:
     JammyFurniture:
         installtype: "zip"
         versions:
@@ -443,6 +448,7 @@ mods:
             v5.0.11b:
             v5.1.0:
             v5.2.0:
+            v5.2.3:
     MekanismGenerators:
         installtype: "zip"
         versions:
@@ -456,6 +462,7 @@ mods:
             v5.0.11b:
             v5.1.0:
             v5.2.0:
+            v5.2.3:
     MekanismTools:
         installtype: "zip"
         versions:
@@ -469,6 +476,7 @@ mods:
             v5.0.11b:
             v5.1.0:
             v5.2.0:
+            v5.2.3:
     MetallurgyCore:
         installtype: "zip"
         versions:
@@ -675,6 +683,7 @@ mods:
             v6.12.2.0:
             v6.13.1.0:
             v6.14.0.0:
+            v6.15.1.0:
     RecipeRemover:
         installtype: "zip"
         versions:
@@ -736,6 +745,7 @@ mods:
             v3.0.1c:
             v3.0.2a:
             v3.0.2c:
+            v3.0.3:
     ThaumicBees:
         installtype: "zip"
         versions:
@@ -744,6 +754,7 @@ mods:
             v1.2.705-79:
             v1.3.0a:
             v1.3.0b:
+            v1.3.0c:
     ThermalExpansion:
         installtype: "zip"
         versions:
