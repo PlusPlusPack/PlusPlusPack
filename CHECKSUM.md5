@@ -11,10 +11,10 @@ a8412e6bed4f7d69213a75f079db5135|plusyolo/modpack.yml
 5b3e1dace7787a2e7c50e7a31da39c8f|plusyolo/resources/background.jpg
 0957630c9e9081806b7d7cb8873b9011|plusyolo/resources/favicon.png
 d5f6f1b7a33ce7a104740d9a6c289999|plusyolo/resources/icon.png
-b314079af43a1543c2e14a4e9e8c6533|modlibrary.yml
+6a288b576b744ff016c8ab54632134e9|modlibrary.yml
 7dc6e4a87b11e5e876b04e039ad6fb41|libraries.yml
 f275f512b84cdc38da503996bd150d64|minecraft.yml
-d39b9a96908fb35965a653b3e578b78d|plusmultipack/modpack.yml
+43571bdd23e3fccca4175058c49fde8f|plusmultipack/modpack.yml
 a9590fc297a5cb4193450de0df0a32f7|plusmultipack/resources/logo.png
 5d8ac993d983dfdb338831a843fe1941|plusmultipack/resources/logo_180.png
 4414ce7f3da117b613ab152a4bed33af|plusmultipack/resources/background.jpg
@@ -58,7 +58,7 @@ b5f31311c77858b7c96b909751d15ef8|pluspluspack/resources/logo_180.png
 4414ce7f3da117b613ab152a4bed33af|pluspluspack/resources/background.jpg
 401cc30df498940e8e559404d9ff88ab|pluspluspack/resources/favicon.png
 c5b8519aae94f41c43a01e8c298b6658|pluspluspack/resources/icon.png
-09ecede52eccf830a4b0da076d7fbf05|CHECKSUM.md5
+acb9b6ced33c9d2ea9289ac939acd86b|CHECKSUM.md5
 4ab730fc2f81c539ce42800f742a46e1|atomicpack/modpack.yml
 d1fa4b584ccccb7bb655d74961672e06|atomicpack/resources/logo.png
 8c6799ac8c40d9bf3f2d2200aabf1ba8|atomicpack/resources/background.jpg
@@ -95,6 +95,7 @@ ea3ea5a8059968836145615c49ca80f6|mods/z-plusmultipack-configs/z-plusmultipack-co
 5ecf19c10f7231661bef322da10c54bf|mods/z-plusmultipack-configs/z-plusmultipack-configs-v3.2.0.zip
 5560375f8a65a8722a854fb7f78f659d|mods/z-plusmultipack-configs/z-plusmultipack-configs-v3.2.2.zip
 8548c39307f2bb3f6c753eef3e9ad7cc|mods/z-plusmultipack-configs/z-plusmultipack-configs-RC2.2.10.zip
+db3726ec65fdc8faf6f9afe06bf6b4f2|mods/z-plusmultipack-configs/z-plusmultipack-configs-v3.3.0.zip
 fd1c7bf4289aab7661db852964ad9877|mods/z-plusmultipack-configs/z-plusmultipack-configs-v3.2.3.zip
 7d26e2faa20d65a0ca8f3354443f8a49|mods/z-plusmultipack-configs/z-plusmultipack-configs-v3.0.1.zip
 4cc04cba87a0be4bdf56443f717af789|mods/RecipeRemover/RecipeRemover-v1.1-b.zip
@@ -169,6 +170,7 @@ e360535ab77463de23b562f467e35eb0|mods/Gregtech/Gregtech-v1.4.6.zip
 e048ab05acf84b28235c5d36a59ec557|mods/Mekanism/Mekanism-v5.1.0.zip
 3390e35bb4bf314f1ea02d3940e08ff4|mods/Mekanism/Mekanism-v5.0.8b.zip
 05dfdb824d737c56ae7ece99064db9ee|mods/Mekanism/Mekanism-v5.2.3.zip
+fdcde0659764b56c4e2602b3a693316d|mods/Mekanism/Mekanism-v5.2.3b2.zip
 c90a82165a0159e6c1e2322ecedf4526|mods/Mekanism/Mekanism-PRb2v5.zip
 02379e5c1a21d6d663a7691d94d5a11c|mods/Mekanism/Mekanism-v5.0.1.zip
 82cb75195a8820ffe51eb87ab9c9acdf|mods/Mekanism/Mekanism-v5.0.9.zip
@@ -205,6 +207,7 @@ ad6c27d885e2b1444c8a1ce79e77efc7|mods/MekanismGenerators/MekanismGenerators-v5.0
 628fb3984b60cd68f4f596be6eacd484|mods/MekanismGenerators/MekanismGenerators-PRb2v5.zip
 902630b3181e252beb8de80559bed4bf|mods/MekanismGenerators/MekanismGenerators-v5.0.11b.zip
 151c4d1fae63efa2ef1d30a817c023ab|mods/MekanismGenerators/MekanismGenerators-v5.0.5.zip
+ffa674587fc0b4710a397b5d1026f8d3|mods/MekanismGenerators/MekanismGenerators-v5.2.3b2.zip
 9539cbd5269ce18a849ee8afdca422dc|mods/MekanismGenerators/MekanismGenerators-v5.0.8b.zip
 dabdb14b7802fc7d98084d75ebc32143|mods/z-plussigmapack-configs/z-plussigmapack-configs-v1.0.6.zip
 5eab05d30fd9ace53d9205775a2ae1d9|mods/z-plussigmapack-configs/z-plussigmapack-configs-v1.0.4.zip
@@ -216,6 +219,7 @@ a4c7be3d772f4967d9a9eeb6ff76f2da|mods/z-plussigmapack-configs/z-plussigmapack-co
 797122ced601d3d2a6ac20b52aa98366|mods/ProjectBench/ProjectBench-v1.6.zip
 6fe3cc508a2863b7577979d77e880629|mods/ChickenChunks/ChickenChunks-v1.2.1.1.zip
 74b1d9de4e7710db4d18e9e23bccd947|mods/MekanismTools/MekanismTools-v5.0.1.zip
+777ca6c6c6b643cd64257ad2a9555a15|mods/MekanismTools/MekanismTools-v5.2.3b2.zip
 f45f616aaa498744ca3d8ff3ddff0161|mods/MekanismTools/MekanismTools-v5.2.3.zip
 f62193c8ec2635986f5f441831675a4c|mods/MekanismTools/MekanismTools-v5.0.7.zip
 9af570b2861edffe4fcb6bbfbe1f07d9|mods/MekanismTools/MekanismTools-PRb2v5.zip
@@ -404,6 +408,7 @@ f4346e9a24ad7a23cfec7302ce5b637b|mods/AtomicScience/AtomicScience-v0.2.9.109.zip
 481040827a6d5212cee923d267a45045|mods/AtomicScience/AtomicScience-v0.3.2.127.zip
 470d925af9b79c4a9ba9b99f8bc58ca0|mods/AtomicScience/AtomicScience-v0.3.0.118.zip
 652486406f3ae853d4e439e368e7cf51|mods/AtomicScience/AtomicScience-v0.3.5.143.zip
+685394f9ae72872a832ac80c213be391|mods/AtomicScience/AtomicScience-v0.3.5.144.zip
 39f663416c94d75f4c37122c6d8d8a2d|mods/AtomicScience/AtomicScience-v0.3.0.121.zip
 4874979c6793ca0d9b00149bfde81ad9|mods/AtomicScience/AtomicScience-v0.3.0.122.zip
 530d153722c097e1e60f6eb52bde73da|mods/AtomicScience/AtomicScience-v0.3.4.135.zip
@@ -477,6 +482,7 @@ b77a7ce28e8c71576e4a4c9826c202fb|mods/ThaumicBees/ThaumicBees-v1.3.0a.zip
 a29a0dc5e71604806423604512332e5a|mods/PowerTools/PowerTools-v1.1.4.6.zip
 8f5a0aefe9ff58eab7e197bb857ea8dc|mods/AssemblyLine/AssemblyLine-v0.2.1.40.zip
 432f7159ff192ec026f2c9166c13ad3b|mods/AssemblyLine/AssemblyLine-v0.2.5.69.zip
+6cd6de42afd67374a1228c14f8faaca1|mods/AssemblyLine/AssemblyLine-v0.2.5.71.zip
 032ead330fae6fbeb0d0121395096a69|mods/AssemblyLine/AssemblyLine-v0.2.4.68.zip
 98db1d72f2f44e29c0a4863a6f184f2e|mods/LogisticsPipes/LogisticsPipes-v0.6.9.37.zip
 e0441f3c4fd709db2016e21c36b802da|mods/LogisticsPipes/LogisticsPipes-v0.6.9.73.zip
@@ -486,7 +492,6 @@ f783fdc7b696c93baa5be4e6f7ef9700|mods/LogisticsPipes/LogisticsPipes-v0.7.0.75.zi
 df154933b2e5fa0b4ed9ed544a2c648d|mods/LogisticsPipes/LogisticsPipes-v0.6.9.32.zip
 5ab7f874dd85bfe481285d25eb1f86b8|mods/LogisticsPipes/LogisticsPipes-v0.7.0.80.zip
 17810d9d0293f25374c6cb744a32c26d|mods/BetterAnvil/BetterAnvil-v1.4.6.zip
-d6a7d9b6b8eba144307d7ff1d40e3958|mods/BetterAnvil/BetterAnvil-1.0.0.rar
 107f9440d8ffa7b388e4a4287d3fa55f|mods/ImmibisPeripherals/ImmibisPeripherals-51.1.1.zip
 5ac2e5df8bf0d51637390232b5e669e2|mods/ImmibisPeripherals/ImmibisPeripherals-v52.0.8.zip
 11485d06d2aa64653e7a22d1a59f0922|mods/GraviSuite/GraviSuite-v1.6.zip
@@ -500,7 +505,6 @@ d734a9b4f610ed48f696ec71b18cc64a|mods/MineChem/MineChem-v2.0.0pr2.zip
 74f033f4cfc97c15d893808ce8c1308a|mods/ThermalExpansion/ThermalExpansion-v2.1.6.zip
 c99d6eb58e520a1e2350bba3adbfb2af|mods/ThermalExpansion/ThermalExpansion-v2.2.0.zip
 9722b7a576975dea24ea6dcd6f091d1b|mods/ThermalExpansion/ThermalExpansion-2.1.5.zip
-1d6d8873a141f0d40c4127e7d2a0fe4c|mods/JammyFurniture/JammyFurniture-4.1b2.rar
 5ea5cd2e543e54732c8838b139ec0f2a|mods/JammyFurniture/JammyFurniture-v4.0.zip
 364f09ea8820ca0b846e16ef25c7ae71|mods/JammyFurniture/JammyFurniture-v4.0-nosound.zip
 3f99ee544eaa5d0bad7fa2f114de4b1b|mods/pmcompat/pmcompat-v0.0.1.zip
@@ -516,7 +520,3 @@ b1372037c05e1ac2ef4b5e4a451b7adc|mods/z-atomicpack-configs/z-atomicpack-configs-
 dcb5ee98e3a2c57448381b29e7f93fbb|mods/z-atomicpack-configs/z-atomicpack-configs-v3.0.1.zip
 a4eafde61558530da8412fe4d26dc1ba|mods/z-atomicpack-configs/z-atomicpack-configs-v1.0.0.zip
 573f0896022dd1761e2fdefe6851d984|mods/z-atomicpack-configs/z-atomicpack-configs-v2.0.1.zip
-fdcde0659764b56c4e2602b3a693316d|mods/Mekanism/Mekanism-v5.2.3b2.zip
-ffa674587fc0b4710a397b5d1026f8d3|mods/MekanismGenerators/MekanismGenerators-v5.2.3b2.zip
-777ca6c6c6b643cd64257ad2a9555a15|mods/MekanismTools/MekanismTools-v5.2.3b2.zip
-db3726ec65fdc8faf6f9afe06bf6b4f2|mods/z-plusmultipack-configs/z-plusmultipack-configs-v3.3.0.zip
