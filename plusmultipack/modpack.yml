@@ -1,7 +1,7 @@
 launcher: 0.5.0
-current: 3.3.8
+current: 3.3.9
 recommended: 3.1.12
-latest: 3.3.8
+latest: 3.3.9
 lib-1: &lib-1
     commons-io: 2.1
     commons-lang3: 3.1
@@ -11,15 +11,15 @@ lib-1: &lib-1
     snakeyaml: 1.9
     trove4j: 3.0.1
 builds:
-    3.3.8:
+    3.3.9:
         libraries:
         minecraft: 1.4.7
         forge: 518
         mods:
             basemods: plusmultipack-v3.3.1
             AdditionalPipes: v2.1.3u40
-            AssemblyLine: v0.2.5.71
-            AtomicScience: v0.3.5.144
+            AssemblyLine: v0.2.5.72
+            AtomicScience: v0.3.5.147
             BetterAnvil: v1.4.6
             Buildcraft: v3.4.2
             cccable: v1.3.0
@@ -27,7 +27,7 @@ builds:
             ComputerCraft: v1.481
             CraftAndEnchant: v2.10
             DungeonPack: 1.4.7v1
-            ElectricExpansion: v1.3.9
+            ElectricExpansion: v1.4.1
             EnderStorage: v1.3.1.1
             EnhancedPortals: v1.4.2
             ExtraBees: v1.5.0.0-prerelease
@@ -48,7 +48,7 @@ builds:
             MekanismGenerators: v5.2.3b2
             MekanismTools: v5.2.3b2
             MineChem: v2.0.0pr6.1
-            MinefactoryReloaded: v2.0.8
+            MinefactoryReloaded: v2.1.0
             MobDismemberment: v1.4.6v1
             ModularForceFieldSystem: v2.2.8.3.6
             Mystcraft: v0.9.5.00
@@ -76,7 +76,7 @@ builds:
             treecapitator: v1.4.6.r03
             Tubestuff: v52.1.3
             Twilightforest: v1.15.1
-            UniversalElectricity: v1.2.4.335
+            UniversalElectricity: v1.2.5.337
             ValvePipes: v1.4.6
             Weaponmod: v1.10-3
             WeeeFlowers: v1.0b

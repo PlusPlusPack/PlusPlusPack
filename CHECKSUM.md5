@@ -11,10 +11,10 @@ a8412e6bed4f7d69213a75f079db5135|plusyolo/modpack.yml
 5b3e1dace7787a2e7c50e7a31da39c8f|plusyolo/resources/background.jpg
 0957630c9e9081806b7d7cb8873b9011|plusyolo/resources/favicon.png
 d5f6f1b7a33ce7a104740d9a6c289999|plusyolo/resources/icon.png
-6a288b576b744ff016c8ab54632134e9|modlibrary.yml
+4682eee692e7280609205453e5495e18|modlibrary.yml
 7dc6e4a87b11e5e876b04e039ad6fb41|libraries.yml
 f275f512b84cdc38da503996bd150d64|minecraft.yml
-6cf309e5130fcee26787c56f64d016a0|plusmultipack/modpack.yml
+3b28234c9e5a6e3c243686b97017611d|plusmultipack/modpack.yml
 a9590fc297a5cb4193450de0df0a32f7|plusmultipack/resources/logo.png
 5d8ac993d983dfdb338831a843fe1941|plusmultipack/resources/logo_180.png
 4414ce7f3da117b613ab152a4bed33af|plusmultipack/resources/background.jpg
@@ -58,7 +58,7 @@ b5f31311c77858b7c96b909751d15ef8|pluspluspack/resources/logo_180.png
 4414ce7f3da117b613ab152a4bed33af|pluspluspack/resources/background.jpg
 401cc30df498940e8e559404d9ff88ab|pluspluspack/resources/favicon.png
 c5b8519aae94f41c43a01e8c298b6658|pluspluspack/resources/icon.png
-7f29a0a2f602c493fbe77a983a4b9222|CHECKSUM.md5
+342556986ebfc57edab86eef3d7532ec|CHECKSUM.md5
 4ab730fc2f81c539ce42800f742a46e1|atomicpack/modpack.yml
 d1fa4b584ccccb7bb655d74961672e06|atomicpack/resources/logo.png
 7074f8760863367c9e90d1dfd87a1b36|atomicpack/resources/logo_180.png
@@ -340,6 +340,7 @@ d4c1b9e33df080ec2569a0f81066b45b|mods/WR-CBE/WR-CBE-v1.3.2.zip
 1a7f4a627198ead5b6b96246dc9e7af1|mods/WR-CBE/WR-CBE-v1.3.2.4.zip
 cb7147c84098bdb916029cde2c1f5211|mods/MinefactoryReloaded/MinefactoryReloaded-v2.0.7.zip
 d51108e63d9698273ed1915537e21454|mods/MinefactoryReloaded/MinefactoryReloaded-v2.0.4.zip
+a79c906401f6825d53ff6505d08ddff8|mods/MinefactoryReloaded/MinefactoryReloaded-v2.1.0.zip
 40147dc2872410a16007fbda69ac0890|mods/MinefactoryReloaded/MinefactoryReloaded-v2.0.8.zip
 54397772aeee37e0d2e85f66126f2325|mods/MinefactoryReloaded/MinefactoryReloaded-v2.0.3.zip
 0e687ff4065088c7097b8be5f5788500|mods/MinefactoryReloaded/MinefactoryReloaded-1.4.4.zip
@@ -357,6 +358,7 @@ f130e66258b94b876df10029145298f5|mods/ExtraBees/ExtraBees-v1.4.9.31-prerelease.z
 9ff021d3a0f65056eb1c02a451721f63|mods/ExtraBees/ExtraBees-v1.4.9.6-prerelease.zip
 609290ac81e3c08b572d5d56ca682ac3|mods/ElectricExpansion/ElectricExpansion-v1.2.7.zip
 cdc6ad14a974888ad42c35a4af4b61e3|mods/ElectricExpansion/ElectricExpansion-v1.0.4.zip
+a8f825ddc7dba03881f0e4dfb218d492|mods/ElectricExpansion/ElectricExpansion-v1.4.1.zip
 0085be51c017ccb902c0376618bf79af|mods/ElectricExpansion/ElectricExpansion-v1.3.2.zip
 f1d8e4e8025445c06e76ce1364171ab9|mods/ElectricExpansion/ElectricExpansion-v1.0.5.zip
 436b237e8581c4d92185076e61ba6a67|mods/ElectricExpansion/ElectricExpansion-v1.1.1.zip
@@ -415,6 +417,7 @@ f4346e9a24ad7a23cfec7302ce5b637b|mods/AtomicScience/AtomicScience-v0.2.9.109.zip
 530d153722c097e1e60f6eb52bde73da|mods/AtomicScience/AtomicScience-v0.3.4.135.zip
 eee3744a37275af447c474578fb93c65|mods/AtomicScience/AtomicScience-v0.3.3.130.zip
 c02213a053a194a4603c352151338ed7|mods/AtomicScience/AtomicScience-v0.3.1.123.zip
+390644e12535fd62231b8e90b40c349a|mods/AtomicScience/AtomicScience-v0.3.7.147.zip
 393c8b1fbd1803290d4ad06d5b543ba8|mods/AtomicScience/AtomicScience-0.2.8.105.zip
 3c7da6140b4780a07ecd4aeb4a752713|mods/PowerCrystalsCore/PowerCrystalsCore-v1.0.0.zip
 18ba55cf1b0618134c1ee4b05ee8c556|mods/PowerCrystalsCore/PowerCrystalsCore-v1.0.1.zip
@@ -434,6 +437,7 @@ a0c91d94e1e2c22def32ee02a48d1474|mods/UniversalElectricity/UniversalElectricity-
 d19aad5c84bbc13a1f00e6c8bdde549c|mods/UniversalElectricity/UniversalElectricity-v1.2.1.318.zip
 9fc1e0ae0cbf7355976409c20252974d|mods/UniversalElectricity/UniversalElectricity-v1.2.4.335.zip
 5a3eb23e6366793f49b559dee1114f38|mods/UniversalElectricity/UniversalElectricity-v1.2.1.317.zip
+729eaf43466c4543bb2f40c3ace2a485|mods/UniversalElectricity/UniversalElectricity-v1.2.5.337.zip
 b7ec892e0c4052e8e123f488da3c5a7e|mods/UniversalElectricity/UniversalElectricity-v1.2.1.315.zip
 2b32276eca39181000b6bf669152d087|mods/UniversalElectricity/UniversalElectricity-v1.2.1.314.zip
 92297a2060b3600b305d9ecfce52dbc6|mods/SoulShards/SoulShards-v1.21.zip
@@ -483,6 +487,7 @@ b77a7ce28e8c71576e4a4c9826c202fb|mods/ThaumicBees/ThaumicBees-v1.3.0a.zip
 a29a0dc5e71604806423604512332e5a|mods/PowerTools/PowerTools-v1.1.4.6.zip
 8f5a0aefe9ff58eab7e197bb857ea8dc|mods/AssemblyLine/AssemblyLine-v0.2.1.40.zip
 432f7159ff192ec026f2c9166c13ad3b|mods/AssemblyLine/AssemblyLine-v0.2.5.69.zip
+36f543aba6121b035eb7ff4f2dcbfe19|mods/AssemblyLine/AssemblyLine-v0.2.5.72.zip
 6cd6de42afd67374a1228c14f8faaca1|mods/AssemblyLine/AssemblyLine-v0.2.5.71.zip
 032ead330fae6fbeb0d0121395096a69|mods/AssemblyLine/AssemblyLine-v0.2.4.68.zip
 98db1d72f2f44e29c0a4863a6f184f2e|mods/LogisticsPipes/LogisticsPipes-v0.6.9.37.zip
