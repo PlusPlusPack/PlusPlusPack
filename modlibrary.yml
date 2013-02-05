@@ -693,6 +693,7 @@ mods:
             v6.13.1.0:
             v6.14.0.0:
             v6.15.1.0:
+            v6.15.2.0:
     RecipeRemover:
         installtype: "zip"
         versions:
@@ -870,6 +871,7 @@ mods:
             v3.2.2:
             v3.2.3:
             v3.3.0:
+            v3.3.1:
     z-pluspluspack-configs:
         installtype: "zip"
         versions:
