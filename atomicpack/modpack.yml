@@ -53,7 +53,7 @@ builds:
             StevesCarts: v2.0.0.a41
             Thaumcraft: v3.0.1c
             ThermalExpansion: v2.1.6
-            ThermalExpansionNEI: v2.1.6
+            NEIThermalExpansion: v2.1.6
             Traincraft: v3.1.13_010
             treecapitator: v1.4.6.r01
             Twilightforest: v1.14.0
@@ -98,7 +98,7 @@ builds:
             StevesCarts: v2.0.0.a41
             Thaumcraft: v3.0.1c
             ThermalExpansion: v2.1.6
-            ThermalExpansionNEI: v2.1.6
+            NEIThermalExpansion: v2.1.6
             Traincraft: v3.1.13_010
             treecapitator: v1.4.6.r01
             Twilightforest: v1.14.0
@@ -142,7 +142,7 @@ builds:
             StevesCarts: v2.0.0.a41
             Thaumcraft: v3.0.1c
             ThermalExpansion: v2.1.6
-            ThermalExpansionNEI: v2.1.6
+            NEIThermalExpansion: v2.1.6
             Traincraft: v3.1.13_010
             treecapitator: v1.4.6.r01
             Twilightforest: v1.14.0
@@ -186,7 +186,7 @@ builds:
             StevesCarts: v2.0.0.a41
             Thaumcraft: v3.0.1c
             ThermalExpansion: v2.1.6
-            ThermalExpansionNEI: v2.1.6
+            NEIThermalExpansion: v2.1.6
             Traincraft: v3.1.13_010
             treecapitator: v1.4.6.r01
             Twilightforest: v1.14.0
@@ -230,7 +230,7 @@ builds:
             StevesCarts: v2.0.0.a41
             Thaumcraft: v3.0.1c
             ThermalExpansion: v2.1.6
-            ThermalExpansionNEI: v2.1.6
+            NEIThermalExpansion: v2.1.6
             Traincraft: v3.1.13_010
             treecapitator: v1.4.6.r01
             Twilightforest: v1.14.0
@@ -273,7 +273,7 @@ builds:
             StevesCarts: v2.0.0.a41
             Thaumcraft: v3.0.1c
             ThermalExpansion: v2.1.6
-            ThermalExpansionNEI: v2.1.6
+            NEIThermalExpansion: v2.1.6
             Traincraft: v3.1.13_010
             treecapitator: v1.4.6.r01
             Twilightforest: v1.14.0
@@ -316,7 +316,7 @@ builds:
             StevesCarts: v2.0.0.a41
             Thaumcraft: v3.0.1c
             ThermalExpansion: v2.1.6
-            ThermalExpansionNEI: v2.1.6
+            NEIThermalExpansion: v2.1.6
             treecapitator: v1.4.6.r01
             Twilightforest: v1.14.0
             WR-CBE: v1.3.2.4
@@ -357,7 +357,7 @@ builds:
             StevesCarts: v2.0.0.a41
             Thaumcraft: v3.0.1c
             ThermalExpansion: v2.1.6
-            ThermalExpansionNEI: v2.1.6
+            NEIThermalExpansion: v2.1.6
             treecapitator: v1.4.6.r01
             Twilightforest: v1.14.0
             WR-CBE: v1.3.2.4
@@ -397,7 +397,7 @@ builds:
             StevesCarts: v2.0.0.a41
             Thaumcraft: v3.0.1c
             ThermalExpansion: v2.1.6
-            ThermalExpansionNEI: v2.1.6
+            NEIThermalExpansion: v2.1.6
             treecapitator: v1.4.6.r01
             WR-CBE: v1.3.2.4
             xycraft: v0.9.44
@@ -436,7 +436,7 @@ builds:
             StevesCarts: v2.0.0.a41
             Thaumcraft: v3.0.1c
             ThermalExpansion: v2.1.6
-            ThermalExpansionNEI: v2.1.6
+            NEIThermalExpansion: v2.1.6
             treecapitator: v1.4.6.r01
             WR-CBE: v1.3.2.4
             xycraft: v0.9.44
